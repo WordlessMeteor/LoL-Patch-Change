@@ -1,0 +1,1516 @@
+{
+    "id": 90,
+    "name": "虚空先知",
+    "alias": "Malzahar",
+    "title": "玛尔扎哈",
+    "shortBio": "玛尔扎哈是一名狂热的先知，将自己的全部奉献给一切生命的大一统。他坚信，近来新出现的虚空就是符文之地的救赎。在恕瑞玛的沙漠荒原上，他曾一度追随着脑海中的窃窃私语，一路来到古艾卡西亚。在这片废墟中，他窥见了虚空深处的黑暗核心，被赋予了新的力量和目标。玛尔扎哈现在视自己为迷途羔羊的牧人，将其他人带进畜栏，或是放出藏身地下的虚灵生物。",
+    "tacticalInfo": {
+        "style": 10,
+        "difficulty": 1,
+        "damageType": "kMagic"
+    },
+    "playstyleInfo": {
+        "damage": 3,
+        "durability": 1,
+        "crowdControl": 3,
+        "mobility": 1,
+        "utility": 2
+    },
+    "squarePortraitPath": "/lol-game-data/assets/v1/champion-icons/90.png",
+    "stingerSfxPath": "/lol-game-data/assets/v1/champion-sfx-audios/90.ogg",
+    "chooseVoPath": "/lol-game-data/assets/v1/champion-choose-vo/90.ogg",
+    "banVoPath": "/lol-game-data/assets/v1/champion-ban-vo/90.ogg",
+    "roles": [
+        "mage"
+    ],
+    "recommendedItemDefaults": [],
+    "skins": [
+        {
+            "id": 90000,
+            "isBase": true,
+            "name": "虚空先知",
+            "splashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Base/Images/malzahar_splash_centered_0.jpg",
+            "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Base/Images/malzahar_splash_uncentered_0.jpg",
+            "tilePath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Base/Images/malzahar_splash_tile_0.jpg",
+            "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Base/MalzaharLoadscreen.jpg",
+            "skinType": "",
+            "rarity": "kNoRarity",
+            "isLegacy": false,
+            "splashVideoPath": null,
+            "collectionSplashVideoPath": null,
+            "collectionCardHoverVideoPath": null,
+            "featuresText": null,
+            "chromaPath": null,
+            "emblems": null,
+            "regionRarityId": 0,
+            "rarityGemPath": null,
+            "skinLines": null,
+            "description": null
+        },
+        {
+            "id": 90001,
+            "isBase": false,
+            "name": "元老议会 玛尔扎哈",
+            "splashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin01/Images/malzahar_splash_centered_1.jpg",
+            "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin01/Images/malzahar_splash_uncentered_1.jpg",
+            "tilePath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin01/Images/malzahar_splash_tile_1.jpg",
+            "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin01/MalzaharLoadScreen_1.jpg",
+            "skinType": "",
+            "rarity": "kNoRarity",
+            "isLegacy": true,
+            "splashVideoPath": null,
+            "collectionSplashVideoPath": null,
+            "collectionCardHoverVideoPath": null,
+            "featuresText": null,
+            "chromaPath": null,
+            "emblems": [
+                {
+                    "name": "Vision of Explorer",
+                    "emblemPath": {
+                        "large": "/lol-game-data/assets/v1/emblem-images/27.png",
+                        "small": "/lol-game-data/assets/v1/emblem-images/27.png"
+                    },
+                    "positions": {}
+                }
+            ],
+            "regionRarityId": 7,
+            "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+            "skinLines": [
+                {
+                    "id": 99
+                }
+            ],
+            "description": null
+        },
+        {
+            "id": 90002,
+            "isBase": false,
+            "name": "暗影王子 玛尔扎哈",
+            "splashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin02/Images/malzahar_splash_centered_2.jpg",
+            "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin02/Images/malzahar_splash_uncentered_2.jpg",
+            "tilePath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin02/Images/malzahar_splash_tile_2.jpg",
+            "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin02/MalzaharLoadScreen_2.jpg",
+            "skinType": "",
+            "rarity": "kNoRarity",
+            "isLegacy": false,
+            "splashVideoPath": null,
+            "collectionSplashVideoPath": null,
+            "collectionCardHoverVideoPath": null,
+            "featuresText": null,
+            "chromaPath": null,
+            "emblems": null,
+            "regionRarityId": 0,
+            "rarityGemPath": null,
+            "skinLines": [
+                {
+                    "id": 167
+                }
+            ],
+            "description": null
+        },
+        {
+            "id": 90003,
+            "isBase": false,
+            "name": "魔灵 玛尔扎哈",
+            "splashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin03/Images/malzahar_splash_centered_3.jpg",
+            "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin03/Images/malzahar_splash_uncentered_3.jpg",
+            "tilePath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin03/Images/malzahar_splash_tile_3.jpg",
+            "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin03/MalzaharLoadScreen_3.jpg",
+            "skinType": "",
+            "rarity": "kNoRarity",
+            "isLegacy": false,
+            "splashVideoPath": null,
+            "collectionSplashVideoPath": null,
+            "collectionCardHoverVideoPath": null,
+            "featuresText": null,
+            "chromaPath": null,
+            "emblems": null,
+            "regionRarityId": 0,
+            "rarityGemPath": null,
+            "skinLines": [
+                {
+                    "id": 72
+                }
+            ],
+            "description": "人们对灯神魔灵知之甚少，错误的信息导致许多人前往探寻世界上黑暗、荒凉的角落，希望能找到一位灯神魔灵来实现他们最疯狂的愿望。事与愿违，他们发现自己受到了一种既非善恶又具有占据力的强大灵体的摆布。"
+        },
+        {
+            "id": 90004,
+            "isBase": false,
+            "name": "至高君王 玛尔扎哈",
+            "splashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin04/Images/malzahar_splash_centered_4.jpg",
+            "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin04/Images/malzahar_splash_uncentered_4.jpg",
+            "tilePath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin04/Images/malzahar_splash_tile_4.jpg",
+            "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin04/MalzaharLoadScreen_4.jpg",
+            "skinType": "",
+            "rarity": "kNoRarity",
+            "isLegacy": false,
+            "splashVideoPath": null,
+            "collectionSplashVideoPath": null,
+            "collectionCardHoverVideoPath": null,
+            "featuresText": null,
+            "chromaPath": null,
+            "emblems": [
+                {
+                    "name": "Epic",
+                    "emblemPath": {
+                        "large": "/lol-game-data/assets/v1/emblem-images/29.png",
+                        "small": "/lol-game-data/assets/v1/emblem-images/29.png"
+                    },
+                    "positions": {}
+                }
+            ],
+            "regionRarityId": 4,
+            "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/4_large.png",
+            "skinLines": [
+                {
+                    "id": 101
+                }
+            ],
+            "description": null
+        },
+        {
+            "id": 90005,
+            "isBase": false,
+            "name": "冰雪节 玛尔扎哈",
+            "splashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin05/Images/malzahar_splash_centered_5.jpg",
+            "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin05/Images/malzahar_splash_uncentered_5.jpg",
+            "tilePath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin05/Images/malzahar_splash_tile_5.jpg",
+            "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin05/MalzaharLoadScreen_5.jpg",
+            "skinType": "",
+            "rarity": "kNoRarity",
+            "isLegacy": true,
+            "splashVideoPath": null,
+            "collectionSplashVideoPath": null,
+            "collectionCardHoverVideoPath": null,
+            "featuresText": null,
+            "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90005.png",
+            "chromas": [
+                {
+                    "id": 90008,
+                    "name": "冰雪节 玛尔扎哈 炫金",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90008.png",
+                    "colors": [
+                        "#FFC948",
+                        "#FFC948"
+                    ],
+                    "descriptions": [
+                        {
+                            "region": "riot",
+                            "description": "   "
+                        }
+                    ],
+                    "rarities": [
+                        {
+                            "region": "riot",
+                            "rarity": 2
+                        }
+                    ]
+                }
+            ],
+            "emblems": [
+                {
+                    "name": "Snowdown",
+                    "emblemPath": {
+                        "large": "/lol-game-data/assets/v1/emblem-images/9.png",
+                        "small": "/lol-game-data/assets/v1/emblem-images/9.png"
+                    },
+                    "positions": {}
+                }
+            ],
+            "regionRarityId": 7,
+            "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/7_large.png",
+            "skinLines": [
+                {
+                    "id": 46
+                }
+            ],
+            "description": "末日的先知和其他人一样喜欢下雪——或许更加喜欢，因为玛尔扎哈知道有一天一切都会被虚空吞噬。穿着时髦冬装的他身旁跟着虚灵魄罗大军，他已准备好引来冰雪的灾难末日。"
+        },
+        {
+            "id": 90006,
+            "isBase": false,
+            "name": "战场BOSS 玛尔扎哈",
+            "splashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin06/Images/malzahar_splash_centered_6.jpg",
+            "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin06/Images/malzahar_splash_uncentered_6.jpg",
+            "tilePath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin06/Images/malzahar_splash_tile_6.jpg",
+            "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin06/MalzaharLoadscreen_6.jpg",
+            "skinType": "",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "splashVideoPath": null,
+            "collectionSplashVideoPath": null,
+            "collectionCardHoverVideoPath": null,
+            "featuresText": null,
+            "chromaPath": null,
+            "emblems": null,
+            "regionRarityId": 0,
+            "rarityGemPath": null,
+            "skinLines": [
+                {
+                    "id": 11
+                }
+            ],
+            "description": "作为一个来自老旧游戏柜的Boss，玛尔扎哈已经摆脱了控制自己的游戏而入侵了附近一台设备。现在他进入了街机世界，使用智能电脑病毒感染了所有敌人的源代码。"
+        },
+        {
+            "id": 90007,
+            "isBase": false,
+            "name": "海克斯科技 玛尔扎哈",
+            "splashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin07/Images/malzahar_splash_centered_7.jpg",
+            "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin07/Images/malzahar_splash_uncentered_7.jpg",
+            "tilePath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin07/Images/malzahar_splash_tile_7.jpg",
+            "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin07/MalzaharLoadScreen_7.jpg",
+            "skinType": "",
+            "rarity": "kMythic",
+            "isLegacy": false,
+            "splashVideoPath": null,
+            "collectionSplashVideoPath": null,
+            "collectionCardHoverVideoPath": null,
+            "featuresText": null,
+            "chromaPath": null,
+            "emblems": [
+                {
+                    "name": "Hextech Limited",
+                    "emblemPath": {
+                        "large": "/lol-game-data/assets/v1/emblem-images/43.png",
+                        "small": "/lol-game-data/assets/v1/emblem-images/43.png"
+                    },
+                    "positions": {}
+                }
+            ],
+            "regionRarityId": 8,
+            "rarityGemPath": "/lol-game-data/assets/v1/rarity-gem-icons/8_large.png",
+            "skinLines": [
+                {
+                    "id": 40
+                }
+            ],
+            "description": "在听说海克斯科技的起源就在自己的家乡恕瑞玛之后，玛尔扎哈独自冒险进入了废土之中。﻿在承受了改变他一生的启示之后，玛尔扎哈成为了最伟大的信使，宣称他看到了海克斯科技第二次复兴的预言"
+        },
+        {
+            "id": 90009,
+            "isBase": false,
+            "name": "创世之神 玛尔扎哈",
+            "splashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin09/Images/malzahar_splash_centered_9.jpg",
+            "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin09/Images/malzahar_splash_uncentered_9.jpg",
+            "tilePath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin09/Images/malzahar_splash_tile_9.jpg",
+            "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin09/MalzaharLoadScreen_9.jpg",
+            "skinType": "",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "splashVideoPath": null,
+            "collectionSplashVideoPath": null,
+            "collectionCardHoverVideoPath": null,
+            "featuresText": null,
+            "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90009.png",
+            "chromas": [
+                {
+                    "id": 90010,
+                    "name": "创世之神 玛尔扎哈 温暖之焰",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90010.png",
+                    "colors": [
+                        "#D33528",
+                        "#D33528"
+                    ],
+                    "descriptions": [
+                        {
+                            "region": "riot",
+                            "description": "这个炫彩曾在2020期间作为礼包专属来发布。"
+                        }
+                    ],
+                    "rarities": [
+                        {
+                            "region": "riot",
+                            "rarity": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 90011,
+                    "name": "创世之神 玛尔扎哈 振奋之石",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90011.png",
+                    "colors": [
+                        "#27211C",
+                        "#27211C"
+                    ],
+                    "descriptions": [],
+                    "rarities": []
+                },
+                {
+                    "id": 90012,
+                    "name": "创世之神 玛尔扎哈 丰收之风",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90012.png",
+                    "colors": [
+                        "#DF9117",
+                        "#DF9117"
+                    ],
+                    "descriptions": [],
+                    "rarities": []
+                },
+                {
+                    "id": 90013,
+                    "name": "创世之神 玛尔扎哈 诞生之土",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90013.png",
+                    "colors": [
+                        "#DED6B0",
+                        "#DED6B0"
+                    ],
+                    "descriptions": [],
+                    "rarities": []
+                },
+                {
+                    "id": 90014,
+                    "name": "创世之神 玛尔扎哈 吉祥之兆",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90014.png",
+                    "colors": [
+                        "#73BFBE",
+                        "#73BFBE"
+                    ],
+                    "descriptions": [],
+                    "rarities": []
+                },
+                {
+                    "id": 90015,
+                    "name": "创世之神 玛尔扎哈 虔诚之心",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90015.png",
+                    "colors": [
+                        "#9C68D7",
+                        "#9C68D7"
+                    ],
+                    "descriptions": [],
+                    "rarities": []
+                },
+                {
+                    "id": 90016,
+                    "name": "创世之神 玛尔扎哈 复苏之雨",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90016.png",
+                    "colors": [
+                        "#2DA130",
+                        "#2DA130"
+                    ],
+                    "descriptions": [],
+                    "rarities": []
+                },
+                {
+                    "id": 90017,
+                    "name": "创世之神 玛尔扎哈 温情之霞",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90017.png",
+                    "colors": [
+                        "#E58BA5",
+                        "#E58BA5"
+                    ],
+                    "descriptions": [],
+                    "rarities": []
+                }
+            ],
+            "emblems": null,
+            "regionRarityId": 0,
+            "rarityGemPath": null,
+            "skinLines": [
+                {
+                    "id": 29
+                }
+            ],
+            "description": null
+        },
+        {
+            "id": 90018,
+            "isBase": false,
+            "name": "小蜜蜂 玛尔扎哈",
+            "splashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin18/Images/malzahar_splash_centered_18.jpg",
+            "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin18/Images/malzahar_splash_uncentered_18.jpg",
+            "tilePath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin18/Images/malzahar_splash_tile_18.jpg",
+            "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin18/MalzaharLoadScreen_18.jpg",
+            "skinType": "",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "splashVideoPath": null,
+            "collectionSplashVideoPath": null,
+            "collectionCardHoverVideoPath": null,
+            "featuresText": null,
+            "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90018.png",
+            "chromas": [
+                {
+                    "id": 90019,
+                    "name": "元气满满七星瓢 玛尔扎哈",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90019.png",
+                    "colors": [
+                        "#D33528",
+                        "#D33528"
+                    ],
+                    "descriptions": [
+                        {
+                            "region": "riot",
+                            "description": "这个炫彩曾在2021年期间作为礼包专属发布。"
+                        }
+                    ],
+                    "rarities": [
+                        {
+                            "region": "riot",
+                            "rarity": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 90020,
+                    "name": "春意盎然小青青 玛尔扎哈",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90020.png",
+                    "colors": [
+                        "#2DA130",
+                        "#2DA130"
+                    ],
+                    "descriptions": [
+                        {
+                            "region": "riot",
+                            "description": " "
+                        }
+                    ],
+                    "rarities": [
+                        {
+                            "region": "riot",
+                            "rarity": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 90021,
+                    "name": "冷若冰霜小深蓝 玛尔扎哈",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90021.png",
+                    "colors": [
+                        "#2756CE",
+                        "#2756CE"
+                    ],
+                    "descriptions": [],
+                    "rarities": []
+                },
+                {
+                    "id": 90022,
+                    "name": "笑意盈盈紫蜂皇 玛尔扎哈",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90022.png",
+                    "colors": [
+                        "#9C68D7",
+                        "#9C68D7"
+                    ],
+                    "descriptions": [],
+                    "rarities": []
+                },
+                {
+                    "id": 90023,
+                    "name": "可爱可爱粉红红 玛尔扎哈",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90023.png",
+                    "colors": [
+                        "#E58BA5",
+                        "#E58BA5"
+                    ],
+                    "descriptions": [],
+                    "rarities": [
+                        {
+                            "region": "TENCENT",
+                            "rarity": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 90024,
+                    "name": "野心勃勃特工蝇 玛尔扎哈",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90024.png",
+                    "colors": [
+                        "#27211C",
+                        "#27211C"
+                    ],
+                    "descriptions": [],
+                    "rarities": []
+                },
+                {
+                    "id": 90025,
+                    "name": "英姿飒爽小潇洒 玛尔扎哈",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90025.png",
+                    "colors": [
+                        "#DED6B0",
+                        "#DED6B0"
+                    ],
+                    "descriptions": [],
+                    "rarities": []
+                },
+                {
+                    "id": 90026,
+                    "name": "五彩缤纷小可爱 玛尔扎哈",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90026.png",
+                    "colors": [
+                        "#C1F2FF",
+                        "#C1F2FF"
+                    ],
+                    "descriptions": [],
+                    "rarities": []
+                },
+                {
+                    "id": 90027,
+                    "name": "浓情蜜意小甜甜 玛尔扎哈",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90027.png",
+                    "colors": [
+                        "#DF9117",
+                        "#DF9117"
+                    ],
+                    "descriptions": [],
+                    "rarities": []
+                }
+            ],
+            "emblems": null,
+            "regionRarityId": 0,
+            "rarityGemPath": null,
+            "skinLines": [
+                {
+                    "id": 143
+                }
+            ],
+            "description": "敞开你的心扉，然后信蜂。"
+        },
+        {
+            "id": 90028,
+            "isBase": false,
+            "name": "虚空执事 玛尔扎哈",
+            "splashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin28/Images/malzahar_splash_centered_28.jpg",
+            "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin28/Images/malzahar_splash_uncentered_28.jpg",
+            "tilePath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin28/Images/malzahar_splash_tile_28.jpg",
+            "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin28/MalzaharLoadScreen_28.jpg",
+            "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin28/MalzaharLoadscreen_28_LE.jpg",
+            "skinType": "",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "splashVideoPath": null,
+            "collectionSplashVideoPath": null,
+            "collectionCardHoverVideoPath": null,
+            "featuresText": null,
+            "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90028.png",
+            "chromas": [
+                {
+                    "id": 90029,
+                    "name": "虚空执事 玛尔扎哈 红莲",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90029.png",
+                    "colors": [
+                        "#D33528",
+                        "#D33528"
+                    ],
+                    "descriptions": [
+                        {
+                            "region": "riot",
+                            "description": "这个炫彩曾在2021年期间作为礼包专属发布。"
+                        }
+                    ],
+                    "rarities": [
+                        {
+                            "region": "riot",
+                            "rarity": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 90030,
+                    "name": "虚空执事 玛尔扎哈 流金",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90030.png",
+                    "colors": [
+                        "#DF9117",
+                        "#DF9117"
+                    ],
+                    "descriptions": [],
+                    "rarities": []
+                },
+                {
+                    "id": 90031,
+                    "name": "虚空执事 玛尔扎哈 幻魅",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90031.png",
+                    "colors": [
+                        "#E58BA5",
+                        "#E58BA5"
+                    ],
+                    "descriptions": [],
+                    "rarities": [
+                        {
+                            "region": "TENCENT",
+                            "rarity": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 90032,
+                    "name": "虚空执事 玛尔扎哈 青木",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90032.png",
+                    "colors": [
+                        "#2DA130",
+                        "#2DA130"
+                    ],
+                    "descriptions": [],
+                    "rarities": []
+                },
+                {
+                    "id": 90033,
+                    "name": "虚空执事 玛尔扎哈 蓝霜",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90033.png",
+                    "colors": [
+                        "#2756CE",
+                        "#2756CE"
+                    ],
+                    "descriptions": [],
+                    "rarities": []
+                },
+                {
+                    "id": 90034,
+                    "name": "虚空执事 玛尔扎哈 紫电",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90034.png",
+                    "colors": [
+                        "#54209B",
+                        "#54209B"
+                    ],
+                    "descriptions": [],
+                    "rarities": []
+                },
+                {
+                    "id": 90035,
+                    "name": "虚空执事 玛尔扎哈 墨玉",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90035.png",
+                    "colors": [
+                        "#73BFBE",
+                        "#73BFBE"
+                    ],
+                    "descriptions": [],
+                    "rarities": []
+                },
+                {
+                    "id": 90036,
+                    "name": "虚空执事 玛尔扎哈 黑曜",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90036.png",
+                    "colors": [
+                        "#27211C",
+                        "#27211C"
+                    ],
+                    "descriptions": [],
+                    "rarities": []
+                },
+                {
+                    "id": 90037,
+                    "name": "虚空执事 玛尔扎哈 碧空",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90037.png",
+                    "colors": [
+                        "#42A7CC",
+                        "#FFFFFF"
+                    ],
+                    "descriptions": [
+                        {
+                            "region": "riot",
+                            "description": "这个炫彩曾在执事(2021)事件期间作为战利品专属发布。"
+                        }
+                    ],
+                    "rarities": [
+                        {
+                            "region": "riot",
+                            "rarity": 1
+                        }
+                    ]
+                }
+            ],
+            "emblems": null,
+            "regionRarityId": 0,
+            "rarityGemPath": null,
+            "skinLines": [
+                {
+                    "id": 23
+                }
+            ],
+            "description": "玛尔扎哈是乐芙兰在地下都市那段时光的一名合伙人，现在凭借自己的力量成为了一名推行者和撼动者。虽然这两条路有时会相交，但玛尔扎哈有某些……外部利益需要考虑，而那些商业伙伴们对他的承诺超出了任何凡人的梦想。"
+        },
+        {
+            "id": 90038,
+            "isBase": false,
+            "name": "荣誉使者 玛尔扎哈",
+            "splashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin38/Images/malzahar_splash_centered_38.jpg",
+            "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin38/Images/malzahar_splash_uncentered_38.jpg",
+            "tilePath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin38/Images/malzahar_splash_tile_38.jpg",
+            "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin38/MalzaharLoadScreen_38.jpg",
+            "skinType": "",
+            "rarity": "kNoRarity",
+            "isLegacy": false,
+            "splashVideoPath": null,
+            "collectionSplashVideoPath": null,
+            "collectionCardHoverVideoPath": null,
+            "featuresText": null,
+            "chromaPath": null,
+            "emblems": null,
+            "regionRarityId": 0,
+            "rarityGemPath": null,
+            "skinLines": [
+                {
+                    "id": 176
+                }
+            ],
+            "description": "作为慰藉教团的领袖，玛尔扎哈想要向所有人伸出温柔的引导之手。只有遵循三大荣誉的信条，他才能得以从愤世嫉俗的深渊中脱身，并且虽然世道充斥着冷漠，但玛尔扎哈将尽一切努力建设一个更美好的世界。"
+        },
+        {
+            "id": 90039,
+            "isBase": false,
+            "name": "至高天 玛尔扎哈",
+            "splashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin39/Images/malzahar_splash_centered_39.SKINS_Malzahar_Skin39.jpg",
+            "uncenteredSplashPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin39/Images/malzahar_splash_uncentered_39.SKINS_Malzahar_Skin39.jpg",
+            "tilePath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin39/Images/malzahar_splash_tile_39.SKINS_Malzahar_Skin39.jpg",
+            "loadScreenPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin39/MalzaharLoadScreen_39.SKINS_Malzahar_Skin39.jpg",
+            "loadScreenVintagePath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/Skins/Skin39/MalzaharLoadScreen_39_LE.SKINS_Malzahar_Skin39.jpg",
+            "skinType": "",
+            "rarity": "kEpic",
+            "isLegacy": false,
+            "splashVideoPath": null,
+            "collectionSplashVideoPath": null,
+            "collectionCardHoverVideoPath": null,
+            "featuresText": null,
+            "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90039.png",
+            "chromas": [
+                {
+                    "id": 90040,
+                    "name": "至高天 玛尔扎哈 狂焰",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90040.png",
+                    "colors": [
+                        "#D33528",
+                        "#D33528"
+                    ],
+                    "descriptions": [
+                        {
+                            "region": "riot",
+                            "description": "这个炫彩曾在2024年期间作为礼包专属发布。"
+                        }
+                    ],
+                    "rarities": [
+                        {
+                            "region": "riot",
+                            "rarity": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 90041,
+                    "name": "至高天 玛尔扎哈 灵辉",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90041.png",
+                    "colors": [
+                        "#73BFBE",
+                        "#73BFBE"
+                    ],
+                    "descriptions": [],
+                    "rarities": []
+                },
+                {
+                    "id": 90042,
+                    "name": "至高天 玛尔扎哈 寒芒",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90042.png",
+                    "colors": [
+                        "#2756CE",
+                        "#2756CE"
+                    ],
+                    "descriptions": [],
+                    "rarities": [
+                        {
+                            "region": "TENCENT",
+                            "rarity": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 90043,
+                    "name": "至高天 玛尔扎哈 青炬",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90043.png",
+                    "colors": [
+                        "#2DA130",
+                        "#2DA130"
+                    ],
+                    "descriptions": [],
+                    "rarities": []
+                },
+                {
+                    "id": 90044,
+                    "name": "至高天 玛尔扎哈 荧煌",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90044.png",
+                    "colors": [
+                        "#54209B",
+                        "#54209B"
+                    ],
+                    "descriptions": [],
+                    "rarities": []
+                },
+                {
+                    "id": 90045,
+                    "name": "至高天 玛尔扎哈 华耀",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90045.png",
+                    "colors": [
+                        "#FFEE59",
+                        "#FFEE59"
+                    ],
+                    "descriptions": [],
+                    "rarities": []
+                },
+                {
+                    "id": 90046,
+                    "name": "至高天 玛尔扎哈 幻耀",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90046.png",
+                    "colors": [
+                        "#E58BA5",
+                        "#E58BA5"
+                    ],
+                    "descriptions": [],
+                    "rarities": [
+                        {
+                            "region": "TENCENT",
+                            "rarity": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 90047,
+                    "name": "至高天 玛尔扎哈 胧光",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90047.png",
+                    "colors": [
+                        "#ECF9F8",
+                        "#ECF9F8"
+                    ],
+                    "descriptions": [],
+                    "rarities": []
+                },
+                {
+                    "id": 90048,
+                    "name": "至高天 玛尔扎哈 霓虹表象",
+                    "chromaPath": "/lol-game-data/assets/v1/champion-chroma-images/90/90048.png",
+                    "colors": [
+                        "#000000",
+                        "#000000"
+                    ],
+                    "descriptions": [
+                        {
+                            "region": "riot",
+                            "description": "这个炫彩曾在至高天(2024)活动期间作为战利品专属发布。"
+                        }
+                    ],
+                    "rarities": [
+                        {
+                            "region": "riot",
+                            "rarity": 1
+                        }
+                    ]
+                }
+            ],
+            "emblems": null,
+            "regionRarityId": 0,
+            "rarityGemPath": null,
+            "skinLines": [
+                {
+                    "id": 186
+                }
+            ],
+            "description": "玛尔扎哈自称是盈晖之声。从一个位面旅行到另一个位面，他宣布至高天们是一种更大疾病的症状，这种发热是为了对抗一种正在使各个次元溃烂的感染。玛尔扎哈是否真的是霓虹火焰的代言人，谁也说不准，但现在，他才刚刚热身。"
+        }
+    ],
+    "passive": {
+        "name": "虚空穿越",
+        "abilityIconPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/HUD/Icons2D/Malzahar_Passive.png",
+        "abilityVideoPath": "champion-abilities/0090/ability_0090_P1.webm",
+        "abilityVideoImagePath": "champion-abilities/0090/ability_0090_P1.jpg",
+        "description": "玛尔扎哈如果近期没有受到伤害或控制效果，就会获得巨幅伤害减免和免疫控制的效果，并且这个效果在受到伤害后还会残留一小段时间。"
+    },
+    "spells": [
+        {
+            "spellKey": "q",
+            "name": "虚空召唤",
+            "abilityIconPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/HUD/Icons2D/Malzahar_Q.png",
+            "abilityVideoPath": "champion-abilities/0090/ability_0090_Q1.webm",
+            "abilityVideoImagePath": "champion-abilities/0090/ability_0090_Q1.jpg",
+            "cost": "@Cost@ @AbilityResourceName@",
+            "cooldown": "@Cooldown@秒 %i:cooldown%",
+            "description": "玛尔扎哈开启两扇通向虚空的传送门。在短暂的延迟后，两扇门之间会有虚空能量对流而过，造成魔法伤害并沉默敌方英雄。",
+            "dynamicDescription": "玛尔扎哈开启两扇通往虚空的传送门，在短暂的延迟后，能量就会从虚空之中喷发，并且在两道传送门之间对流，对击中的敌人造成<magicDamage>@TotalDamageTooltip@魔法伤害</magicDamage>并使其<status>沉默</status>@Effect2Amount@秒。@SpellModifierDescriptionAppend@",
+            "range": [
+                900.0,
+                900.0,
+                900.0,
+                900.0,
+                900.0,
+                900.0
+            ],
+            "costCoefficients": [
+                60.0,
+                65.0,
+                70.0,
+                75.0,
+                80.0,
+                80.0
+            ],
+            "cooldownCoefficients": [
+                6.0,
+                6.0,
+                6.0,
+                6.0,
+                6.0,
+                6.0
+            ],
+            "coefficients": {
+                "coefficient1": 0.55,
+                "coefficient2": 0.0
+            },
+            "effectAmounts": {
+                "Effect1Amount": [
+                    70.0,
+                    70.0,
+                    105.0,
+                    140.0,
+                    175.0,
+                    210.0,
+                    245.0
+                ],
+                "Effect2Amount": [
+                    1.0,
+                    1.0,
+                    1.25,
+                    1.5,
+                    1.75,
+                    2.0,
+                    2.25
+                ],
+                "Effect3Amount": [
+                    0.4,
+                    0.4,
+                    0.4,
+                    0.4,
+                    0.4,
+                    0.4,
+                    0.4
+                ],
+                "Effect4Amount": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Effect5Amount": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Effect6Amount": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Effect7Amount": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Effect8Amount": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Effect9Amount": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Effect10Amount": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "ammo": {
+                "ammoRechargeTime": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "maxAmmo": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "maxLevel": 0
+        },
+        {
+            "spellKey": "w",
+            "name": "虚空虫群",
+            "abilityIconPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/HUD/Icons2D/Malzahar_W.png",
+            "abilityVideoPath": "champion-abilities/0090/ability_0090_W1.webm",
+            "abilityVideoImagePath": "champion-abilities/0090/ability_0090_W1.jpg",
+            "cost": "@Cost@ @AbilityResourceName@",
+            "cooldown": "@Cooldown@秒 %i:cooldown%",
+            "description": "玛尔扎哈召唤虚灵去攻击附近的敌人。",
+            "dynamicDescription": "<spellPassive>被动：</spellPassive>玛尔扎哈的其它技能在施放时会为他提供一层效果(最多可叠到@StackCap@层)。<br><br><spellActive>主动：</spellActive>玛尔扎哈召唤一个虚灵，并且每层效果会额外召唤一个虚灵。虚灵持续@VoidlingDuration@秒并且每次命中造成额外的<magicDamage>@VoidlingBonusDamageTooltip@魔法伤害</magicDamage>。@SpellModifierDescriptionAppend@",
+            "range": [
+                150.0,
+                150.0,
+                150.0,
+                150.0,
+                150.0,
+                150.0
+            ],
+            "costCoefficients": [
+                40.0,
+                45.0,
+                50.0,
+                55.0,
+                60.0,
+                60.0
+            ],
+            "cooldownCoefficients": [
+                8.0,
+                8.0,
+                8.0,
+                8.0,
+                8.0,
+                8.0
+            ],
+            "coefficients": {
+                "coefficient1": 0.2,
+                "coefficient2": 0.4
+            },
+            "effectAmounts": {
+                "Effect1Amount": [
+                    8.0,
+                    8.0,
+                    8.0,
+                    9.0,
+                    9.0,
+                    10.0,
+                    10.0
+                ],
+                "Effect2Amount": [
+                    12.0,
+                    12.0,
+                    14.0,
+                    16.0,
+                    18.0,
+                    20.0,
+                    22.0
+                ],
+                "Effect3Amount": [
+                    3.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    3.0,
+                    3.0
+                ],
+                "Effect4Amount": [
+                    0.5,
+                    0.5,
+                    0.5,
+                    0.5,
+                    0.5,
+                    0.5,
+                    0.5
+                ],
+                "Effect5Amount": [
+                    25000.0,
+                    25000.0,
+                    25000.0,
+                    25000.0,
+                    25000.0,
+                    25000.0,
+                    25000.0
+                ],
+                "Effect6Amount": [
+                    2.0,
+                    2.0,
+                    2.0,
+                    2.0,
+                    2.0,
+                    2.0,
+                    2.0
+                ],
+                "Effect7Amount": [
+                    0.5,
+                    0.5,
+                    0.5,
+                    0.5,
+                    0.5,
+                    0.5,
+                    0.5
+                ],
+                "Effect8Amount": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Effect9Amount": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Effect10Amount": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "ammo": {
+                "ammoRechargeTime": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "maxAmmo": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "maxLevel": 0
+        },
+        {
+            "spellKey": "e",
+            "name": "煞星幻象",
+            "abilityIconPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/HUD/Icons2D/Malzahar_E.png",
+            "abilityVideoPath": "champion-abilities/0090/ability_0090_E1.webm",
+            "abilityVideoImagePath": "champion-abilities/0090/ability_0090_E1.jpg",
+            "cost": "@Cost@ @AbilityResourceName@",
+            "cooldown": "@Cooldown@秒 %i:cooldown%",
+            "description": "玛尔扎哈将目标的惨死幻象侵入目标的意识中，造成持续伤害。玛尔扎哈对目标使用其它技能时会刷新幻象的持续时间。<br><br>如果目标在感染幻象期间死亡，那么幻象会传到附近的一个敌人身上，并且玛尔扎哈会回复法力值。玛尔扎哈的虚灵会优先攻击感染了幻象的单位。",
+            "dynamicDescription": "玛尔扎哈给目标造成可怕的幻象，在@Duration@秒里对一名敌人持续造成共<magicDamage>@TotalDamage@魔法伤害</magicDamage>。在此期间，对目标使用<spellName>虚空召唤</spellName>或<spellName>冥府之握</spellName>会刷新幻象的持续时间。<br><br>如果目标被击杀，玛尔扎哈会获得<scaleMana>@ManaRestore@法力</scaleMana>并且幻象会传播给相距最近的敌人。<br><br><rules>煞星幻象会处决低于@MinionExecuteThreshold@生命值的小兵。</rules>@SpellModifierDescriptionAppend@",
+            "range": [
+                650.0,
+                650.0,
+                650.0,
+                650.0,
+                650.0,
+                650.0
+            ],
+            "costCoefficients": [
+                60.0,
+                70.0,
+                80.0,
+                90.0,
+                100.0,
+                110.0
+            ],
+            "cooldownCoefficients": [
+                11.0,
+                10.0,
+                9.0,
+                8.0,
+                7.0,
+                7.0
+            ],
+            "coefficients": {
+                "coefficient1": 0.8,
+                "coefficient2": 0.0
+            },
+            "effectAmounts": {
+                "Effect1Amount": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Effect2Amount": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Effect3Amount": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Effect4Amount": [
+                    8.0,
+                    8.0,
+                    8.0,
+                    8.0,
+                    8.0,
+                    8.0,
+                    8.0
+                ],
+                "Effect5Amount": [
+                    2.0,
+                    2.0,
+                    2.0,
+                    2.0,
+                    2.0,
+                    2.0,
+                    2.0
+                ],
+                "Effect6Amount": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Effect7Amount": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Effect8Amount": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Effect9Amount": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Effect10Amount": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "ammo": {
+                "ammoRechargeTime": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "maxAmmo": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "maxLevel": 0
+        },
+        {
+            "spellKey": "r",
+            "name": "冥府之握",
+            "abilityIconPath": "/lol-game-data/assets/ASSETS/Characters/Malzahar/HUD/Icons2D/Malzahar_R.png",
+            "abilityVideoPath": "champion-abilities/0090/ability_0090_R1.webm",
+            "abilityVideoImagePath": "champion-abilities/0090/ability_0090_R1.jpg",
+            "cost": "@Cost@ @AbilityResourceName@",
+            "cooldown": "@Cooldown@秒 %i:cooldown%",
+            "description": "玛尔扎哈引导虚空的精萃来把一名敌方英雄压制在一个充满伤害的负能量地带上。",
+            "dynamicDescription": "玛尔扎哈<status>压制</status>一名敌方英雄并在@Effect4Amount@秒里持续造成共<magicDamage>@TotalDamageTooltip@魔法伤害</magicDamage>。一个负能量地带会在他目标周围生成，在@Effect3Amount@秒里持续造成共<magicDamage>@ZoneDamageTooltip@最大生命值的魔法伤害</magicDamage>。@SpellModifierDescriptionAppend@",
+            "range": [
+                700.0,
+                700.0,
+                700.0,
+                700.0,
+                700.0,
+                700.0
+            ],
+            "costCoefficients": [
+                100.0,
+                100.0,
+                100.0,
+                100.0,
+                100.0,
+                100.0
+            ],
+            "cooldownCoefficients": [
+                140.0,
+                110.0,
+                80.0,
+                80.0,
+                80.0,
+                80.0
+            ],
+            "coefficients": {
+                "coefficient1": 0.005,
+                "coefficient2": 0.8
+            },
+            "effectAmounts": {
+                "Effect1Amount": [
+                    2.0,
+                    2.0,
+                    3.0,
+                    4.0,
+                    4.0,
+                    4.0,
+                    4.0
+                ],
+                "Effect2Amount": [
+                    0.0,
+                    120.0,
+                    100.0,
+                    80.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Effect3Amount": [
+                    5.0,
+                    5.0,
+                    5.0,
+                    5.0,
+                    5.0,
+                    5.0,
+                    5.0
+                ],
+                "Effect4Amount": [
+                    2.5,
+                    2.5,
+                    2.5,
+                    2.5,
+                    2.5,
+                    2.5,
+                    2.5
+                ],
+                "Effect5Amount": [
+                    120.0,
+                    120.0,
+                    120.0,
+                    120.0,
+                    120.0,
+                    120.0,
+                    120.0
+                ],
+                "Effect6Amount": [
+                    10.0,
+                    10.0,
+                    10.0,
+                    10.0,
+                    10.0,
+                    10.0,
+                    10.0
+                ],
+                "Effect7Amount": [
+                    125.0,
+                    125.0,
+                    200.0,
+                    275.0,
+                    275.0,
+                    275.0,
+                    275.0
+                ],
+                "Effect8Amount": [
+                    1250.0,
+                    1250.0,
+                    1250.0,
+                    1250.0,
+                    1250.0,
+                    1250.0,
+                    1250.0
+                ],
+                "Effect9Amount": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "Effect10Amount": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ]
+            },
+            "ammo": {
+                "ammoRechargeTime": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0,
+                    0.0
+                ],
+                "maxAmmo": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "maxLevel": 0
+        }
+    ]
+}
