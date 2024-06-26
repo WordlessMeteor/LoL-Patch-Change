@@ -33,21 +33,29 @@ This repository is only for diff checking use. No release will be provided. All 
 		<tr>
 			<th style="text-align:center;">文件名<br>Filename</th>
 			<th style="text-align:center;">更新模式代号<br>Updating Mode No.</th>
-			<th style="text-align:center;">更新模式<br>Updating Mode</th>
 			<th style="text-align:center;">备注<br>Note</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
+			<td style="text-align:center;">2024-06-26 10-35-28</td>
+			<td style="text-align:center;">2</td>
+			<td>
+				CDragon: <br>
+					<ul style="list-style-type: disc; margin-left: 20px;">
+						<li>PBE: 14.13.596.7996 -> 14.14.597.5791</li>
+					</ul>
+				DDragon: 14.12.1 -> 14.13.1
+			</td>
+		</tr>
+		<tr>
 			<td style="text-align:center;">2024-06-24 15-52-48</td>
 			<td style="text-align:center;">2</td>
-			<td style="text-align:center;">按修改时间更新<br>Updating according to Modification Time</td>
 			<td>添加了版本信息。<br>Added patch information.</td>
 		</tr>
 		<tr>
 			<td style="text-align:center;">2024-06-24 14-12-56</td>
 			<td style="text-align:center;">1</td>
-			<td style="text-align:center;">全局扫描<br>Global Scanning</td>
 			<td>添加了关键数据资源。<br>Added key data resources.</td>
 		</tr>
 	</tbody>
