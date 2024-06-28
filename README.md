@@ -38,6 +38,17 @@ This repository is only for diff checking use. No release will be provided. All 
 	</thead>
 	<tbody>
 		<tr>
+			<td style="text-align:center;">2024-06-28 10-57-03</td>
+			<td style="text-align:center;">2</td>
+			<td>
+				CDragon: <br>
+					<ul style="list-style-type: disc; margin-left: 20px;">
+						<li>Live: Within-patch change</li>
+						<li>PBE: 14.14.597.9446 -> 14.14.598.2781</li>
+					</ul>
+			</td>
+		</tr>
+		<tr>
 			<td style="text-align:center;">2024-06-27 11-19-04</td>
 			<td style="text-align:center;">2</td>
 			<td>
