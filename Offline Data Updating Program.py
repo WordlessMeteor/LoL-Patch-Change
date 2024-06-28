@@ -117,8 +117,8 @@ while True:
         log.close()
         break
     elif resource[0] == "1":
-        print("请选择更新模式：\nPlease select the update mode:\n1\t全局扫描（Global Scanning）\n2\t按修改时间更新（Updating According to Modification Time）")
-        log.write("请选择更新模式：\nPlease select the update mode:\n1\t全局扫描（Global Scanning）\n2\t按修改时间更新（Updating According to Modification Time）\n")
+        print("请选择更新模式：\nPlease select the update mode:\n1\t全局扫描（Global Scanning）\n2\t按修改时间更新（Updating According to Modification Time）\n3\t更新指定文件夹（Updating Specified Folders）")
+        log.write("请选择更新模式：\nPlease select the update mode:\n1\t全局扫描（Global Scanning）\n2\t按修改时间更新（Updating According to Modification Time）\n3\t更新指定文件夹（Updating Specified Folders）\n")
         mode = input()
         log.write(mode + "\n")
         if mode == "" or mode[0] == "2":
@@ -158,7 +158,44 @@ while True:
                 time_get_method = "1"
         else:
             mode = "1"
-        cdragon_folders = ["latest/", "latest/cdragon/arena/", "latest/cdragon/tft/", "latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/", "latest/plugins/rcp-be-lol-game-data/global/default/v1/map-assets/", "latest/plugins/rcp-be-lol-game-data/global/default/v1/", "latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/", "latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/map-assets/", "latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/", "pbe/", "pbe/cdragon/arena/", "pbe/cdragon/tft/", "pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/", "pbe/plugins/rcp-be-lol-game-data/global/default/v1/map-assets/", "pbe/plugins/rcp-be-lol-game-data/global/default/v1/", "pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/", "pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/map-assets/", "pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/"]
+        if mode == "3":
+            print("请选择输入方式：\nPlease choose an input method:\n1\t逐行输入（Line by line）\n2\t来自文件（From file）")
+            log.write("请选择输入方式：\nPlease choose an input method:\n1\t逐行输入（Line by line）\n2\t来自文件（From file）\n")
+            input_method = input()
+            log.write(input_method + "\n")
+            if input_method == "" or input_method[0] == "2":
+                print('请输入一个存放CommunityDragon数据库文件夹地址的文本文档的位置：\nPlease input the path of a text file that contains URLs of folders in CommunityDragon database:')
+                log.write('请输入一个存放CommunityDragon数据库文件夹地址的文本文档的位置：\nPlease input the path of a text file that contains URLs of folders in CommunityDragon database:\n')
+                while True:
+                    txtfile = input()
+                    log.write(txtfile + "\n")
+                    if txtfile == "":
+                        continue
+                    elif os.path.exists(txtfile):
+                        break
+                    else:
+                        print("您输入的地址有误！请重新输入。\nERROR input of the text file path! Please try again.")
+                        log.write("您输入的地址有误！请重新输入。\nERROR input of the text file path! Please try again.\n")
+                with open(txtfile, "r", encoding = "utf-8") as fp:
+                    cdragon_folders = list(set(map(lambda x: (x if x.endswith("/") else x[:-len(os.path.basename(x))]).strip("\n").replace("https://raw.communitydragon.org/", "").replace("离线数据（Offline Data）/cdragon/", ""), fp.readlines())))
+                if "" in cdragon_folders:
+                    cdragon_folders.remove("")
+                cdragon_folders.sort()
+            else:
+                cdragon_folders = []
+                print("请逐个输入要更新的CommunityDragon文件夹的地址，输入-1以退出循环：\nPlease input the URLs of CommunityDragon folders to update one by one. Enter -1 to exit the loop:")
+                while True:
+                    cdragon_folder = input()
+                    log.write(cdragon_folder + "\n")
+                    if cdragon_folder == "":
+                        continue
+                    elif cdragon_folder == "-1":
+                        break
+                    else:
+                        cdragon_folder = cdragon_folder if cdragon_folder.endswith("/") else cdragon_folder[:-len(os.path.basename(cdragon_folder))]
+                        cdragon_folders.append(cdragon_folder.replace("https://raw.communitydragon.org/", "").replace("离线数据（Offline Data）/cdragon/", "")) #请思考，这里如果换成`cdragon_folder.lstrip("https://raw.communitydragon.org/")`，会有什么效果？（Please figure out what will happen if the code is replaced by `cdragon_folder.lstrip("https://raw.communitydragon.org/")`）
+        else:
+            cdragon_folders = ["latest/", "latest/cdragon/arena/", "latest/cdragon/tft/", "latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/", "latest/plugins/rcp-be-lol-game-data/global/default/v1/map-assets/", "latest/plugins/rcp-be-lol-game-data/global/default/v1/", "latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/", "latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/map-assets/", "latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/", "pbe/", "pbe/cdragon/arena/", "pbe/cdragon/tft/", "pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/", "pbe/plugins/rcp-be-lol-game-data/global/default/v1/map-assets/", "pbe/plugins/rcp-be-lol-game-data/global/default/v1/", "pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/", "pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/map-assets/", "pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/"]
         web_prefix = "https://raw.communitydragon.org/"
         local_prefix = "离线数据（Offline Data）/cdragon"
         updated_files = []
@@ -209,6 +246,9 @@ while True:
                 elif time_get_method == "2":
                     print("指定修改时间（%s）后的页面文件列表如下：\nFile list after the specified modification time (%s) is as follows:\n网页链接（URL)： %s" %(latest_mod_date, latest_mod_date, url))
                     log.write("指定修改时间（%s）后的页面文件列表如下：\nFile list after the specified modification time (%s) is as follows:\n网页链接（URL)： %s\n" %(latest_mod_date, latest_mod_date, url))
+            elif mode == "3":
+                print("指定文件夹涉及的新文件列表如下：\nNew file list in specified folders is as follows:\n网页链接（URL)： %s" %url)
+                log.write("指定文件夹涉及的新文件列表如下：\nNew file list involved in specified folders is as follows:\n网页链接（URL)： %s\n" %url)
             for line in source_list:
                 matchedLine = line_re.search(line)
                 if matchedLine:
@@ -221,7 +261,7 @@ while True:
                     local_timestamp = os.path.getmtime(os.path.join(local_prefix, folder, name)) if os.path.exists(os.path.join(local_prefix, folder)) and name in os.listdir(os.path.join(local_prefix, folder)) else 0
                     local_date = time.strftime("%Y-%m-%d %H-%M-%S", time.localtime(local_timestamp))
                     if ".json" in name:
-                        if ("cdragon/arena" in folder or "cdragon/tft" in folder) and (name != "en_us.json" and name != "zh_cn.json") or mode == "2" and time_get_method == "1" and web_timestamp < local_timestamp or mode == "2" and time_get_method == "2" and web_timestamp < latest_mod_timestamp:
+                        if ("cdragon/arena" in folder or "cdragon/tft" in folder) and (name != "en_us.json" and name != "zh_cn.json") or mode == "2" and time_get_method == "1" and web_timestamp + time.localtime().tm_gmtoff < local_timestamp or mode == "2" and time_get_method == "2" and web_timestamp + time.localtime().tm_gmtoff < latest_mod_timestamp or mode == "3" and web_timestamp + time.localtime().tm_gmtoff < local_timestamp:
                             continue
                         table["file"].append(name)
                         table["size"].append(size)
