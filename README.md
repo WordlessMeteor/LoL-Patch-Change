@@ -1,5 +1,5 @@
-该存储库存储了CommunityDragon和DataDragon数据库中的**中文和英文**的关键数据资源。主要包括以下文件夹下的数据资源：\
-This repository stores **Chinese and English** key data resources in CommunityDragon and DataDragon databases for patch change. It contains data resource files under the following folders:
+该存储库存储了CommunityDragon和DataDragon数据库中的**中文和英文**的关键json数据资源。主要包括以下文件夹下的数据资源：\
+This repository stores **Chinese and English** key data resources in json format in CommunityDragon and DataDragon databases for patch change. It contains data resource files under the following folders:
 1. https://raw.communitydragon.org/latest/
 2. https://raw.communitydragon.org/latest/cdragon/arena/
 3. https://raw.communitydragon.org/latest/cdragon/tft/
@@ -37,6 +37,26 @@ This repository is only for diff checking use. No release will be provided. All 
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td style="text-align:center;">2024-07-02 10-51-09</td>
+			<td style="text-align:center;">2</td>
+			<td>
+				CDragon: <br>
+					<ul style="list-style-type: disc; margin-left: 20px;">
+						<li>Live: 14.13.596.7996 -> 14.13.598.9749</li>
+					</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2024-07-01 12-09-34/td>
+			<td style="text-align:center;">2</td>
+			<td>No changes</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2024-06-30 10-47-11</td>
+			<td style="text-align:center;">2</td>
+			<td>No changes</td>
+		</tr>
 		<tr>
 			<td style="text-align:center;">2024-06-29 12-02-21</td>
 			<td style="text-align:center;">2</td>
