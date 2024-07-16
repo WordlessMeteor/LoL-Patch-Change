@@ -38,12 +38,32 @@ This repository is only for diff checking use. No release will be provided. All 
 	</thead>
 	<tbody>
 		<tr>
+			<td style="text-align:center;">2024-07-12 11-52-38</td>
+			<td style="text-align:center;">2</td>
+			<td>
+				CDragon: <br>
+					<ul style="list-style-type: disc; margin-left: 20px;">
+						<li>PBE: 14.14.600.9267 -> 14.14.601.6905</li>
+					</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2024-07-15 12-01-23/td>
+			<td style="text-align:center;">2</td>
+			<td>No changes</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2024-07-14 12-20-49/td>
+			<td style="text-align:center;">2</td>
+			<td>No changes</td>
+		</tr>
+		<tr>
 			<td style="text-align:center;">2024-07-13 13-48-56</td>
 			<td style="text-align:center;">2</td>
 			<td>
 				CDragon: <br>
 					<ul style="list-style-type: disc; margin-left: 20px;">
-						<li>PBE: Within-patch change</li>
+						<li>PBE: Within-patch change (14.14.600.9267)</li>
 					</ul>
 			</td>
 		</tr>
@@ -148,7 +168,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			<td>
 				CDragon: <br>
 					<ul style="list-style-type: disc; margin-left: 20px;">
-						<li>Live: Within-patch change</li>
+						<li>Live: Within-patch change (14.13.596.7996)</li>
 						<li>PBE: 14.14.597.9446 -> 14.14.598.2781</li>
 					</ul>
 			</td>
@@ -159,7 +179,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			<td>
 				CDragon: <br>
 					<ul style="list-style-type: disc; margin-left: 20px;">
-						<li>Live: Within-patch change</li>
+						<li>Live: Within-patch change (14.13.596.7996)</li>
 						<li>PBE: 14.14.597.5791 -> 14.14.597.9446</li>
 					</ul>
 			</td>
