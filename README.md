@@ -38,6 +38,16 @@ This repository is only for diff checking use. No release will be provided. All 
 	</thead>
 	<tbody>
 		<tr>
+			<td style="text-align:center;">2024-07-26 12-10-15</td>
+			<td style="text-align:center;">2</td>
+			<td>
+				CDragon: <br>
+					<ul style="list-style-type: disc; margin-left: 20px;">
+						<li>PBE: 14.15.604.0538 -> 14.15.604.2112</li>
+					</ul>
+			</td>
+		</tr>
+		<tr>
 			<td style="text-align:center;">2024-07-25 12-15-43</td>
 			<td style="text-align:center;">3</td>
 			<td>测试：在手动输入两个来自相同文件夹的数据资源后，程序只将这个文件夹的所有数据资源比对一遍。（第20行。）<br>Test: After the user manually input two data resource files from the same folder, the program would check all data resources under this folder twice. (Line 20)</td>
