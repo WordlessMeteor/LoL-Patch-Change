@@ -36,6 +36,18 @@ This repository is only for diff checking use. No release will be provided. All 
 			<th style="text-align:center;">备注<br>Note</th>
 		</tr>
 	</thead>
+		<tr>
+			<td style="text-align:center;">2024-08-02 17-56-52</td>
+			<td style="text-align:center;">2</td>
+			<td>
+				CDragon: <br>
+					<ul style="list-style-type: disc; margin-left: 20px;">
+						<li>Live: 14.14.603.4237 -> 14.15.604.8769</li>
+						<li>PBE: 14.15.604.5966 -> 14.16.606.2126</li>
+					</ul>
+				DDragon: 14.14.1 -> 14.15.1
+			</td>
+		</tr>
 	<tbody>
 		<tr>
 			<td style="text-align:center;">2024-07-28 09-34-41</td>

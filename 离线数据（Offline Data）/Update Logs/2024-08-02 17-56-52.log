@@ -1,0 +1,1632 @@
+请选择要更新的数据资源，输入空字符串以退出程序：
+Please select the data resource to update, or submit an empty string to exit the program:
+1	CommunityDragon
+2	DataDragon
+1
+请选择更新模式：
+Please select the update mode:
+1	全局扫描（Global Scanning）
+2	按修改时间更新（Updating According to Modification Time）
+3	更新指定文件夹（Updating Specified Folders）
+
+请选择一种方式指定修改时间：
+Please select a method of specifying the modification time:
+1	自动获取（Automatically get）
+2	手动输入（Manually input）
+
+[2024-08-02 17-56-54][1/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/
+[2024-08-02 17-56-56]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/latest/
+             file                size        web_date         web_timestamp        local_date          local_timestamp  
+ compat-version-metadata.json    72 B    2024-Jul-31 06:10    1722377400.0     2024-07-23 11-25-12    1721705112.803245 
+    content-metadata.json        74 B    2024-Jul-31 06:10    1722377400.0     2024-07-23 11-25-13    1721705113.770712 
+[2024-08-02 17-56-56][1/18][1/2]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/compat-version-metadata.json
+[2024-08-02 17-56-57]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/compat-version-metadata.json
+[2024-08-02 17-56-57][1/18][2/2]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/content-metadata.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/content-metadata.json. Time(s) tried: 1
+[2024-08-02 17-57-18]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/content-metadata.json
+[2024-08-02 17-57-18][2/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/cdragon/arena/
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/cdragon/arena/. Time(s) tried: 1
+[2024-08-02 17-57-53]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/latest/cdragon/arena/
+Empty DataFrame
+Columns: [file, size, web_date, web_timestamp, local_date, local_timestamp]
+Index: []
+[2024-08-02 17-57-53][3/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/cdragon/tft/
+无法连接到代理！正在尝试第1次重新获取数据！
+Cannot connect to proxy! Trying to recapture the data with url: https://raw.communitydragon.org/latest/cdragon/tft/. Time(s) tried: 1
+[2024-08-02 17-58-25]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/latest/cdragon/tft/
+Empty DataFrame
+Columns: [file, size, web_date, web_timestamp, local_date, local_timestamp]
+Index: []
+[2024-08-02 17-58-25][4/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/
+无法连接到代理！正在尝试第1次重新获取数据！
+Cannot connect to proxy! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/. Time(s) tried: 1
+[2024-08-02 17-58-35]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/
+   file         size          web_date         web_timestamp        local_date          local_timestamp   
+  -1.json      678 B      2024-Jul-29 00:02    1722182520.0     2024-06-24 14-13-18    1719209598.099461  
+ 121.json     33.4 KiB    2024-Jul-31 06:20    1722378000.0     2024-06-24 14-13-40    1719209620.574258  
+ 136.json     24.9 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-25-26    1721705126.0846274 
+  14.json     28.3 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-25-27    1721705127.075641  
+ 157.json     43.7 KiB    2024-Jul-31 06:20    1722378000.0     2024-06-24 14-13-59    1719209639.8554556 
+ 233.json     17.8 KiB    2024-Jul-31 06:20    1722378000.0     2024-06-24 14-14-24    1719209664.5851002 
+ 238.json     35.5 KiB    2024-Jul-31 06:20    1722378000.0     2024-06-24 14-14-28    1719209668.6341023 
+ 266.json     28.8 KiB    2024-Jul-31 06:20    1722378000.0     2024-06-24 14-14-37    1719209677.2168205 
+ 3152.json    7.6 KiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-25-38    1721705138.329321  
+ 420.json     22.2 KiB    2024-Jul-31 06:20    1722378000.0     2024-06-24 14-15-11    1719209711.473449  
+ 517.json     26.4 KiB    2024-Jul-31 06:20    1722378000.0     2024-06-24 14-15-37    1719209737.6312926 
+  69.json     24.7 KiB    2024-Jul-31 06:20    1722378000.0     2024-06-24 14-16-16    1719209776.7021174 
+  72.json     17.5 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-25-51    1721705151.5048487 
+ 777.json     32.1 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-02 10-51-49    1719888709.3184142 
+  84.json     45.5 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-25-52    1721705152.6278217 
+  89.json     38.5 KiB    2024-Jul-31 06:20    1722378000.0     2024-06-24 14-16-49    1719209809.0123355 
+ 893.json     13.6 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-25-53    1721705153.7060428 
+  91.json     31.2 KiB    2024-Jul-31 06:20    1722378000.0     2024-06-24 14-16-56    1719209816.5613885 
+[2024-08-02 17-58-35][4/18][1/18]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/-1.json
+[2024-08-02 17-58-37][4/18][2/18]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/121.json
+[2024-08-02 17-59-09]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/121.json
+[2024-08-02 17-59-09][4/18][3/18]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/136.json
+[2024-08-02 17-59-11]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/136.json
+[2024-08-02 17-59-11][4/18][4/18]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/14.json
+无法连接到代理！正在尝试第1次重新获取数据！
+Cannot connect to proxy! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/14.json. Time(s) tried: 1
+[2024-08-02 17-59-18]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/14.json
+[2024-08-02 17-59-18][4/18][5/18]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/157.json
+[2024-08-02 17-59-21]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/157.json
+[2024-08-02 17-59-21][4/18][6/18]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/233.json
+[2024-08-02 17-59-22]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/233.json
+[2024-08-02 17-59-22][4/18][7/18]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/238.json
+[2024-08-02 17-59-24]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/238.json
+[2024-08-02 17-59-24][4/18][8/18]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/266.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/266.json. Time(s) tried: 1
+[2024-08-02 17-59-43]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/266.json
+[2024-08-02 17-59-43][4/18][9/18]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/3152.json
+[2024-08-02 17-59-48]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/3152.json
+[2024-08-02 17-59-48][4/18][10/18]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/420.json
+无法连接到代理！正在尝试第1次重新获取数据！
+Cannot connect to proxy! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/420.json. Time(s) tried: 1
+[2024-08-02 18-00-09]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/420.json
+[2024-08-02 18-00-09][4/18][11/18]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/517.json
+[2024-08-02 18-00-12]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/517.json
+[2024-08-02 18-00-12][4/18][12/18]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/69.json
+[2024-08-02 18-00-14]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/69.json
+[2024-08-02 18-00-14][4/18][13/18]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/72.json
+[2024-08-02 18-00-19]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/72.json
+[2024-08-02 18-00-19][4/18][14/18]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/777.json
+[2024-08-02 18-00-21]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/777.json
+[2024-08-02 18-00-21][4/18][15/18]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/84.json
+接收数据块长度不正确导致连接中断！正在尝试第1次重新获取数据！
+Connection broken: InvalidChunkLength. Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/84.json. Time(s) tried: 1
+[2024-08-02 18-01-18]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/84.json
+[2024-08-02 18-01-18][4/18][16/18]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/89.json
+[2024-08-02 18-01-20]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/89.json
+[2024-08-02 18-01-20][4/18][17/18]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/893.json
+[2024-08-02 18-01-22]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/893.json
+[2024-08-02 18-01-22][4/18][18/18]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/91.json
+[2024-08-02 18-01-24]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/91.json
+[2024-08-02 18-01-24][5/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/map-assets/
+[2024-08-02 18-01-40]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/map-assets/
+      file            size           web_date         web_timestamp        local_date          local_timestamp  
+ map-assets.json    111.9 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-25-57    1721705157.079988 
+[2024-08-02 18-01-40][5/18][1/1]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/map-assets/map-assets.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/map-assets/map-assets.json. Time(s) tried: 1
+[2024-08-02 18-02-43]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/map-assets/map-assets.json
+[2024-08-02 18-02-43][6/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/
+[2024-08-02 18-02-44]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/
+                file                     size           web_date         web_timestamp        local_date          local_timestamp   
+          challenges.json              592.5 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-00    1721705160.4475684 
+ champion-rune-recommendations.json    325.6 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-01    1721705161.8947167 
+        cherry-augments.json           45.3 KiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-04    1721705164.8425288 
+           clash-vo.json                 654 B      2024-Jul-29 00:07    1722182820.0     2024-06-24 14-17-14    1719209834.1982658 
+          companions.json              747.7 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-06    1721705166.7323906 
+        discord_strings.json             599 B      2024-Jul-29 00:08    1722182880.0     2024-06-24 14-17-16    1719209836.9287515 
+           event-hub.json              51.8 KiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-07    1721705167.698189  
+        generic-assets.json            175.2 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-09    1721705169.3956938 
+           hovertips.json               1.5 KiB     2024-Jul-29 00:08    1722182880.0     2024-06-24 14-17-21    1719209841.9926956 
+             items.json                441.8 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-10    1721705170.8454049 
+             loot.json                  2.8 MiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-13    1721705173.2346861 
+    number-formatting-data.json          511 B      2024-Jul-29 00:04    1722182640.0     2024-06-24 14-17-30    1719209850.1063988 
+             perks.json                93.5 KiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-17    1721705177.7893758 
+         profile-icons.json            318.4 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-19    1721705179.505514  
+            rewards.json               536.9 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-21    1721705181.643891  
+       settingstopersist.json           3.5 KiB     2024-Jul-29 00:04    1722182640.0     2024-06-24 14-17-42    1719209862.6271145 
+             skins.json                 3.1 MiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-25    1721705185.472021  
+          statstones.json               1.7 MiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-27    1721705187.5220609 
+        strawberry-hub.json            192.1 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-29    1721705189.1826546 
+    stylesheet-teamplanner.json          54 B       2024-Jul-31 06:20    1722378000.0     1970-01-01 08-00-00           0.0         
+          stylesheet.json              19.7 KiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-29    1721705189.9211879 
+        summoner-emotes.json           311.2 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-31    1721705191.4354324 
+      summoner-icon-sets.json          19.6 KiB     2024-Jul-29 00:08    1722182880.0     2024-06-24 14-17-59    1719209879.6180158 
+        summoner-icons.json             1.6 MiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-33    1721705193.033756  
+   tftchampions-teamplanner.json       28.2 KiB     2024-Jul-31 06:20    1722378000.0     2024-06-24 14-18-06    1719209886.970621  
+         tftchampions.json             79.2 KiB     2024-Jul-31 06:20    1722378000.0     2024-06-24 14-18-08    1719209888.661633  
+        tftdamageskins.json            66.8 KiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-34    1721705194.0522947 
+           tftitems.json               317.1 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-02 10-52-23    1719888743.3413265 
+          tftmapskins.json             31.2 KiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-35    1721705195.0675304 
+        tftpass-assets.json            12.5 KiB     2024-Jul-31 06:20    1722378000.0     2024-07-02 10-52-25    1719888745.5014052 
+      tftpasswelcomedata.json            220 B      2024-Jul-31 06:20    1722378000.0     2024-06-24 14-18-20    1719209900.7326932 
+         tftplaybooks.json             54.4 KiB     2024-Jul-31 06:20    1722378000.0     2024-07-02 10-52-26    1719888746.603227  
+       tftregionportals.json            8.8 KiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-36    1721705196.1409447 
+   tftrotationalshopitemdata.json      748.5 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-37    1721705197.8447554 
+            tftsets.json                1.1 KiB     2024-Jul-31 06:20    1722378000.0     2024-07-02 10-52-28    1719888748.9544618 
+           tfttraits.json              161.9 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-39    1721705199.3376749 
+    tfttrovesbannerrewards.json        661.4 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-41    1721705201.0978167 
+       tfttrovesbanners.json            6.1 MiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-44    1721705204.3359854 
+     tfttrovestablesnames.json         315.9 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-46    1721705206.0951815 
+         tftuxtunables.json              161 B      2024-Jul-29 00:08    1722182880.0     2024-06-24 14-18-40    1719209920.8134687 
+        ward-skin-sets.json             3.4 KiB     2024-Jul-29 00:07    1722182820.0     2024-06-24 14-18-45    1719209925.1928136 
+[2024-08-02 18-02-44][6/18][1/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/challenges.json
+[2024-08-02 18-02-46]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/challenges.json
+[2024-08-02 18-02-46][6/18][2/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-rune-recommendations.json
+[2024-08-02 18-02-47]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-rune-recommendations.json
+[2024-08-02 18-02-47][6/18][3/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/cherry-augments.json
+[2024-08-02 18-02-48]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/cherry-augments.json
+[2024-08-02 18-02-48][6/18][4/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/clash-vo.json
+[2024-08-02 18-02-49][6/18][5/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/companions.json
+[2024-08-02 18-02-51]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/companions.json
+[2024-08-02 18-02-51][6/18][6/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/discord_strings.json
+[2024-08-02 18-02-53][6/18][7/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/event-hub.json
+[2024-08-02 18-02-54]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/event-hub.json
+[2024-08-02 18-02-54][6/18][8/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/generic-assets.json
+[2024-08-02 18-02-55]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/generic-assets.json
+[2024-08-02 18-02-55][6/18][9/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/hovertips.json
+[2024-08-02 18-02-56][6/18][10/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/items.json
+[2024-08-02 18-02-58]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/items.json
+[2024-08-02 18-02-58][6/18][11/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/loot.json
+[2024-08-02 18-03-00]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/loot.json
+[2024-08-02 18-03-00][6/18][12/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/number-formatting-data.json
+[2024-08-02 18-03-01][6/18][13/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/perks.json
+[2024-08-02 18-03-02]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/perks.json
+[2024-08-02 18-03-02][6/18][14/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/profile-icons.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/profile-icons.json. Time(s) tried: 1
+[2024-08-02 18-03-04]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/profile-icons.json
+[2024-08-02 18-03-04][6/18][15/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rewards.json
+[2024-08-02 18-03-05]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/rewards.json
+[2024-08-02 18-03-05][6/18][16/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/settingstopersist.json
+[2024-08-02 18-03-06][6/18][17/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/skins.json
+[2024-08-02 18-03-08]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/skins.json
+[2024-08-02 18-03-08][6/18][18/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/statstones.json
+[2024-08-02 18-03-10]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/statstones.json
+[2024-08-02 18-03-10][6/18][19/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/strawberry-hub.json
+[2024-08-02 18-03-11]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/strawberry-hub.json
+[2024-08-02 18-03-11][6/18][20/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/stylesheet-teamplanner.json
+[2024-08-02 18-03-14]已添加文件（Added file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/stylesheet-teamplanner.json
+[2024-08-02 18-03-14][6/18][21/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/stylesheet.json
+[2024-08-02 18-03-16]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/stylesheet.json
+[2024-08-02 18-03-16][6/18][22/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/summoner-emotes.json
+[2024-08-02 18-03-17]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/summoner-emotes.json
+[2024-08-02 18-03-17][6/18][23/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/summoner-icon-sets.json
+[2024-08-02 18-03-19][6/18][24/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/summoner-icons.json
+[2024-08-02 18-03-20]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/summoner-icons.json
+[2024-08-02 18-03-20][6/18][25/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftchampions-teamplanner.json
+[2024-08-02 18-03-21]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftchampions-teamplanner.json
+[2024-08-02 18-03-21][6/18][26/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftchampions.json
+[2024-08-02 18-03-24]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftchampions.json
+[2024-08-02 18-03-24][6/18][27/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftdamageskins.json
+[2024-08-02 18-03-25]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftdamageskins.json
+[2024-08-02 18-03-25][6/18][28/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftitems.json
+[2024-08-02 18-03-27]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftitems.json
+[2024-08-02 18-03-27][6/18][29/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftmapskins.json
+[2024-08-02 18-03-28]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftmapskins.json
+[2024-08-02 18-03-28][6/18][30/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftpass-assets.json
+[2024-08-02 18-03-29]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftpass-assets.json
+[2024-08-02 18-03-29][6/18][31/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftpasswelcomedata.json
+[2024-08-02 18-03-30]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftpasswelcomedata.json
+[2024-08-02 18-03-30][6/18][32/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftplaybooks.json
+[2024-08-02 18-03-31]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftplaybooks.json
+[2024-08-02 18-03-31][6/18][33/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftregionportals.json
+[2024-08-02 18-03-32]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftregionportals.json
+[2024-08-02 18-03-32][6/18][34/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftrotationalshopitemdata.json
+[2024-08-02 18-03-34]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftrotationalshopitemdata.json
+[2024-08-02 18-03-34][6/18][35/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftsets.json
+[2024-08-02 18-03-35]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftsets.json
+[2024-08-02 18-03-35][6/18][36/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfttraits.json
+[2024-08-02 18-03-37]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfttraits.json
+[2024-08-02 18-03-37][6/18][37/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovesbannerrewards.json
+[2024-08-02 18-03-39]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovesbannerrewards.json
+[2024-08-02 18-03-39][6/18][38/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovesbanners.json
+[2024-08-02 18-03-42]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovesbanners.json
+[2024-08-02 18-03-42][6/18][39/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovestablesnames.json
+[2024-08-02 18-03-44]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovestablesnames.json
+[2024-08-02 18-03-44][6/18][40/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftuxtunables.json
+[2024-08-02 18-03-46][6/18][41/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/ward-skin-sets.json
+[2024-08-02 18-03-47][7/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/
+[2024-08-02 18-03-48]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/
+   file         size          web_date         web_timestamp        local_date          local_timestamp   
+  -1.json      677 B      2024-Jul-29 00:25    1722183900.0     2024-06-24 14-18-49    1719209929.810696  
+ 121.json     35.5 KiB    2024-Jul-31 06:20    1722378000.0     2024-06-24 14-19-26    1719209966.5103984 
+ 136.json     25.9 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-53    1721705213.089463  
+  14.json     29.4 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-26-54    1721705214.103949  
+ 157.json     46.3 KiB    2024-Jul-31 06:20    1722378000.0     2024-06-24 14-19-47    1719209987.6602116 
+ 233.json     18.3 KiB    2024-Jul-31 06:20    1722378000.0     2024-06-24 14-20-11    1719210011.2338655 
+ 238.json     38.2 KiB    2024-Jul-31 06:20    1722378000.0     2024-06-24 14-20-15    1719210015.7062683 
+ 266.json     30.9 KiB    2024-Jul-31 06:20    1722378000.0     2024-06-24 14-20-24    1719210024.9509804 
+ 3152.json    7.6 KiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-27-06    1721705226.6057458 
+ 420.json     22.9 KiB    2024-Jul-31 06:20    1722378000.0     2024-06-24 14-21-08    1719210068.134895  
+ 498.json     33.3 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-27-19    1721705239.3963363 
+ 517.json     28.0 KiB    2024-Jul-31 06:20    1722378000.0     2024-06-24 14-21-32    1719210092.6867783 
+  69.json     25.9 KiB    2024-Jul-31 06:20    1722378000.0     2024-06-24 14-22-04    1719210124.1633182 
+  72.json     18.0 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-27-22    1721705242.6683211 
+ 777.json     34.1 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-02 10-52-57    1719888777.1492262 
+  84.json     48.9 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-27-24    1721705244.0146728 
+  89.json     41.4 KiB    2024-Jul-31 06:20    1722378000.0     2024-06-24 14-22-40    1719210160.5213559 
+ 893.json     13.7 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-27-24    1721705244.9249642 
+  91.json     33.2 KiB    2024-Jul-31 06:20    1722378000.0     2024-06-24 14-22-51    1719210171.7805595 
+[2024-08-02 18-03-49][7/18][1/19]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/-1.json
+[2024-08-02 18-03-50][7/18][2/19]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/121.json
+[2024-08-02 18-03-51]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/121.json
+[2024-08-02 18-03-51][7/18][3/19]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/136.json
+[2024-08-02 18-03-53]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/136.json
+[2024-08-02 18-03-53][7/18][4/19]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/14.json
+[2024-08-02 18-03-54]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/14.json
+[2024-08-02 18-03-54][7/18][5/19]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/157.json
+[2024-08-02 18-03-56]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/157.json
+[2024-08-02 18-03-56][7/18][6/19]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/233.json
+[2024-08-02 18-03-57]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/233.json
+[2024-08-02 18-03-57][7/18][7/19]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/238.json
+[2024-08-02 18-03-58]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/238.json
+[2024-08-02 18-03-58][7/18][8/19]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/266.json
+[2024-08-02 18-04-00]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/266.json
+[2024-08-02 18-04-00][7/18][9/19]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/3152.json
+[2024-08-02 18-04-01]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/3152.json
+[2024-08-02 18-04-01][7/18][10/19]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/420.json
+[2024-08-02 18-04-02]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/420.json
+[2024-08-02 18-04-02][7/18][11/19]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/498.json
+[2024-08-02 18-04-03]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/498.json
+[2024-08-02 18-04-03][7/18][12/19]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/517.json
+[2024-08-02 18-04-05]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/517.json
+[2024-08-02 18-04-05][7/18][13/19]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/69.json
+[2024-08-02 18-04-06]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/69.json
+[2024-08-02 18-04-06][7/18][14/19]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/72.json
+[2024-08-02 18-04-07]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/72.json
+[2024-08-02 18-04-07][7/18][15/19]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/777.json
+[2024-08-02 18-04-08]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/777.json
+[2024-08-02 18-04-08][7/18][16/19]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/84.json
+[2024-08-02 18-04-09]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/84.json
+[2024-08-02 18-04-09][7/18][17/19]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/89.json
+[2024-08-02 18-04-10]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/89.json
+[2024-08-02 18-04-10][7/18][18/19]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/893.json
+[2024-08-02 18-04-11]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/893.json
+[2024-08-02 18-04-11][7/18][19/19]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/91.json
+[2024-08-02 18-04-12]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/91.json
+[2024-08-02 18-04-12][8/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/map-assets/
+[2024-08-02 18-04-13]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/map-assets/
+      file            size           web_date         web_timestamp        local_date          local_timestamp   
+ map-assets.json    112.7 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-27-28    1721705248.1892827 
+[2024-08-02 18-04-13][8/18][1/1]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/map-assets/map-assets.json
+[2024-08-02 18-04-15]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/map-assets/map-assets.json
+[2024-08-02 18-04-15][9/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/
+[2024-08-02 18-04-16]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/
+              file                   size           web_date         web_timestamp        local_date          local_timestamp   
+        challenges.json            599.0 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-27-31    1721705251.228769  
+      cherry-augments.json         45.1 KiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-27-33    1721705253.4547863 
+         clash-vo.json               654 B      2024-Jul-29 00:25    1722183900.0     2024-06-24 14-23-14    1719210194.4592566 
+        companions.json            751.0 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-27-35    1721705255.3881345 
+      discord_strings.json           604 B      2024-Jul-29 00:25    1722183900.0     2024-06-24 14-23-18    1719210198.3690193 
+         event-hub.json            52.3 KiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-27-36    1721705256.4130921 
+      generic-assets.json          175.2 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-27-37    1721705257.5457659 
+         hovertips.json             1.5 KiB     2024-Jul-29 00:25    1722183900.0     2024-06-24 14-23-26    1719210206.319499  
+           items.json              440.6 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-27-39    1721705259.2993028 
+           loot.json                2.8 MiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-27-41    1721705261.6054187 
+  number-formatting-data.json        528 B      2024-Jul-29 00:25    1722183900.0     2024-06-24 14-23-40    1719210220.4475665 
+           perks.json              95.7 KiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-27-45    1721705265.857889  
+       profile-icons.json          318.4 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-27-47    1721705267.2001069 
+           skins.json               3.4 MiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-27-52    1721705272.0881498 
+        statstones.json             1.7 MiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-27-56    1721705276.9599705 
+      strawberry-hub.json          195.4 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-27-58    1721705278.648374  
+  stylesheet-teamplanner.json        54 B       2024-Jul-31 06:20    1722378000.0     1970-01-01 08-00-00           0.0         
+        stylesheet.json            19.7 KiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-27-59    1721705279.6428678 
+      summoner-emotes.json         318.8 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-28-01    1721705281.0494976 
+    summoner-icon-sets.json        19.7 KiB     2024-Jul-29 00:24    1722183840.0     2024-06-24 14-24-11    1719210251.263738  
+      summoner-icons.json           1.4 MiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-28-03    1721705283.0864015 
+ tftchampions-teamplanner.json     28.6 KiB     2024-Jul-31 06:20    1722378000.0     2024-06-24 14-24-20    1719210260.5151148 
+       tftchampions.json           80.0 KiB     2024-Jul-31 06:20    1722378000.0     2024-06-24 14-24-22    1719210262.6866045 
+      tftdamageskins.json          66.9 KiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-28-04    1721705284.108858  
+         tftitems.json             316.2 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-02 10-53-30    1719888810.116463  
+        tftmapskins.json           31.3 KiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-28-05    1721705285.0664167 
+    tftpasswelcomedata.json          207 B      2024-Jul-31 06:20    1722378000.0     2024-06-24 14-24-33    1719210273.9494152 
+       tftplaybooks.json           55.5 KiB     2024-Jul-31 06:20    1722378000.0     2024-07-02 10-53-32    1719888812.600937  
+     tftregionportals.json          8.8 KiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-28-06    1721705286.1061554 
+ tftrotationalshopitemdata.json    748.6 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-28-07    1721705287.7741783 
+          tftsets.json              1.1 KiB     2024-Jul-31 06:20    1722378000.0     2024-07-02 10-53-36    1719888816.0343475 
+         tfttraits.json            164.7 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-28-09    1721705289.1894262 
+  tfttrovesbannerrewards.json      663.1 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-28-10    1721705290.6692293 
+     tfttrovesbanners.json          6.1 MiB     2024-Jul-31 06:20    1722378000.0     2024-07-23 11-28-14    1721705294.5026488 
+   tfttrovestablesnames.json       326.0 KiB    2024-Jul-31 06:20    1722378000.0     2024-07-23 11-28-15    1721705295.852117  
+       tftuxtunables.json            161 B      2024-Jul-29 00:24    1722183840.0     2024-06-24 14-24-51    1719210291.7480965 
+      ward-skin-sets.json           3.4 KiB     2024-Jul-29 00:25    1722183900.0     2024-06-24 14-24-54    1719210294.3046815 
+[2024-08-02 18-04-16][9/18][1/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/challenges.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/challenges.json. Time(s) tried: 1
+[2024-08-02 18-04-19]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/challenges.json
+[2024-08-02 18-04-19][9/18][2/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/cherry-augments.json
+[2024-08-02 18-04-28]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/cherry-augments.json
+[2024-08-02 18-04-28][9/18][3/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/clash-vo.json
+[2024-08-02 18-04-29][9/18][4/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/companions.json
+[2024-08-02 18-04-32]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/companions.json
+[2024-08-02 18-04-32][9/18][5/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/discord_strings.json
+[2024-08-02 18-04-34][9/18][6/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/event-hub.json
+[2024-08-02 18-04-36]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/event-hub.json
+[2024-08-02 18-04-36][9/18][7/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/generic-assets.json
+[2024-08-02 18-04-38]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/generic-assets.json
+[2024-08-02 18-04-38][9/18][8/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/hovertips.json
+[2024-08-02 18-04-40][9/18][9/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/items.json
+[2024-08-02 18-04-41]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/items.json
+[2024-08-02 18-04-41][9/18][10/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/loot.json
+[2024-08-02 18-04-45]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/loot.json
+[2024-08-02 18-04-45][9/18][11/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/number-formatting-data.json
+[2024-08-02 18-04-46][9/18][12/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/perks.json
+[2024-08-02 18-04-49]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/perks.json
+[2024-08-02 18-04-49][9/18][13/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/profile-icons.json
+[2024-08-02 18-04-51]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/profile-icons.json
+[2024-08-02 18-04-51][9/18][14/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/skins.json
+[2024-08-02 18-04-54]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/skins.json
+[2024-08-02 18-04-54][9/18][15/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/statstones.json
+[2024-08-02 18-04-57]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/statstones.json
+[2024-08-02 18-04-57][9/18][16/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/strawberry-hub.json
+[2024-08-02 18-05-00]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/strawberry-hub.json
+[2024-08-02 18-05-00][9/18][17/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/stylesheet-teamplanner.json
+[2024-08-02 18-05-01]已添加文件（Added file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/stylesheet-teamplanner.json
+[2024-08-02 18-05-01][9/18][18/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/stylesheet.json
+[2024-08-02 18-05-03]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/stylesheet.json
+[2024-08-02 18-05-03][9/18][19/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/summoner-emotes.json
+[2024-08-02 18-05-07]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/summoner-emotes.json
+[2024-08-02 18-05-07][9/18][20/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/summoner-icon-sets.json
+[2024-08-02 18-05-08][9/18][21/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/summoner-icons.json
+[2024-08-02 18-05-10]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/summoner-icons.json
+[2024-08-02 18-05-10][9/18][22/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftchampions-teamplanner.json
+[2024-08-02 18-05-12]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftchampions-teamplanner.json
+[2024-08-02 18-05-12][9/18][23/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftchampions.json
+[2024-08-02 18-05-13]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftchampions.json
+[2024-08-02 18-05-13][9/18][24/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftdamageskins.json
+[2024-08-02 18-05-15]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftdamageskins.json
+[2024-08-02 18-05-15][9/18][25/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftitems.json
+[2024-08-02 18-05-18]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftitems.json
+[2024-08-02 18-05-18][9/18][26/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftmapskins.json
+[2024-08-02 18-05-19]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftmapskins.json
+[2024-08-02 18-05-19][9/18][27/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftpasswelcomedata.json
+[2024-08-02 18-05-20]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftpasswelcomedata.json
+[2024-08-02 18-05-20][9/18][28/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftplaybooks.json
+[2024-08-02 18-05-22]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftplaybooks.json
+[2024-08-02 18-05-22][9/18][29/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftregionportals.json
+[2024-08-02 18-05-23]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftregionportals.json
+[2024-08-02 18-05-23][9/18][30/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftrotationalshopitemdata.json
+[2024-08-02 18-05-25]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftrotationalshopitemdata.json
+[2024-08-02 18-05-25][9/18][31/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftsets.json
+[2024-08-02 18-05-26]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftsets.json
+[2024-08-02 18-05-26][9/18][32/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttraits.json
+[2024-08-02 18-05-27]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttraits.json
+[2024-08-02 18-05-27][9/18][33/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovesbannerrewards.json
+[2024-08-02 18-05-28]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovesbannerrewards.json
+[2024-08-02 18-05-28][9/18][34/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovesbanners.json
+[2024-08-02 18-05-32]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovesbanners.json
+[2024-08-02 18-05-32][9/18][35/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovestablesnames.json
+[2024-08-02 18-05-34]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovestablesnames.json
+[2024-08-02 18-05-34][9/18][36/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftuxtunables.json
+[2024-08-02 18-05-35][9/18][37/37]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/ward-skin-sets.json
+[2024-08-02 18-05-36][10/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/
+[2024-08-02 18-05-37]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/pbe/
+             file                size        web_date         web_timestamp        local_date          local_timestamp   
+ compat-version-metadata.json    59 B    2024-Aug-01 20:40    1722516000.0     2024-07-28 09-35-01    1722130501.786263  
+    content-metadata.json        61 B    2024-Aug-01 20:40    1722516000.0     2024-07-28 09-35-03    1722130503.1140268 
+[2024-08-02 18-05-37][10/18][1/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/compat-version-metadata.json
+[2024-08-02 18-05-38]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/compat-version-metadata.json
+[2024-08-02 18-05-38][10/18][2/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/content-metadata.json
+[2024-08-02 18-05-39]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/content-metadata.json
+[2024-08-02 18-05-39][11/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/cdragon/arena/
+[2024-08-02 18-05-40]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/pbe/cdragon/arena/
+    file         size           web_date         web_timestamp        local_date          local_timestamp   
+ en_us.json    176.4 KiB    2024-Aug-01 20:41    1722516060.0     2024-08-01 20-50-36    1722516636.4751563 
+ zh_cn.json    178.9 KiB    2024-Aug-01 20:41    1722516060.0     2024-08-01 20-50-36    1722516636.4771562 
+[2024-08-02 18-05-40][11/18][1/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/cdragon/arena/en_us.json
+[2024-08-02 18-05-42]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/cdragon/arena/en_us.json
+[2024-08-02 18-05-42][11/18][2/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/cdragon/arena/zh_cn.json
+[2024-08-02 18-05-43]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/cdragon/arena/zh_cn.json
+[2024-08-02 18-05-43][12/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/cdragon/tft/
+[2024-08-02 18-05-45]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/pbe/cdragon/tft/
+    file        size          web_date         web_timestamp        local_date          local_timestamp   
+ en_us.json    5.5 MiB    2024-Aug-01 20:41    1722516060.0     2024-08-01 20-50-36    1722516636.4978101 
+ zh_cn.json    5.6 MiB    2024-Aug-01 20:41    1722516060.0     2024-08-01 20-50-36    1722516636.517735  
+[2024-08-02 18-05-45][12/18][1/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/cdragon/tft/en_us.json
+[2024-08-02 18-05-47]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/cdragon/tft/en_us.json
+[2024-08-02 18-05-47][12/18][2/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/cdragon/tft/zh_cn.json
+[2024-08-02 18-05-50]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/cdragon/tft/zh_cn.json
+[2024-08-02 18-05-50][13/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/
+[2024-08-02 18-05-51]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/
+   file        size          web_date         web_timestamp        local_date          local_timestamp   
+ 126.json    26.2 KiB    2024-Jul-30 20:51    1722343860.0     2024-06-24 14-25-28    1719210328.9071224 
+ 222.json    34.1 KiB    2024-Jul-30 20:51    1722343860.0     2024-06-24 14-26-00    1719210360.1773422 
+ 432.json    23.7 KiB    2024-Jul-30 20:51    1722343860.0     2024-06-24 14-26-42    1719210402.819371  
+ 61.json     27.3 KiB    2024-Jul-30 20:51    1722343860.0     2024-06-24 14-27-05    1719210425.9451828 
+ 64.json     41.5 KiB    2024-Jul-30 20:51    1722343860.0     2024-06-24 14-27-08    1719210428.3533218 
+ 69.json     24.8 KiB    2024-Jul-30 20:51    1722343860.0     2024-07-28 09-35-25    1722130525.5667994 
+[2024-08-02 18-05-51][13/18][1/6]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/126.json
+[2024-08-02 18-05-52]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/126.json
+[2024-08-02 18-05-52][13/18][2/6]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/222.json
+[2024-08-02 18-05-53]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/222.json
+[2024-08-02 18-05-53][13/18][3/6]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/432.json
+[2024-08-02 18-05-54]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/432.json
+[2024-08-02 18-05-54][13/18][4/6]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/61.json
+[2024-08-02 18-05-55]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/61.json
+[2024-08-02 18-05-55][13/18][5/6]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/64.json
+[2024-08-02 18-05-56]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/64.json
+[2024-08-02 18-05-56][13/18][6/6]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/69.json
+[2024-08-02 18-05-57]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/69.json
+[2024-08-02 18-05-57][14/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/map-assets/
+[2024-08-02 18-05-58]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/map-assets/
+Empty DataFrame
+Columns: [file, size, web_date, web_timestamp, local_date, local_timestamp]
+Index: []
+[2024-08-02 18-05-58][15/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/
+[2024-08-02 18-05-59]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/
+                file                     size           web_date         web_timestamp        local_date          local_timestamp   
+ champion-rune-recommendations.json    321.8 KiB    2024-Aug-01 20:41    1722516060.0     2024-07-28 09-35-42    1722130542.4195504 
+          companions.json              753.1 KiB    2024-Jul-30 20:51    1722343860.0     2024-07-28 09-35-45    1722130545.6542456 
+        generic-assets.json            175.9 KiB    2024-Aug-01 20:41    1722516060.0     2024-07-28 09-35-47    1722130547.8374836 
+             items.json                441.8 KiB    2024-Jul-30 20:51    1722343860.0     2024-07-28 09-35-49     1722130549.52429  
+             loot.json                  2.8 MiB     2024-Aug-01 20:41    1722516060.0     2024-07-28 09-35-51    1722130551.797259  
+             perks.json                93.5 KiB     2024-Jul-30 20:51    1722343860.0     2024-07-28 09-35-53    1722130553.3784058 
+         profile-icons.json            319.1 KiB    2024-Jul-30 20:51    1722343860.0     2024-07-17 12-35-57    1721190957.8099277 
+            rewards.json               548.8 KiB    2024-Aug-01 20:41    1722516060.0     2024-07-28 09-35-54    1722130554.8477552 
+           skinlines.json              51.6 KiB     2024-Jul-30 20:51    1722343860.0     2024-06-26 10-36-45    1719369405.007618  
+             skins.json                 3.1 MiB     2024-Jul-30 20:51    1722343860.0     2024-07-19 11-36-19    1721360179.3543732 
+        summoner-emotes.json           311.6 KiB    2024-Jul-30 20:51    1722343860.0     2024-07-17 12-36-03    1721190963.4775083 
+        summoner-icons.json             1.6 MiB     2024-Jul-30 20:51    1722343860.0     2024-07-17 12-36-05    1721190965.8977869 
+         tftchampions.json             79.2 KiB     2024-Jul-31 20:32    1722429120.0     2024-07-17 12-36-08    1721190968.5050826 
+        tftdamageskins.json            67.3 KiB     2024-Jul-30 20:51    1722343860.0     2024-07-28 09-36-00    1722130560.6960144 
+           tftitems.json               317.2 KiB    2024-Aug-01 20:41    1722516060.0     2024-07-28 09-36-02    1722130562.3466628 
+         tftplaybooks.json             54.4 KiB     2024-Aug-01 20:41    1722516060.0     2024-07-28 09-36-03    1722130563.122281  
+   tftrotationalshopitemdata.json      752.7 KiB    2024-Jul-30 20:51    1722343860.0     2024-07-28 09-36-04    1722130564.4799354 
+    tfttrovesbannerrewards.json        667.1 KiB    2024-Jul-30 20:51    1722343860.0     2024-07-28 09-36-07    1722130567.8260345 
+       tfttrovesbanners.json            6.1 MiB     2024-Jul-30 20:51    1722343860.0     2024-07-17 12-36-27    1721190987.8575606 
+     tfttrovestablesnames.json         317.4 KiB    2024-Jul-30 20:51    1722343860.0     2024-07-28 09-36-08    1722130568.894696  
+           universes.json              34.3 KiB     2024-Jul-30 20:51    1722343860.0     2024-06-26 10-37-03    1719369423.0333066 
+          ward-skins.json              112.5 KiB    2024-Jul-30 20:51    1722343860.0     2024-07-09 10-11-44    1720491104.960376  
+[2024-08-02 18-05-59][15/18][1/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-rune-recommendations.json
+[2024-08-02 18-06-01]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-rune-recommendations.json
+[2024-08-02 18-06-01][15/18][2/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/companions.json
+[2024-08-02 18-06-03]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/companions.json
+[2024-08-02 18-06-03][15/18][3/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/generic-assets.json
+[2024-08-02 18-06-04]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/generic-assets.json
+[2024-08-02 18-06-04][15/18][4/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/items.json
+[2024-08-02 18-06-06]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/items.json
+[2024-08-02 18-06-06][15/18][5/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/loot.json
+[2024-08-02 18-06-09]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/loot.json
+[2024-08-02 18-06-09][15/18][6/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/perks.json
+[2024-08-02 18-06-11]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/perks.json
+[2024-08-02 18-06-11][15/18][7/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/profile-icons.json
+[2024-08-02 18-06-12]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/profile-icons.json
+[2024-08-02 18-06-12][15/18][8/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rewards.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rewards.json. Time(s) tried: 1
+[2024-08-02 18-06-14]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rewards.json
+[2024-08-02 18-06-14][15/18][9/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/skinlines.json
+[2024-08-02 18-06-15]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/skinlines.json
+[2024-08-02 18-06-15][15/18][10/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/skins.json
+[2024-08-02 18-06-18]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/skins.json
+[2024-08-02 18-06-18][15/18][11/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/summoner-emotes.json
+[2024-08-02 18-06-19]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/summoner-emotes.json
+[2024-08-02 18-06-19][15/18][12/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/summoner-icons.json
+[2024-08-02 18-06-21]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/summoner-icons.json
+[2024-08-02 18-06-21][15/18][13/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tftchampions.json
+[2024-08-02 18-06-23]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tftchampions.json
+[2024-08-02 18-06-23][15/18][14/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tftdamageskins.json
+[2024-08-02 18-06-24]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tftdamageskins.json
+[2024-08-02 18-06-24][15/18][15/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tftitems.json
+[2024-08-02 18-06-25]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tftitems.json
+[2024-08-02 18-06-25][15/18][16/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tftplaybooks.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tftplaybooks.json. Time(s) tried: 1
+[2024-08-02 18-06-27]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tftplaybooks.json
+[2024-08-02 18-06-27][15/18][17/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tftrotationalshopitemdata.json
+[2024-08-02 18-06-29]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tftrotationalshopitemdata.json
+[2024-08-02 18-06-29][15/18][18/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovesbannerrewards.json
+[2024-08-02 18-06-31]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovesbannerrewards.json
+[2024-08-02 18-06-31][15/18][19/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovesbanners.json
+[2024-08-02 18-06-35]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovesbanners.json
+[2024-08-02 18-06-35][15/18][20/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovestablesnames.json
+[2024-08-02 18-06-36]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovestablesnames.json
+[2024-08-02 18-06-36][15/18][21/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/universes.json
+[2024-08-02 18-06-38]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/universes.json
+[2024-08-02 18-06-38][15/18][22/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/ward-skins.json
+[2024-08-02 18-06-40]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/ward-skins.json
+[2024-08-02 18-06-40][16/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/
+[2024-08-02 18-06-41]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/
+   file        size          web_date         web_timestamp        local_date          local_timestamp   
+ 126.json    27.2 KiB    2024-Aug-01 20:41    1722516060.0     2024-06-24 14-29-32    1719210572.762995  
+ 222.json    36.5 KiB    2024-Aug-01 20:41    1722516060.0     2024-06-24 14-30-19    1719210619.5652175 
+ 432.json    24.7 KiB    2024-Aug-01 20:41    1722516060.0     2024-06-24 14-31-13    1719210673.5897465 
+ 61.json     29.4 KiB    2024-Aug-01 20:41    1722516060.0     2024-06-24 14-31-36    1719210696.2170491 
+ 64.json     44.7 KiB    2024-Aug-01 20:41    1722516060.0     2024-06-24 14-31-38    1719210698.7823775 
+ 69.json     26.0 KiB    2024-Aug-01 20:41    1722516060.0     2024-07-28 09-36-21    1722130581.2863727 
+ 89.json     41.2 KiB    2024-Jul-30 20:51    1722343860.0     2024-07-28 09-36-24    1722130584.690489  
+[2024-08-02 18-06-42][16/18][1/7]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/126.json
+[2024-08-02 18-06-43]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/126.json
+[2024-08-02 18-06-43][16/18][2/7]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/222.json
+[2024-08-02 18-06-45]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/222.json
+[2024-08-02 18-06-45][16/18][3/7]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/432.json
+[2024-08-02 18-06-46]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/432.json
+[2024-08-02 18-06-46][16/18][4/7]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/61.json
+[2024-08-02 18-06-48]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/61.json
+[2024-08-02 18-06-48][16/18][5/7]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/64.json
+[2024-08-02 18-06-50]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/64.json
+[2024-08-02 18-06-50][16/18][6/7]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/69.json
+[2024-08-02 18-06-51]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/69.json
+[2024-08-02 18-06-51][16/18][7/7]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/89.json
+[2024-08-02 18-06-52]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/89.json
+[2024-08-02 18-06-52][17/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/map-assets/
+[2024-08-02 18-06-54]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/map-assets/
+Empty DataFrame
+Columns: [file, size, web_date, web_timestamp, local_date, local_timestamp]
+Index: []
+[2024-08-02 18-06-54][18/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/
+[2024-08-02 18-06-55]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/
+              file                   size           web_date         web_timestamp        local_date          local_timestamp   
+        companions.json            756.5 KiB    2024-Aug-01 20:41    1722516060.0     2024-07-28 09-36-33    1722130593.1300364 
+      generic-assets.json          175.9 KiB    2024-Aug-01 20:41    1722516060.0     2024-07-28 09-36-35    1722130595.6221807 
+           items.json              440.7 KiB    2024-Aug-01 20:41    1722516060.0     2024-07-28 09-36-37    1722130597.8912003 
+           loot.json                2.8 MiB     2024-Aug-01 20:41    1722516060.0     2024-07-28 09-36-40    1722130600.3620799 
+           perks.json              95.0 KiB     2024-Aug-01 20:41    1722516060.0     2024-07-28 09-36-41    1722130601.712555  
+        perkstyles.json            17.1 KiB     2024-Jul-31 20:32    1722429120.0     2024-06-24 14-32-38    1719210758.4504194 
+       profile-icons.json          319.1 KiB    2024-Jul-30 20:51    1722343860.0     2024-07-17 12-37-02    1721191022.2394838 
+         skinlines.json            50.9 KiB     2024-Aug-01 20:41    1722516060.0     2024-07-09 10-12-26     1720491146.13066  
+           skins.json               3.4 MiB     2024-Aug-01 20:41    1722516060.0     2024-07-28 09-36-45    1722130605.1144428 
+      summoner-emotes.json         319.1 KiB    2024-Aug-01 20:41    1722516060.0     2024-07-28 09-36-52    1722130612.5382533 
+      summoner-icons.json           1.4 MiB     2024-Aug-01 20:41    1722516060.0     2024-07-28 09-36-54    1722130614.3106432 
+       tftchampions.json           80.0 KiB     2024-Jul-31 20:32    1722429120.0     2024-07-17 12-37-15    1721191035.381833  
+      tftdamageskins.json          67.4 KiB     2024-Jul-30 20:51    1722343860.0     2024-07-28 09-36-55    1722130615.3754237 
+         tftitems.json             316.4 KiB    2024-Aug-01 20:41    1722516060.0     2024-07-28 09-36-57    1722130617.7159746 
+       tftplaybooks.json           55.4 KiB     2024-Aug-01 20:41    1722516060.0     2024-07-28 09-37-00    1722130620.7541392 
+ tftrotationalshopitemdata.json    752.8 KiB    2024-Aug-01 20:41    1722516060.0     2024-07-28 09-37-02    1722130622.1871662 
+  tfttrovesbannerrewards.json      668.9 KiB    2024-Aug-01 20:41    1722516060.0     2024-07-28 09-37-05    1722130625.3407848 
+     tfttrovesbanners.json          6.1 MiB     2024-Aug-01 20:41    1722516060.0     2024-07-28 09-37-09    1722130629.5296435 
+   tfttrovestablesnames.json       327.6 KiB    2024-Aug-01 20:41    1722516060.0     2024-07-28 09-37-10    1722130630.9488244 
+         universes.json            33.8 KiB     2024-Jul-30 20:51    1722343860.0     2024-06-26 10-37-58    1719369478.028965  
+      ward-skin-sets.json           3.4 KiB     2024-Jul-31 20:32    1722429120.0     2024-06-24 14-33-20    1719210800.1656034 
+        ward-skins.json            103.9 KiB    2024-Aug-01 20:41    1722516060.0     2024-07-10 11-50-39    1720583439.2585547 
+[2024-08-02 18-06-55][18/18][1/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/companions.json
+[2024-08-02 18-06-57]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/companions.json
+[2024-08-02 18-06-57][18/18][2/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/generic-assets.json
+[2024-08-02 18-06-59]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/generic-assets.json
+[2024-08-02 18-06-59][18/18][3/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/items.json
+[2024-08-02 18-07-01]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/items.json
+[2024-08-02 18-07-01][18/18][4/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/loot.json
+[2024-08-02 18-07-05]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/loot.json
+[2024-08-02 18-07-05][18/18][5/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/perks.json
+[2024-08-02 18-07-06]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/perks.json
+[2024-08-02 18-07-06][18/18][6/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/perkstyles.json
+[2024-08-02 18-07-08][18/18][7/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/profile-icons.json
+[2024-08-02 18-07-09]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/profile-icons.json
+[2024-08-02 18-07-09][18/18][8/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/skinlines.json
+[2024-08-02 18-07-11]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/skinlines.json
+[2024-08-02 18-07-11][18/18][9/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/skins.json
+[2024-08-02 18-07-14]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/skins.json
+[2024-08-02 18-07-14][18/18][10/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/summoner-emotes.json
+[2024-08-02 18-07-16]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/summoner-emotes.json
+[2024-08-02 18-07-16][18/18][11/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/summoner-icons.json
+[2024-08-02 18-07-18]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/summoner-icons.json
+[2024-08-02 18-07-18][18/18][12/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftchampions.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftchampions.json. Time(s) tried: 1
+[2024-08-02 18-07-20]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftchampions.json
+[2024-08-02 18-07-20][18/18][13/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftdamageskins.json
+[2024-08-02 18-07-22]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftdamageskins.json
+[2024-08-02 18-07-22][18/18][14/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftitems.json
+[2024-08-02 18-07-24]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftitems.json
+[2024-08-02 18-07-24][18/18][15/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftplaybooks.json
+[2024-08-02 18-07-25]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftplaybooks.json
+[2024-08-02 18-07-25][18/18][16/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftrotationalshopitemdata.json
+[2024-08-02 18-07-27]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftrotationalshopitemdata.json
+[2024-08-02 18-07-27][18/18][17/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovesbannerrewards.json
+[2024-08-02 18-07-29]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovesbannerrewards.json
+[2024-08-02 18-07-29][18/18][18/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovesbanners.json
+[2024-08-02 18-07-34]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovesbanners.json
+[2024-08-02 18-07-34][18/18][19/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovestablesnames.json
+[2024-08-02 18-07-36]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovestablesnames.json
+[2024-08-02 18-07-36][18/18][20/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/universes.json
+[2024-08-02 18-07-37]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/universes.json
+[2024-08-02 18-07-37][18/18][21/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/ward-skin-sets.json
+[2024-08-02 18-07-38][18/18][22/22]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/ward-skins.json
+[2024-08-02 18-07-39]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/ward-skins.json
+已更新以下161个文件：
+Updated the following 161 file(s):
+https://raw.communitydragon.org/latest/compat-version-metadata.json
+https://raw.communitydragon.org/latest/content-metadata.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/121.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/136.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/14.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/157.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/233.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/238.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/266.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/3152.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/420.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/517.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/69.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/72.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/777.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/84.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/89.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/893.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/91.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/map-assets/map-assets.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/challenges.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-rune-recommendations.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/cherry-augments.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/companions.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/event-hub.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/generic-assets.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/items.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/loot.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/perks.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/profile-icons.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rewards.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/skins.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/statstones.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/strawberry-hub.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/stylesheet.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/summoner-emotes.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/summoner-icons.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftchampions-teamplanner.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftchampions.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftdamageskins.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftitems.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftmapskins.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftpass-assets.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftpasswelcomedata.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftplaybooks.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftregionportals.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftrotationalshopitemdata.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftsets.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfttraits.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovesbannerrewards.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovesbanners.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovestablesnames.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/121.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/136.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/14.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/157.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/233.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/238.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/266.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/3152.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/420.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/498.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/517.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/69.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/72.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/777.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/84.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/89.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/893.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/91.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/map-assets/map-assets.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/challenges.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/cherry-augments.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/companions.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/event-hub.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/generic-assets.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/items.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/loot.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/perks.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/profile-icons.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/skins.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/statstones.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/strawberry-hub.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/stylesheet.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/summoner-emotes.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/summoner-icons.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftchampions-teamplanner.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftchampions.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftdamageskins.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftitems.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftmapskins.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftpasswelcomedata.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftplaybooks.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftregionportals.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftrotationalshopitemdata.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftsets.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttraits.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovesbannerrewards.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovesbanners.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovestablesnames.json
+https://raw.communitydragon.org/pbe/compat-version-metadata.json
+https://raw.communitydragon.org/pbe/content-metadata.json
+https://raw.communitydragon.org/pbe/cdragon/arena/en_us.json
+https://raw.communitydragon.org/pbe/cdragon/arena/zh_cn.json
+https://raw.communitydragon.org/pbe/cdragon/tft/en_us.json
+https://raw.communitydragon.org/pbe/cdragon/tft/zh_cn.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/126.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/222.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/432.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/61.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/64.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/69.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-rune-recommendations.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/companions.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/generic-assets.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/items.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/loot.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/perks.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/profile-icons.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rewards.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/skinlines.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/skins.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/summoner-emotes.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/summoner-icons.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tftchampions.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tftdamageskins.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tftitems.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tftplaybooks.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tftrotationalshopitemdata.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovesbannerrewards.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovesbanners.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovestablesnames.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/universes.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/ward-skins.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/126.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/222.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/432.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/61.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/64.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/69.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/89.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/companions.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/generic-assets.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/items.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/loot.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/perks.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/profile-icons.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/skinlines.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/skins.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/summoner-emotes.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/summoner-icons.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftchampions.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftdamageskins.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftitems.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftplaybooks.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftrotationalshopitemdata.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovesbannerrewards.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovesbanners.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovestablesnames.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/universes.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/ward-skins.json
+
+已添加以下2个文件：
+Added the following 2 file(s):
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/stylesheet-teamplanner.json
+https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/stylesheet-teamplanner.json
+
+请选择要更新的数据资源，输入空字符串以退出程序：
+Please select the data resource to update, or submit an empty string to exit the program:
+1	CommunityDragon
+2	DataDragon
+2
+请按以下步骤操作：
+Please follow these steps:
+1. 访问网址https://developer.riotgames.com/docs/lol#data-dragon
+   Visit the website: https://developer.riotgames.com/docs/lol#data-dragon
+2. 在Latest中找到正式服最新版本数据资源压缩包下载链接。例如：https://ddragon.leagueoflegends.com/cdn/dragontail-14.14.1.tgz
+   Find the link to download the compressed tarball of the latest data resource for live servers. For example: https://ddragon.leagueoflegends.com/cdn/dragontail-14.14.1.tgz
+3. 下载。这需要花费一些时间。
+   Download the file. It may take some time.
+4. 将下载好的tgz文件直接“解压至此”。
+   "Extract here" for the tgz file.
+5. 将解压出来的压缩包再次解压到选定文件夹下与压缩包同名的文件夹。示例：将“dragontail-14.14.1.tar”解压到“D:/360AI浏览器下载/dragontail-14.14.1”文件夹下。
+Extract to "Archive-Name" folder under the selected folder for the extracted tar file. For example, extract "dragontail-14.14.1.tar" into the folder "D:/Downloads/dragontail-14.14.1".
+接下来，请给出数据资源的位置。（按照上例应为“D:/360AI浏览器下载/dragontail-14.14.1/14.14.1/data”。）
+Next, please provide the directory that stores the data resources. (By the above example, the directory should be "D:/Downloads/dragontail-14.14.1/14.14.1/data".)
+D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data
+[2024-08-02 18-10-24][1]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/challenges.json
+[2024-08-02 18-10-24][2]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion.json
+[2024-08-02 18-10-24][2]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion.json
+[2024-08-02 18-10-24][3]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/championFull.json
+[2024-08-02 18-10-24][3]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/championFull.json
+[2024-08-02 18-10-24][4]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/item-modifiers.json
+[2024-08-02 18-10-24][4]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/item-modifiers.json
+[2024-08-02 18-10-24][5]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/item.json
+[2024-08-02 18-10-24][5]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/item.json
+[2024-08-02 18-10-24][6]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/language.json
+[2024-08-02 18-10-24][6]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/language.json
+[2024-08-02 18-10-24][7]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/map.json
+[2024-08-02 18-10-24][7]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/map.json
+[2024-08-02 18-10-24][8]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/mission-assets.json
+[2024-08-02 18-10-24][8]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/mission-assets.json
+[2024-08-02 18-10-24][9]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/profileicon.json
+[2024-08-02 18-10-25][9]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/profileicon.json
+[2024-08-02 18-10-25][10]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/runesReforged.json
+[2024-08-02 18-10-25][10]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/runesReforged.json
+[2024-08-02 18-10-25][11]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/spellbuffs.json
+[2024-08-02 18-10-25][11]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/spellbuffs.json
+[2024-08-02 18-10-25][12]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/sticker.json
+[2024-08-02 18-10-25][12]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/sticker.json
+[2024-08-02 18-10-25][13]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/summoner.json
+[2024-08-02 18-10-25][13]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/summoner.json
+[2024-08-02 18-10-25][14]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/tft-arena.json
+[2024-08-02 18-10-25][14]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/tft-arena.json
+[2024-08-02 18-10-25][15]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/tft-augments.json
+[2024-08-02 18-10-25][15]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/tft-augments.json
+[2024-08-02 18-10-25][16]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/tft-champion.json
+[2024-08-02 18-10-25][16]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/tft-champion.json
+[2024-08-02 18-10-25][17]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/tft-charms.json
+[2024-08-02 18-10-25][17]已添加文件（Added file）：离线数据（Offline Data）/ddragon/en_US/tft-charms.json
+[2024-08-02 18-10-25][18]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/tft-hero-augments.json
+[2024-08-02 18-10-25][18]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/tft-hero-augments.json
+[2024-08-02 18-10-25][19]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/tft-item.json
+[2024-08-02 18-10-25][19]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/tft-item.json
+[2024-08-02 18-10-25][20]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/tft-queues.json
+[2024-08-02 18-10-25][20]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/tft-queues.json
+[2024-08-02 18-10-25][21]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/tft-regalia.json
+[2024-08-02 18-10-25][21]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/tft-regalia.json
+[2024-08-02 18-10-25][22]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/tft-region-portals.json
+[2024-08-02 18-10-25][22]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/tft-region-portals.json
+[2024-08-02 18-10-25][23]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/tft-tactician.json
+[2024-08-02 18-10-25][23]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/tft-tactician.json
+[2024-08-02 18-10-25][24]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/tft-trait.json
+[2024-08-02 18-10-25][24]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/tft-trait.json
+[2024-08-02 18-10-25][25]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Aatrox.json
+[2024-08-02 18-10-25][25]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Aatrox.json
+[2024-08-02 18-10-25][26]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Ahri.json
+[2024-08-02 18-10-25][26]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Ahri.json
+[2024-08-02 18-10-25][27]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Akali.json
+[2024-08-02 18-10-25][27]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Akali.json
+[2024-08-02 18-10-25][28]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Akshan.json
+[2024-08-02 18-10-25][28]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Akshan.json
+[2024-08-02 18-10-25][29]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Alistar.json
+[2024-08-02 18-10-25][29]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Alistar.json
+[2024-08-02 18-10-25][30]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Amumu.json
+[2024-08-02 18-10-25][30]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Amumu.json
+[2024-08-02 18-10-25][31]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Anivia.json
+[2024-08-02 18-10-25][31]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Anivia.json
+[2024-08-02 18-10-25][32]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Annie.json
+[2024-08-02 18-10-25][32]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Annie.json
+[2024-08-02 18-10-25][33]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Aphelios.json
+[2024-08-02 18-10-25][33]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Aphelios.json
+[2024-08-02 18-10-25][34]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Ashe.json
+[2024-08-02 18-10-25][34]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Ashe.json
+[2024-08-02 18-10-25][35]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/AurelionSol.json
+[2024-08-02 18-10-25][35]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/AurelionSol.json
+[2024-08-02 18-10-25][36]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Aurora.json
+[2024-08-02 18-10-25][36]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Aurora.json
+[2024-08-02 18-10-25][37]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Azir.json
+[2024-08-02 18-10-25][37]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Azir.json
+[2024-08-02 18-10-25][38]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Bard.json
+[2024-08-02 18-10-25][38]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Bard.json
+[2024-08-02 18-10-25][39]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Belveth.json
+[2024-08-02 18-10-25][39]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Belveth.json
+[2024-08-02 18-10-25][40]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Blitzcrank.json
+[2024-08-02 18-10-25][40]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Blitzcrank.json
+[2024-08-02 18-10-25][41]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Brand.json
+[2024-08-02 18-10-25][41]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Brand.json
+[2024-08-02 18-10-25][42]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Braum.json
+[2024-08-02 18-10-25][42]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Braum.json
+[2024-08-02 18-10-25][43]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Briar.json
+[2024-08-02 18-10-25][43]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Briar.json
+[2024-08-02 18-10-25][44]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Caitlyn.json
+[2024-08-02 18-10-25][44]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Caitlyn.json
+[2024-08-02 18-10-25][45]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Camille.json
+[2024-08-02 18-10-25][45]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Camille.json
+[2024-08-02 18-10-25][46]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Cassiopeia.json
+[2024-08-02 18-10-25][46]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Cassiopeia.json
+[2024-08-02 18-10-25][47]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Chogath.json
+[2024-08-02 18-10-25][47]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Chogath.json
+[2024-08-02 18-10-25][48]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Corki.json
+[2024-08-02 18-10-25][48]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Corki.json
+[2024-08-02 18-10-25][49]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Darius.json
+[2024-08-02 18-10-25][49]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Darius.json
+[2024-08-02 18-10-25][50]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Diana.json
+[2024-08-02 18-10-25][50]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Diana.json
+[2024-08-02 18-10-25][51]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Draven.json
+[2024-08-02 18-10-25][51]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Draven.json
+[2024-08-02 18-10-25][52]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/DrMundo.json
+[2024-08-02 18-10-25][52]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/DrMundo.json
+[2024-08-02 18-10-25][53]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Ekko.json
+[2024-08-02 18-10-25][53]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Ekko.json
+[2024-08-02 18-10-25][54]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Elise.json
+[2024-08-02 18-10-25][54]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Elise.json
+[2024-08-02 18-10-25][55]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Evelynn.json
+[2024-08-02 18-10-25][55]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Evelynn.json
+[2024-08-02 18-10-25][56]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Ezreal.json
+[2024-08-02 18-10-25][56]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Ezreal.json
+[2024-08-02 18-10-25][57]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Fiddlesticks.json
+[2024-08-02 18-10-25][57]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Fiddlesticks.json
+[2024-08-02 18-10-25][58]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Fiora.json
+[2024-08-02 18-10-25][58]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Fiora.json
+[2024-08-02 18-10-25][59]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Fizz.json
+[2024-08-02 18-10-25][59]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Fizz.json
+[2024-08-02 18-10-25][60]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Galio.json
+[2024-08-02 18-10-25][60]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Galio.json
+[2024-08-02 18-10-25][61]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Gangplank.json
+[2024-08-02 18-10-25][61]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Gangplank.json
+[2024-08-02 18-10-25][62]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Garen.json
+[2024-08-02 18-10-25][62]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Garen.json
+[2024-08-02 18-10-25][63]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Gnar.json
+[2024-08-02 18-10-25][63]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Gnar.json
+[2024-08-02 18-10-25][64]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Gragas.json
+[2024-08-02 18-10-25][64]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Gragas.json
+[2024-08-02 18-10-25][65]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Graves.json
+[2024-08-02 18-10-25][65]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Graves.json
+[2024-08-02 18-10-25][66]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Gwen.json
+[2024-08-02 18-10-25][66]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Gwen.json
+[2024-08-02 18-10-25][67]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Hecarim.json
+[2024-08-02 18-10-25][67]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Hecarim.json
+[2024-08-02 18-10-25][68]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Heimerdinger.json
+[2024-08-02 18-10-25][68]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Heimerdinger.json
+[2024-08-02 18-10-25][69]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Hwei.json
+[2024-08-02 18-10-25][69]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Hwei.json
+[2024-08-02 18-10-25][70]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Illaoi.json
+[2024-08-02 18-10-25][70]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Illaoi.json
+[2024-08-02 18-10-25][71]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Irelia.json
+[2024-08-02 18-10-25][71]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Irelia.json
+[2024-08-02 18-10-25][72]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Ivern.json
+[2024-08-02 18-10-25][72]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Ivern.json
+[2024-08-02 18-10-25][73]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Janna.json
+[2024-08-02 18-10-25][73]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Janna.json
+[2024-08-02 18-10-25][74]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/JarvanIV.json
+[2024-08-02 18-10-25][74]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/JarvanIV.json
+[2024-08-02 18-10-25][75]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Jax.json
+[2024-08-02 18-10-25][75]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Jax.json
+[2024-08-02 18-10-25][76]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Jayce.json
+[2024-08-02 18-10-25][76]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Jayce.json
+[2024-08-02 18-10-25][77]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Jhin.json
+[2024-08-02 18-10-25][77]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Jhin.json
+[2024-08-02 18-10-25][78]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Jinx.json
+[2024-08-02 18-10-25][78]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Jinx.json
+[2024-08-02 18-10-25][79]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Kaisa.json
+[2024-08-02 18-10-25][79]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Kaisa.json
+[2024-08-02 18-10-25][80]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Kalista.json
+[2024-08-02 18-10-25][80]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Kalista.json
+[2024-08-02 18-10-25][81]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Karma.json
+[2024-08-02 18-10-25][81]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Karma.json
+[2024-08-02 18-10-25][82]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Karthus.json
+[2024-08-02 18-10-25][82]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Karthus.json
+[2024-08-02 18-10-25][83]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Kassadin.json
+[2024-08-02 18-10-25][83]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Kassadin.json
+[2024-08-02 18-10-25][84]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Katarina.json
+[2024-08-02 18-10-25][84]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Katarina.json
+[2024-08-02 18-10-25][85]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Kayle.json
+[2024-08-02 18-10-25][85]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Kayle.json
+[2024-08-02 18-10-25][86]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Kayn.json
+[2024-08-02 18-10-25][86]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Kayn.json
+[2024-08-02 18-10-25][87]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Kennen.json
+[2024-08-02 18-10-25][87]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Kennen.json
+[2024-08-02 18-10-25][88]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Khazix.json
+[2024-08-02 18-10-25][88]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Khazix.json
+[2024-08-02 18-10-25][89]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Kindred.json
+[2024-08-02 18-10-25][89]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Kindred.json
+[2024-08-02 18-10-25][90]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Kled.json
+[2024-08-02 18-10-25][90]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Kled.json
+[2024-08-02 18-10-25][91]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/KogMaw.json
+[2024-08-02 18-10-25][91]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/KogMaw.json
+[2024-08-02 18-10-25][92]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/KSante.json
+[2024-08-02 18-10-25][92]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/KSante.json
+[2024-08-02 18-10-25][93]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Leblanc.json
+[2024-08-02 18-10-25][93]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Leblanc.json
+[2024-08-02 18-10-25][94]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/LeeSin.json
+[2024-08-02 18-10-25][94]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/LeeSin.json
+[2024-08-02 18-10-25][95]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Leona.json
+[2024-08-02 18-10-25][95]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Leona.json
+[2024-08-02 18-10-25][96]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Lillia.json
+[2024-08-02 18-10-25][96]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Lillia.json
+[2024-08-02 18-10-25][97]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Lissandra.json
+[2024-08-02 18-10-25][97]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Lissandra.json
+[2024-08-02 18-10-25][98]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Lucian.json
+[2024-08-02 18-10-25][98]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Lucian.json
+[2024-08-02 18-10-25][99]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Lulu.json
+[2024-08-02 18-10-25][99]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Lulu.json
+[2024-08-02 18-10-25][100]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Lux.json
+[2024-08-02 18-10-25][100]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Lux.json
+[2024-08-02 18-10-25][101]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Malphite.json
+[2024-08-02 18-10-25][101]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Malphite.json
+[2024-08-02 18-10-25][102]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Malzahar.json
+[2024-08-02 18-10-25][102]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Malzahar.json
+[2024-08-02 18-10-25][103]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Maokai.json
+[2024-08-02 18-10-25][103]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Maokai.json
+[2024-08-02 18-10-25][104]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/MasterYi.json
+[2024-08-02 18-10-25][104]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/MasterYi.json
+[2024-08-02 18-10-25][105]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Milio.json
+[2024-08-02 18-10-25][105]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Milio.json
+[2024-08-02 18-10-25][106]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/MissFortune.json
+[2024-08-02 18-10-25][106]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/MissFortune.json
+[2024-08-02 18-10-25][107]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/MonkeyKing.json
+[2024-08-02 18-10-25][107]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/MonkeyKing.json
+[2024-08-02 18-10-25][108]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Mordekaiser.json
+[2024-08-02 18-10-25][108]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Mordekaiser.json
+[2024-08-02 18-10-25][109]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Morgana.json
+[2024-08-02 18-10-25][109]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Morgana.json
+[2024-08-02 18-10-25][110]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Naafiri.json
+[2024-08-02 18-10-25][110]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Naafiri.json
+[2024-08-02 18-10-25][111]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Nami.json
+[2024-08-02 18-10-25][111]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Nami.json
+[2024-08-02 18-10-25][112]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Nasus.json
+[2024-08-02 18-10-25][112]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Nasus.json
+[2024-08-02 18-10-25][113]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Nautilus.json
+[2024-08-02 18-10-25][113]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Nautilus.json
+[2024-08-02 18-10-25][114]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Neeko.json
+[2024-08-02 18-10-25][114]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Neeko.json
+[2024-08-02 18-10-25][115]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Nidalee.json
+[2024-08-02 18-10-25][115]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Nidalee.json
+[2024-08-02 18-10-25][116]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Nilah.json
+[2024-08-02 18-10-25][116]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Nilah.json
+[2024-08-02 18-10-25][117]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Nocturne.json
+[2024-08-02 18-10-25][117]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Nocturne.json
+[2024-08-02 18-10-25][118]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Nunu.json
+[2024-08-02 18-10-25][118]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Nunu.json
+[2024-08-02 18-10-25][119]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Olaf.json
+[2024-08-02 18-10-25][119]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Olaf.json
+[2024-08-02 18-10-25][120]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Orianna.json
+[2024-08-02 18-10-25][120]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Orianna.json
+[2024-08-02 18-10-25][121]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Ornn.json
+[2024-08-02 18-10-25][121]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Ornn.json
+[2024-08-02 18-10-25][122]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Pantheon.json
+[2024-08-02 18-10-25][122]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Pantheon.json
+[2024-08-02 18-10-25][123]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Poppy.json
+[2024-08-02 18-10-25][123]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Poppy.json
+[2024-08-02 18-10-25][124]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Pyke.json
+[2024-08-02 18-10-25][124]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Pyke.json
+[2024-08-02 18-10-25][125]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Qiyana.json
+[2024-08-02 18-10-25][125]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Qiyana.json
+[2024-08-02 18-10-25][126]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Quinn.json
+[2024-08-02 18-10-25][126]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Quinn.json
+[2024-08-02 18-10-25][127]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Rakan.json
+[2024-08-02 18-10-25][127]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Rakan.json
+[2024-08-02 18-10-25][128]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Rammus.json
+[2024-08-02 18-10-25][128]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Rammus.json
+[2024-08-02 18-10-25][129]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/RekSai.json
+[2024-08-02 18-10-25][129]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/RekSai.json
+[2024-08-02 18-10-25][130]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Rell.json
+[2024-08-02 18-10-25][130]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Rell.json
+[2024-08-02 18-10-25][131]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Renata.json
+[2024-08-02 18-10-25][131]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Renata.json
+[2024-08-02 18-10-25][132]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Renekton.json
+[2024-08-02 18-10-25][132]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Renekton.json
+[2024-08-02 18-10-25][133]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Rengar.json
+[2024-08-02 18-10-25][133]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Rengar.json
+[2024-08-02 18-10-25][134]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Riven.json
+[2024-08-02 18-10-25][134]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Riven.json
+[2024-08-02 18-10-25][135]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Rumble.json
+[2024-08-02 18-10-25][135]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Rumble.json
+[2024-08-02 18-10-25][136]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Ryze.json
+[2024-08-02 18-10-25][136]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Ryze.json
+[2024-08-02 18-10-25][137]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Samira.json
+[2024-08-02 18-10-25][137]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Samira.json
+[2024-08-02 18-10-25][138]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Sejuani.json
+[2024-08-02 18-10-25][138]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Sejuani.json
+[2024-08-02 18-10-25][139]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Senna.json
+[2024-08-02 18-10-25][139]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Senna.json
+[2024-08-02 18-10-25][140]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Seraphine.json
+[2024-08-02 18-10-25][140]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Seraphine.json
+[2024-08-02 18-10-25][141]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Sett.json
+[2024-08-02 18-10-25][141]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Sett.json
+[2024-08-02 18-10-25][142]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Shaco.json
+[2024-08-02 18-10-25][142]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Shaco.json
+[2024-08-02 18-10-25][143]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Shen.json
+[2024-08-02 18-10-25][143]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Shen.json
+[2024-08-02 18-10-25][144]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Shyvana.json
+[2024-08-02 18-10-25][144]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Shyvana.json
+[2024-08-02 18-10-25][145]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Singed.json
+[2024-08-02 18-10-25][145]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Singed.json
+[2024-08-02 18-10-25][146]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Sion.json
+[2024-08-02 18-10-25][146]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Sion.json
+[2024-08-02 18-10-25][147]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Sivir.json
+[2024-08-02 18-10-25][147]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Sivir.json
+[2024-08-02 18-10-25][148]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Skarner.json
+[2024-08-02 18-10-25][148]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Skarner.json
+[2024-08-02 18-10-25][149]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Smolder.json
+[2024-08-02 18-10-25][149]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Smolder.json
+[2024-08-02 18-10-25][150]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Sona.json
+[2024-08-02 18-10-25][150]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Sona.json
+[2024-08-02 18-10-25][151]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Soraka.json
+[2024-08-02 18-10-25][151]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Soraka.json
+[2024-08-02 18-10-25][152]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Swain.json
+[2024-08-02 18-10-25][152]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Swain.json
+[2024-08-02 18-10-25][153]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Sylas.json
+[2024-08-02 18-10-25][153]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Sylas.json
+[2024-08-02 18-10-25][154]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Syndra.json
+[2024-08-02 18-10-25][154]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Syndra.json
+[2024-08-02 18-10-25][155]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/TahmKench.json
+[2024-08-02 18-10-25][155]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/TahmKench.json
+[2024-08-02 18-10-25][156]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Taliyah.json
+[2024-08-02 18-10-25][156]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Taliyah.json
+[2024-08-02 18-10-25][157]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Talon.json
+[2024-08-02 18-10-25][157]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Talon.json
+[2024-08-02 18-10-25][158]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Taric.json
+[2024-08-02 18-10-25][158]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Taric.json
+[2024-08-02 18-10-25][159]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Teemo.json
+[2024-08-02 18-10-25][159]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Teemo.json
+[2024-08-02 18-10-25][160]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Thresh.json
+[2024-08-02 18-10-25][160]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Thresh.json
+[2024-08-02 18-10-25][161]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Tristana.json
+[2024-08-02 18-10-25][161]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Tristana.json
+[2024-08-02 18-10-25][162]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Trundle.json
+[2024-08-02 18-10-25][162]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Trundle.json
+[2024-08-02 18-10-25][163]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Tryndamere.json
+[2024-08-02 18-10-25][163]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Tryndamere.json
+[2024-08-02 18-10-25][164]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/TwistedFate.json
+[2024-08-02 18-10-25][164]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/TwistedFate.json
+[2024-08-02 18-10-25][165]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Twitch.json
+[2024-08-02 18-10-25][165]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Twitch.json
+[2024-08-02 18-10-25][166]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Udyr.json
+[2024-08-02 18-10-25][166]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Udyr.json
+[2024-08-02 18-10-25][167]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Urgot.json
+[2024-08-02 18-10-25][167]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Urgot.json
+[2024-08-02 18-10-25][168]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Varus.json
+[2024-08-02 18-10-25][168]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Varus.json
+[2024-08-02 18-10-25][169]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Vayne.json
+[2024-08-02 18-10-25][169]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Vayne.json
+[2024-08-02 18-10-25][170]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Veigar.json
+[2024-08-02 18-10-25][170]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Veigar.json
+[2024-08-02 18-10-25][171]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Velkoz.json
+[2024-08-02 18-10-25][171]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Velkoz.json
+[2024-08-02 18-10-25][172]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Vex.json
+[2024-08-02 18-10-25][172]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Vex.json
+[2024-08-02 18-10-25][173]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Vi.json
+[2024-08-02 18-10-25][173]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Vi.json
+[2024-08-02 18-10-25][174]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Viego.json
+[2024-08-02 18-10-25][174]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Viego.json
+[2024-08-02 18-10-25][175]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Viktor.json
+[2024-08-02 18-10-25][175]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Viktor.json
+[2024-08-02 18-10-25][176]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Vladimir.json
+[2024-08-02 18-10-25][176]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Vladimir.json
+[2024-08-02 18-10-25][177]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Volibear.json
+[2024-08-02 18-10-25][177]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Volibear.json
+[2024-08-02 18-10-25][178]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Warwick.json
+[2024-08-02 18-10-25][178]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Warwick.json
+[2024-08-02 18-10-25][179]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Xayah.json
+[2024-08-02 18-10-25][179]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Xayah.json
+[2024-08-02 18-10-25][180]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Xerath.json
+[2024-08-02 18-10-25][180]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Xerath.json
+[2024-08-02 18-10-25][181]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/XinZhao.json
+[2024-08-02 18-10-25][181]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/XinZhao.json
+[2024-08-02 18-10-25][182]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Yasuo.json
+[2024-08-02 18-10-25][182]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Yasuo.json
+[2024-08-02 18-10-25][183]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Yone.json
+[2024-08-02 18-10-25][183]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Yone.json
+[2024-08-02 18-10-25][184]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Yorick.json
+[2024-08-02 18-10-25][184]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Yorick.json
+[2024-08-02 18-10-25][185]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Yuumi.json
+[2024-08-02 18-10-25][185]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Yuumi.json
+[2024-08-02 18-10-25][186]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Zac.json
+[2024-08-02 18-10-25][186]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Zac.json
+[2024-08-02 18-10-25][187]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Zed.json
+[2024-08-02 18-10-25][187]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Zed.json
+[2024-08-02 18-10-25][188]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Zeri.json
+[2024-08-02 18-10-25][188]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Zeri.json
+[2024-08-02 18-10-25][189]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Ziggs.json
+[2024-08-02 18-10-25][189]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Ziggs.json
+[2024-08-02 18-10-25][190]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Zilean.json
+[2024-08-02 18-10-25][190]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Zilean.json
+[2024-08-02 18-10-25][191]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Zoe.json
+[2024-08-02 18-10-25][191]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Zoe.json
+[2024-08-02 18-10-25][192]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/en_US/champion/Zyra.json
+[2024-08-02 18-10-25][192]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/en_US/champion/Zyra.json
+[2024-08-02 18-10-25][193]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/challenges.json
+[2024-08-02 18-10-25][194]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion.json
+[2024-08-02 18-10-25][194]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion.json
+[2024-08-02 18-10-25][195]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/championFull.json
+[2024-08-02 18-10-25][195]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/championFull.json
+[2024-08-02 18-10-25][196]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/item-modifiers.json
+[2024-08-02 18-10-25][196]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/item-modifiers.json
+[2024-08-02 18-10-25][197]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/item.json
+[2024-08-02 18-10-25][197]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/item.json
+[2024-08-02 18-10-25][198]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/language.json
+[2024-08-02 18-10-25][198]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/language.json
+[2024-08-02 18-10-25][199]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/map.json
+[2024-08-02 18-10-25][199]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/map.json
+[2024-08-02 18-10-25][200]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/mission-assets.json
+[2024-08-02 18-10-25][200]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/mission-assets.json
+[2024-08-02 18-10-25][201]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/profileicon.json
+[2024-08-02 18-10-25][201]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/profileicon.json
+[2024-08-02 18-10-25][202]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/runesReforged.json
+[2024-08-02 18-10-25][202]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/runesReforged.json
+[2024-08-02 18-10-25][203]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/spellbuffs.json
+[2024-08-02 18-10-25][203]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/spellbuffs.json
+[2024-08-02 18-10-25][204]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/sticker.json
+[2024-08-02 18-10-25][204]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/sticker.json
+[2024-08-02 18-10-25][205]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/summoner.json
+[2024-08-02 18-10-25][205]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/summoner.json
+[2024-08-02 18-10-25][206]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/tft-arena.json
+[2024-08-02 18-10-25][206]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/tft-arena.json
+[2024-08-02 18-10-25][207]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/tft-augments.json
+[2024-08-02 18-10-25][207]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/tft-augments.json
+[2024-08-02 18-10-25][208]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/tft-champion.json
+[2024-08-02 18-10-25][208]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/tft-champion.json
+[2024-08-02 18-10-25][209]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/tft-charms.json
+[2024-08-02 18-10-25][209]已添加文件（Added file）：离线数据（Offline Data）/ddragon/zh_CN/tft-charms.json
+[2024-08-02 18-10-25][210]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/tft-hero-augments.json
+[2024-08-02 18-10-25][210]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/tft-hero-augments.json
+[2024-08-02 18-10-25][211]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/tft-item.json
+[2024-08-02 18-10-25][211]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/tft-item.json
+[2024-08-02 18-10-25][212]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/tft-queues.json
+[2024-08-02 18-10-25][212]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/tft-queues.json
+[2024-08-02 18-10-25][213]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/tft-regalia.json
+[2024-08-02 18-10-25][213]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/tft-regalia.json
+[2024-08-02 18-10-25][214]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/tft-region-portals.json
+[2024-08-02 18-10-25][214]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/tft-region-portals.json
+[2024-08-02 18-10-25][215]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/tft-tactician.json
+[2024-08-02 18-10-25][215]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/tft-tactician.json
+[2024-08-02 18-10-25][216]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/tft-trait.json
+[2024-08-02 18-10-25][216]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/tft-trait.json
+[2024-08-02 18-10-25][217]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Aatrox.json
+[2024-08-02 18-10-25][217]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Aatrox.json
+[2024-08-02 18-10-25][218]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Ahri.json
+[2024-08-02 18-10-25][218]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Ahri.json
+[2024-08-02 18-10-25][219]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Akali.json
+[2024-08-02 18-10-25][219]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Akali.json
+[2024-08-02 18-10-25][220]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Akshan.json
+[2024-08-02 18-10-25][220]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Akshan.json
+[2024-08-02 18-10-25][221]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Alistar.json
+[2024-08-02 18-10-25][221]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Alistar.json
+[2024-08-02 18-10-25][222]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Amumu.json
+[2024-08-02 18-10-25][222]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Amumu.json
+[2024-08-02 18-10-25][223]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Anivia.json
+[2024-08-02 18-10-25][223]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Anivia.json
+[2024-08-02 18-10-25][224]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Annie.json
+[2024-08-02 18-10-25][224]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Annie.json
+[2024-08-02 18-10-25][225]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Aphelios.json
+[2024-08-02 18-10-25][225]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Aphelios.json
+[2024-08-02 18-10-25][226]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Ashe.json
+[2024-08-02 18-10-25][226]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Ashe.json
+[2024-08-02 18-10-25][227]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/AurelionSol.json
+[2024-08-02 18-10-25][227]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/AurelionSol.json
+[2024-08-02 18-10-25][228]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Aurora.json
+[2024-08-02 18-10-25][228]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Aurora.json
+[2024-08-02 18-10-25][229]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Azir.json
+[2024-08-02 18-10-25][229]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Azir.json
+[2024-08-02 18-10-25][230]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Bard.json
+[2024-08-02 18-10-25][230]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Bard.json
+[2024-08-02 18-10-25][231]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Belveth.json
+[2024-08-02 18-10-25][231]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Belveth.json
+[2024-08-02 18-10-25][232]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Blitzcrank.json
+[2024-08-02 18-10-25][232]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Blitzcrank.json
+[2024-08-02 18-10-25][233]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Brand.json
+[2024-08-02 18-10-25][233]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Brand.json
+[2024-08-02 18-10-25][234]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Braum.json
+[2024-08-02 18-10-25][234]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Braum.json
+[2024-08-02 18-10-25][235]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Briar.json
+[2024-08-02 18-10-25][235]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Briar.json
+[2024-08-02 18-10-25][236]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Caitlyn.json
+[2024-08-02 18-10-25][236]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Caitlyn.json
+[2024-08-02 18-10-25][237]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Camille.json
+[2024-08-02 18-10-25][237]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Camille.json
+[2024-08-02 18-10-25][238]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Cassiopeia.json
+[2024-08-02 18-10-25][238]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Cassiopeia.json
+[2024-08-02 18-10-25][239]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Chogath.json
+[2024-08-02 18-10-25][239]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Chogath.json
+[2024-08-02 18-10-25][240]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Corki.json
+[2024-08-02 18-10-25][240]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Corki.json
+[2024-08-02 18-10-25][241]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Darius.json
+[2024-08-02 18-10-25][241]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Darius.json
+[2024-08-02 18-10-25][242]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Diana.json
+[2024-08-02 18-10-25][242]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Diana.json
+[2024-08-02 18-10-25][243]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Draven.json
+[2024-08-02 18-10-25][243]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Draven.json
+[2024-08-02 18-10-25][244]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/DrMundo.json
+[2024-08-02 18-10-25][244]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/DrMundo.json
+[2024-08-02 18-10-25][245]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Ekko.json
+[2024-08-02 18-10-25][245]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Ekko.json
+[2024-08-02 18-10-25][246]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Elise.json
+[2024-08-02 18-10-25][246]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Elise.json
+[2024-08-02 18-10-25][247]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Evelynn.json
+[2024-08-02 18-10-25][247]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Evelynn.json
+[2024-08-02 18-10-25][248]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Ezreal.json
+[2024-08-02 18-10-25][248]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Ezreal.json
+[2024-08-02 18-10-25][249]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Fiddlesticks.json
+[2024-08-02 18-10-25][249]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Fiddlesticks.json
+[2024-08-02 18-10-25][250]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Fiora.json
+[2024-08-02 18-10-25][250]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Fiora.json
+[2024-08-02 18-10-25][251]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Fizz.json
+[2024-08-02 18-10-25][251]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Fizz.json
+[2024-08-02 18-10-25][252]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Galio.json
+[2024-08-02 18-10-25][252]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Galio.json
+[2024-08-02 18-10-25][253]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Gangplank.json
+[2024-08-02 18-10-25][253]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Gangplank.json
+[2024-08-02 18-10-25][254]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Garen.json
+[2024-08-02 18-10-25][254]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Garen.json
+[2024-08-02 18-10-25][255]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Gnar.json
+[2024-08-02 18-10-25][255]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Gnar.json
+[2024-08-02 18-10-25][256]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Gragas.json
+[2024-08-02 18-10-25][256]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Gragas.json
+[2024-08-02 18-10-25][257]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Graves.json
+[2024-08-02 18-10-25][257]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Graves.json
+[2024-08-02 18-10-25][258]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Gwen.json
+[2024-08-02 18-10-25][258]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Gwen.json
+[2024-08-02 18-10-25][259]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Hecarim.json
+[2024-08-02 18-10-25][259]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Hecarim.json
+[2024-08-02 18-10-25][260]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Heimerdinger.json
+[2024-08-02 18-10-25][260]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Heimerdinger.json
+[2024-08-02 18-10-25][261]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Hwei.json
+[2024-08-02 18-10-25][261]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Hwei.json
+[2024-08-02 18-10-25][262]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Illaoi.json
+[2024-08-02 18-10-25][262]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Illaoi.json
+[2024-08-02 18-10-25][263]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Irelia.json
+[2024-08-02 18-10-25][263]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Irelia.json
+[2024-08-02 18-10-25][264]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Ivern.json
+[2024-08-02 18-10-25][264]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Ivern.json
+[2024-08-02 18-10-25][265]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Janna.json
+[2024-08-02 18-10-25][265]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Janna.json
+[2024-08-02 18-10-25][266]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/JarvanIV.json
+[2024-08-02 18-10-25][266]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/JarvanIV.json
+[2024-08-02 18-10-25][267]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Jax.json
+[2024-08-02 18-10-25][267]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Jax.json
+[2024-08-02 18-10-25][268]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Jayce.json
+[2024-08-02 18-10-25][268]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Jayce.json
+[2024-08-02 18-10-25][269]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Jhin.json
+[2024-08-02 18-10-25][269]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Jhin.json
+[2024-08-02 18-10-25][270]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Jinx.json
+[2024-08-02 18-10-25][270]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Jinx.json
+[2024-08-02 18-10-25][271]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Kaisa.json
+[2024-08-02 18-10-25][271]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Kaisa.json
+[2024-08-02 18-10-25][272]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Kalista.json
+[2024-08-02 18-10-25][272]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Kalista.json
+[2024-08-02 18-10-25][273]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Karma.json
+[2024-08-02 18-10-25][273]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Karma.json
+[2024-08-02 18-10-25][274]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Karthus.json
+[2024-08-02 18-10-25][274]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Karthus.json
+[2024-08-02 18-10-25][275]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Kassadin.json
+[2024-08-02 18-10-25][275]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Kassadin.json
+[2024-08-02 18-10-25][276]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Katarina.json
+[2024-08-02 18-10-25][276]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Katarina.json
+[2024-08-02 18-10-25][277]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Kayle.json
+[2024-08-02 18-10-25][277]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Kayle.json
+[2024-08-02 18-10-25][278]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Kayn.json
+[2024-08-02 18-10-25][278]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Kayn.json
+[2024-08-02 18-10-25][279]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Kennen.json
+[2024-08-02 18-10-25][279]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Kennen.json
+[2024-08-02 18-10-25][280]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Khazix.json
+[2024-08-02 18-10-25][280]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Khazix.json
+[2024-08-02 18-10-25][281]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Kindred.json
+[2024-08-02 18-10-25][281]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Kindred.json
+[2024-08-02 18-10-25][282]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Kled.json
+[2024-08-02 18-10-25][282]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Kled.json
+[2024-08-02 18-10-25][283]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/KogMaw.json
+[2024-08-02 18-10-26][283]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/KogMaw.json
+[2024-08-02 18-10-26][284]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/KSante.json
+[2024-08-02 18-10-26][284]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/KSante.json
+[2024-08-02 18-10-26][285]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Leblanc.json
+[2024-08-02 18-10-26][285]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Leblanc.json
+[2024-08-02 18-10-26][286]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/LeeSin.json
+[2024-08-02 18-10-26][286]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/LeeSin.json
+[2024-08-02 18-10-26][287]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Leona.json
+[2024-08-02 18-10-26][287]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Leona.json
+[2024-08-02 18-10-26][288]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Lillia.json
+[2024-08-02 18-10-26][288]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Lillia.json
+[2024-08-02 18-10-26][289]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Lissandra.json
+[2024-08-02 18-10-26][289]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Lissandra.json
+[2024-08-02 18-10-26][290]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Lucian.json
+[2024-08-02 18-10-26][290]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Lucian.json
+[2024-08-02 18-10-26][291]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Lulu.json
+[2024-08-02 18-10-26][291]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Lulu.json
+[2024-08-02 18-10-26][292]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Lux.json
+[2024-08-02 18-10-26][292]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Lux.json
+[2024-08-02 18-10-26][293]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Malphite.json
+[2024-08-02 18-10-26][293]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Malphite.json
+[2024-08-02 18-10-26][294]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Malzahar.json
+[2024-08-02 18-10-26][294]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Malzahar.json
+[2024-08-02 18-10-26][295]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Maokai.json
+[2024-08-02 18-10-26][295]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Maokai.json
+[2024-08-02 18-10-26][296]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/MasterYi.json
+[2024-08-02 18-10-26][296]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/MasterYi.json
+[2024-08-02 18-10-26][297]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Milio.json
+[2024-08-02 18-10-26][297]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Milio.json
+[2024-08-02 18-10-26][298]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/MissFortune.json
+[2024-08-02 18-10-26][298]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/MissFortune.json
+[2024-08-02 18-10-26][299]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/MonkeyKing.json
+[2024-08-02 18-10-26][299]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/MonkeyKing.json
+[2024-08-02 18-10-26][300]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Mordekaiser.json
+[2024-08-02 18-10-26][300]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Mordekaiser.json
+[2024-08-02 18-10-26][301]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Morgana.json
+[2024-08-02 18-10-26][301]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Morgana.json
+[2024-08-02 18-10-26][302]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Naafiri.json
+[2024-08-02 18-10-26][302]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Naafiri.json
+[2024-08-02 18-10-26][303]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Nami.json
+[2024-08-02 18-10-26][303]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Nami.json
+[2024-08-02 18-10-26][304]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Nasus.json
+[2024-08-02 18-10-26][304]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Nasus.json
+[2024-08-02 18-10-26][305]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Nautilus.json
+[2024-08-02 18-10-26][305]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Nautilus.json
+[2024-08-02 18-10-26][306]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Neeko.json
+[2024-08-02 18-10-26][306]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Neeko.json
+[2024-08-02 18-10-26][307]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Nidalee.json
+[2024-08-02 18-10-26][307]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Nidalee.json
+[2024-08-02 18-10-26][308]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Nilah.json
+[2024-08-02 18-10-26][308]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Nilah.json
+[2024-08-02 18-10-26][309]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Nocturne.json
+[2024-08-02 18-10-26][309]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Nocturne.json
+[2024-08-02 18-10-26][310]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Nunu.json
+[2024-08-02 18-10-26][310]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Nunu.json
+[2024-08-02 18-10-26][311]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Olaf.json
+[2024-08-02 18-10-26][311]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Olaf.json
+[2024-08-02 18-10-26][312]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Orianna.json
+[2024-08-02 18-10-26][312]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Orianna.json
+[2024-08-02 18-10-26][313]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Ornn.json
+[2024-08-02 18-10-26][313]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Ornn.json
+[2024-08-02 18-10-26][314]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Pantheon.json
+[2024-08-02 18-10-26][314]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Pantheon.json
+[2024-08-02 18-10-26][315]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Poppy.json
+[2024-08-02 18-10-26][315]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Poppy.json
+[2024-08-02 18-10-26][316]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Pyke.json
+[2024-08-02 18-10-26][316]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Pyke.json
+[2024-08-02 18-10-26][317]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Qiyana.json
+[2024-08-02 18-10-26][317]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Qiyana.json
+[2024-08-02 18-10-26][318]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Quinn.json
+[2024-08-02 18-10-26][318]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Quinn.json
+[2024-08-02 18-10-26][319]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Rakan.json
+[2024-08-02 18-10-26][319]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Rakan.json
+[2024-08-02 18-10-26][320]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Rammus.json
+[2024-08-02 18-10-26][320]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Rammus.json
+[2024-08-02 18-10-26][321]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/RekSai.json
+[2024-08-02 18-10-26][321]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/RekSai.json
+[2024-08-02 18-10-26][322]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Rell.json
+[2024-08-02 18-10-26][322]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Rell.json
+[2024-08-02 18-10-26][323]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Renata.json
+[2024-08-02 18-10-26][323]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Renata.json
+[2024-08-02 18-10-26][324]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Renekton.json
+[2024-08-02 18-10-26][324]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Renekton.json
+[2024-08-02 18-10-26][325]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Rengar.json
+[2024-08-02 18-10-26][325]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Rengar.json
+[2024-08-02 18-10-26][326]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Riven.json
+[2024-08-02 18-10-26][326]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Riven.json
+[2024-08-02 18-10-26][327]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Rumble.json
+[2024-08-02 18-10-26][327]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Rumble.json
+[2024-08-02 18-10-26][328]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Ryze.json
+[2024-08-02 18-10-26][328]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Ryze.json
+[2024-08-02 18-10-26][329]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Samira.json
+[2024-08-02 18-10-26][329]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Samira.json
+[2024-08-02 18-10-26][330]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Sejuani.json
+[2024-08-02 18-10-26][330]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Sejuani.json
+[2024-08-02 18-10-26][331]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Senna.json
+[2024-08-02 18-10-26][331]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Senna.json
+[2024-08-02 18-10-26][332]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Seraphine.json
+[2024-08-02 18-10-26][332]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Seraphine.json
+[2024-08-02 18-10-26][333]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Sett.json
+[2024-08-02 18-10-26][333]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Sett.json
+[2024-08-02 18-10-26][334]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Shaco.json
+[2024-08-02 18-10-26][334]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Shaco.json
+[2024-08-02 18-10-26][335]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Shen.json
+[2024-08-02 18-10-26][335]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Shen.json
+[2024-08-02 18-10-26][336]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Shyvana.json
+[2024-08-02 18-10-26][336]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Shyvana.json
+[2024-08-02 18-10-26][337]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Singed.json
+[2024-08-02 18-10-26][337]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Singed.json
+[2024-08-02 18-10-26][338]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Sion.json
+[2024-08-02 18-10-26][338]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Sion.json
+[2024-08-02 18-10-26][339]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Sivir.json
+[2024-08-02 18-10-26][339]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Sivir.json
+[2024-08-02 18-10-26][340]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Skarner.json
+[2024-08-02 18-10-26][340]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Skarner.json
+[2024-08-02 18-10-26][341]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Smolder.json
+[2024-08-02 18-10-26][341]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Smolder.json
+[2024-08-02 18-10-26][342]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Sona.json
+[2024-08-02 18-10-26][342]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Sona.json
+[2024-08-02 18-10-26][343]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Soraka.json
+[2024-08-02 18-10-26][343]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Soraka.json
+[2024-08-02 18-10-26][344]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Swain.json
+[2024-08-02 18-10-26][344]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Swain.json
+[2024-08-02 18-10-26][345]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Sylas.json
+[2024-08-02 18-10-26][345]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Sylas.json
+[2024-08-02 18-10-26][346]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Syndra.json
+[2024-08-02 18-10-26][346]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Syndra.json
+[2024-08-02 18-10-26][347]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/TahmKench.json
+[2024-08-02 18-10-26][347]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/TahmKench.json
+[2024-08-02 18-10-26][348]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Taliyah.json
+[2024-08-02 18-10-26][348]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Taliyah.json
+[2024-08-02 18-10-26][349]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Talon.json
+[2024-08-02 18-10-26][349]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Talon.json
+[2024-08-02 18-10-26][350]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Taric.json
+[2024-08-02 18-10-26][350]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Taric.json
+[2024-08-02 18-10-26][351]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Teemo.json
+[2024-08-02 18-10-26][351]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Teemo.json
+[2024-08-02 18-10-26][352]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Thresh.json
+[2024-08-02 18-10-26][352]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Thresh.json
+[2024-08-02 18-10-26][353]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Tristana.json
+[2024-08-02 18-10-26][353]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Tristana.json
+[2024-08-02 18-10-26][354]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Trundle.json
+[2024-08-02 18-10-26][354]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Trundle.json
+[2024-08-02 18-10-26][355]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Tryndamere.json
+[2024-08-02 18-10-26][355]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Tryndamere.json
+[2024-08-02 18-10-26][356]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/TwistedFate.json
+[2024-08-02 18-10-26][356]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/TwistedFate.json
+[2024-08-02 18-10-26][357]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Twitch.json
+[2024-08-02 18-10-26][357]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Twitch.json
+[2024-08-02 18-10-26][358]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Udyr.json
+[2024-08-02 18-10-26][358]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Udyr.json
+[2024-08-02 18-10-26][359]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Urgot.json
+[2024-08-02 18-10-26][359]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Urgot.json
+[2024-08-02 18-10-26][360]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Varus.json
+[2024-08-02 18-10-26][360]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Varus.json
+[2024-08-02 18-10-26][361]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Vayne.json
+[2024-08-02 18-10-26][361]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Vayne.json
+[2024-08-02 18-10-26][362]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Veigar.json
+[2024-08-02 18-10-26][362]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Veigar.json
+[2024-08-02 18-10-26][363]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Velkoz.json
+[2024-08-02 18-10-26][363]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Velkoz.json
+[2024-08-02 18-10-26][364]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Vex.json
+[2024-08-02 18-10-26][364]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Vex.json
+[2024-08-02 18-10-26][365]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Vi.json
+[2024-08-02 18-10-26][365]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Vi.json
+[2024-08-02 18-10-26][366]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Viego.json
+[2024-08-02 18-10-26][366]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Viego.json
+[2024-08-02 18-10-26][367]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Viktor.json
+[2024-08-02 18-10-26][367]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Viktor.json
+[2024-08-02 18-10-26][368]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Vladimir.json
+[2024-08-02 18-10-26][368]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Vladimir.json
+[2024-08-02 18-10-26][369]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Volibear.json
+[2024-08-02 18-10-26][369]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Volibear.json
+[2024-08-02 18-10-26][370]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Warwick.json
+[2024-08-02 18-10-26][370]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Warwick.json
+[2024-08-02 18-10-26][371]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Xayah.json
+[2024-08-02 18-10-26][371]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Xayah.json
+[2024-08-02 18-10-26][372]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Xerath.json
+[2024-08-02 18-10-26][372]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Xerath.json
+[2024-08-02 18-10-26][373]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/XinZhao.json
+[2024-08-02 18-10-26][373]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/XinZhao.json
+[2024-08-02 18-10-26][374]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Yasuo.json
+[2024-08-02 18-10-26][374]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Yasuo.json
+[2024-08-02 18-10-26][375]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Yone.json
+[2024-08-02 18-10-26][375]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Yone.json
+[2024-08-02 18-10-26][376]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Yorick.json
+[2024-08-02 18-10-26][376]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Yorick.json
+[2024-08-02 18-10-26][377]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Yuumi.json
+[2024-08-02 18-10-26][377]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Yuumi.json
+[2024-08-02 18-10-26][378]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Zac.json
+[2024-08-02 18-10-26][378]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Zac.json
+[2024-08-02 18-10-26][379]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Zed.json
+[2024-08-02 18-10-26][379]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Zed.json
+[2024-08-02 18-10-26][380]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Zeri.json
+[2024-08-02 18-10-26][380]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Zeri.json
+[2024-08-02 18-10-26][381]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Ziggs.json
+[2024-08-02 18-10-26][381]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Ziggs.json
+[2024-08-02 18-10-26][382]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Zilean.json
+[2024-08-02 18-10-26][382]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Zilean.json
+[2024-08-02 18-10-26][383]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Zoe.json
+[2024-08-02 18-10-26][383]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Zoe.json
+[2024-08-02 18-10-26][384]正在校对文件（Checking file）： D:/360AI浏览器下载/dragontail-14.15.1/14.15.1/data/zh_CN/champion/Zyra.json
+[2024-08-02 18-10-26][384]已更新文件（Updated file）：离线数据（Offline Data）/ddragon/zh_CN/champion/Zyra.json
+[2024-08-02 18-10-26][385]正在校对文件（Checking file）： https://ddragon.leagueoflegends.com/api/versions.json
+[2024-08-02 18-10-27][385]已更新文件（Updated file）：离线数据（Offline Data）/versions.json
+请选择要更新的数据资源，输入空字符串以退出程序：
+Please select the data resource to update, or submit an empty string to exit the program:
+1	CommunityDragon
+2	DataDragon
+
+[The program has exited!]
