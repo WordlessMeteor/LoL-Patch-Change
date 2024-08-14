@@ -80,6 +80,9 @@ def getUrl(url: str, log):
             elif 'certificate verify failed' in str(ssl_error):
                 print("SSL证书验证失败！正在尝试第%d次重新获取数据！\nSSL certificate verify failed! Trying to recapture the data with url: %s. Time(s) tried: %d" %(retry, url, retry))
                 log.write("SSL证书验证失败！正在尝试第%d次重新获取数据！\nSSL certificate verify failed! Trying to recapture the data with url: %s. Time(s) tried: %d\n" %(retry, url, retry))
+            elif 'Max retries exceeded with url' in str(ssl_error):
+                print("请求数量超过限制！正在尝试第%d次重新获取数据！\nMax retries exceed with url! Trying to recapture the data with url: %s. Time(s) tried: %d" %(retry, url, retry))
+                log.write("请求数量超过限制！正在尝试第%d次重新获取数据！\nMax retries exceed with url! Trying to recapture the data with url: %s. Time(s) tried: %d\n" %(retry, url, retry))
         except requests.exceptions.ProxyError:
             if retry > 5:
                 break
