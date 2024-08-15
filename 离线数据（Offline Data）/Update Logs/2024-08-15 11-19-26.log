@@ -1,0 +1,419 @@
+请选择要更新的数据资源，输入空字符串以退出程序：
+Please select the data resource to update, or submit an empty string to exit the program:
+1	CommunityDragon
+2	DataDragon
+1
+请选择更新模式：
+Please select the update mode:
+1	全局扫描（Global Scanning）
+2	按修改时间更新（Updating According to Modification Time）
+3	更新指定文件夹（Updating Specified Folders）
+
+请选择一种方式指定修改时间：
+Please select a method of specifying the modification time:
+1	自动获取（Automatically get）
+2	手动输入（Manually input）
+
+[2024-08-15 11-19-28][1/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/
+[2024-08-15 11-19-29]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/latest/
+             file                size        web_date         web_timestamp        local_date          local_timestamp   
+ compat-version-metadata.json    72 B    2024-Aug-14 18:11    1723630260.0     2024-08-14 14-05-25    1723615525.0741627 
+    content-metadata.json        74 B    2024-Aug-14 18:11    1723630260.0     2024-08-14 14-05-26    1723615526.7189314 
+[2024-08-15 11-19-29][1/18][1/2]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/compat-version-metadata.json
+[2024-08-15 11-19-31][1/18][2/2]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/content-metadata.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/content-metadata.json. Time(s) tried: 1
+[2024-08-15 11-19-33][2/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/cdragon/arena/
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/cdragon/arena/. Time(s) tried: 1
+[2024-08-15 11-19-35]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/latest/cdragon/arena/
+    file         size           web_date         web_timestamp        local_date          local_timestamp   
+ en_us.json    176.4 KiB    2024-Aug-14 18:17    1723630620.0     2024-08-14 14-05-31    1723615531.071532  
+ zh_cn.json    179.0 KiB    2024-Aug-14 18:17    1723630620.0     2024-08-14 14-05-32    1723615532.9656491 
+[2024-08-15 11-19-35][2/18][1/2]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/cdragon/arena/en_us.json
+[2024-08-15 11-19-37][2/18][2/2]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/cdragon/arena/zh_cn.json
+[2024-08-15 11-19-39][3/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/cdragon/tft/
+[2024-08-15 11-19-40]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/latest/cdragon/tft/
+    file        size          web_date         web_timestamp        local_date          local_timestamp   
+ en_us.json    5.5 MiB    2024-Aug-14 18:17    1723630620.0     2024-08-14 14-05-37    1723615537.400108  
+ zh_cn.json    5.6 MiB    2024-Aug-14 18:17    1723630620.0     2024-08-14 14-05-40    1723615540.4796748 
+[2024-08-15 11-19-40][3/18][1/2]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/cdragon/tft/en_us.json
+[2024-08-15 11-19-43][3/18][2/2]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/cdragon/tft/zh_cn.json
+[2024-08-15 11-19-46][4/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/
+[2024-08-15 11-19-48]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/
+   file        size          web_date         web_timestamp        local_date          local_timestamp   
+ 126.json    26.5 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-05-45    1723615545.9480205 
+ 222.json    34.2 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-05-47    1723615547.482565  
+ 234.json    22.6 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-05-49    1723615549.1118941 
+ 236.json    33.9 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-05-51    1723615551.4810112 
+ 42.json     24.6 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-05-52    1723615552.996585  
+ 432.json    23.8 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-05-55    1723615555.3495555 
+ 61.json     27.5 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-05-57    1723615557.0617726 
+ 64.json     41.7 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-05-59    1723615559.2612424 
+ 69.json     24.8 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-06-01    1723615561.6176972 
+ 893.json    13.6 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-06-03    1723615563.273957  
+[2024-08-15 11-19-48][4/18][1/10]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/126.json
+[2024-08-15 11-19-50][4/18][2/10]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/222.json
+[2024-08-15 11-19-51][4/18][3/10]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/234.json
+[2024-08-15 11-19-53][4/18][4/10]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/236.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/236.json. Time(s) tried: 1
+违反协议导致读取中断！正在尝试第2次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/236.json. Time(s) tried: 2
+[2024-08-15 11-19-56][4/18][5/10]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/42.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/42.json. Time(s) tried: 1
+[2024-08-15 11-19-58][4/18][6/10]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/432.json
+[2024-08-15 11-20-00][4/18][7/10]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/61.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/61.json. Time(s) tried: 1
+[2024-08-15 11-20-02][4/18][8/10]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/64.json
+[2024-08-15 11-20-04][4/18][9/10]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/69.json
+[2024-08-15 11-20-05][4/18][10/10]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/893.json
+[2024-08-15 11-20-07][5/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/map-assets/
+[2024-08-15 11-20-08]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/map-assets/
+Empty DataFrame
+Columns: [file, size, web_date, web_timestamp, local_date, local_timestamp]
+Index: []
+[2024-08-15 11-20-08][6/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/
+[2024-08-15 11-20-10]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/
+                file                     size           web_date         web_timestamp        local_date          local_timestamp   
+ champion-rune-recommendations.json    324.6 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-06-09    1723615569.886577  
+          companions.json              753.1 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-06-12    1723615572.3974988 
+        generic-assets.json            175.9 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-06-14    1723615574.354825  
+             items.json                441.7 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-06-16    1723615576.5817034 
+             loot.json                  2.8 MiB     2024-Aug-14 18:16    1723630560.0     2024-08-14 14-06-19    1723615579.3847463 
+             perks.json                93.5 KiB     2024-Aug-14 18:16    1723630560.0     2024-08-14 14-06-22    1723615582.0358255 
+         profile-icons.json            319.1 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-06-24    1723615584.0451653 
+            rewards.json               551.0 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-06-26    1723615586.0875006 
+           skinlines.json              51.6 KiB     2024-Aug-14 18:16    1723630560.0     2024-08-14 14-06-28    1723615588.2974913 
+             skins.json                 3.1 MiB     2024-Aug-14 18:16    1723630560.0     2024-08-14 14-06-31    1723615591.366863  
+        summoner-emotes.json           311.6 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-06-34    1723615594.4235168 
+        summoner-icons.json             1.6 MiB     2024-Aug-14 18:16    1723630560.0     2024-08-14 14-06-37    1723615597.0057335 
+         tftchampions.json             49.6 KiB     2024-Aug-14 18:16    1723630560.0     2024-08-14 14-06-38    1723615598.6924617 
+        tftdamageskins.json            67.3 KiB     2024-Aug-14 18:16    1723630560.0     2024-08-14 14-06-40    1723615600.4945066 
+           tftitems.json               166.5 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-06-42    1723615602.5040026 
+          tftmapskins.json             31.2 KiB     2024-Aug-14 18:16    1723630560.0     2024-08-14 14-06-44    1723615604.2575512 
+         tftplaybooks.json             54.4 KiB     2024-Aug-14 18:16    1723630560.0     2024-08-14 14-06-46    1723615606.6466277 
+   tftrotationalshopitemdata.json      752.8 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-06-48    1723615608.6223054 
+            tftsets.json                 885 B      2024-Aug-14 18:16    1723630560.0     2024-08-14 14-06-50    1723615610.274397  
+         tftskilltree.json               88 B       2024-Aug-14 06:01    1723586460.0     1970-01-01 08-00-00           0.0         
+           tfttraits.json              162.0 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-06-54    1723615614.8229828 
+    tfttrovesbannerrewards.json        667.1 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-06-57    1723615617.2312326 
+       tfttrovesbanners.json            6.1 MiB     2024-Aug-14 18:16    1723630560.0     2024-08-14 14-07-00    1723615620.8599753 
+     tfttrovestablesnames.json         317.4 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-07-03    1723615623.4097006 
+           universes.json              34.3 KiB     2024-Aug-14 18:16    1723630560.0     2024-08-14 14-07-05    1723615625.4500742 
+          ward-skins.json              112.5 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-07-07    1723615627.2183316 
+[2024-08-15 11-20-10][6/18][1/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-rune-recommendations.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-rune-recommendations.json. Time(s) tried: 1
+[2024-08-15 11-20-13][6/18][2/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/companions.json
+[2024-08-15 11-20-15][6/18][3/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/generic-assets.json
+[2024-08-15 11-20-17][6/18][4/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/items.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/items.json. Time(s) tried: 1
+[2024-08-15 11-20-19][6/18][5/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/loot.json
+[2024-08-15 11-20-22][6/18][6/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/perks.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/perks.json. Time(s) tried: 1
+[2024-08-15 11-20-24][6/18][7/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/profile-icons.json
+[2024-08-15 11-20-26][6/18][8/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rewards.json
+[2024-08-15 11-20-28][6/18][9/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/skinlines.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/skinlines.json. Time(s) tried: 1
+[2024-08-15 11-20-31][6/18][10/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/skins.json
+[2024-08-15 11-20-34][6/18][11/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/summoner-emotes.json
+[2024-08-15 11-20-36][6/18][12/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/summoner-icons.json
+[2024-08-15 11-20-38][6/18][13/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftchampions.json
+[2024-08-15 11-20-39][6/18][14/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftdamageskins.json
+[2024-08-15 11-20-41][6/18][15/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftitems.json
+[2024-08-15 11-20-43][6/18][16/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftmapskins.json
+[2024-08-15 11-20-45][6/18][17/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftplaybooks.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftplaybooks.json. Time(s) tried: 1
+[2024-08-15 11-20-47][6/18][18/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftrotationalshopitemdata.json
+[2024-08-15 11-20-49][6/18][19/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftsets.json
+[2024-08-15 11-20-51][6/18][20/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftskilltree.json
+文件https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftskilltree.json不存在！
+File https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftskilltree.json not found!
+[2024-08-15 11-20-52][6/18][21/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfttraits.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfttraits.json. Time(s) tried: 1
+[2024-08-15 11-20-54][6/18][22/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovesbannerrewards.json
+[2024-08-15 11-20-57][6/18][23/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovesbanners.json
+[2024-08-15 11-21-00][6/18][24/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovestablesnames.json
+[2024-08-15 11-21-02][6/18][25/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/universes.json
+[2024-08-15 11-21-04][6/18][26/26]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/ward-skins.json
+[2024-08-15 11-21-06][7/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/
+[2024-08-15 11-21-08]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/
+   file        size          web_date         web_timestamp        local_date          local_timestamp   
+ 126.json    27.8 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-07-10    1723615630.9935784 
+ 222.json    36.8 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-07-13    1723615633.274051  
+ 234.json    23.6 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-07-15    1723615635.0142891 
+ 236.json    37.1 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-07-17    1723615637.3241549 
+ 42.json     25.8 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-07-18    1723615638.918442  
+ 432.json    25.0 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-07-21    1723615641.2616637 
+ 61.json     29.8 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-07-23    1723615643.396304  
+ 64.json     45.0 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-07-25    1723615645.0684462 
+ 69.json     26.0 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-07-27    1723615647.130972  
+ 89.json     41.2 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-07-29    1723615649.3131578 
+ 893.json    13.7 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-07-31    1723615651.6074305 
+[2024-08-15 11-21-08][7/18][1/11]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/126.json
+[2024-08-15 11-21-09][7/18][2/11]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/222.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/222.json. Time(s) tried: 1
+[2024-08-15 11-21-12][7/18][3/11]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/234.json
+[2024-08-15 11-21-13][7/18][4/11]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/236.json
+[2024-08-15 11-21-15][7/18][5/11]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/42.json
+[2024-08-15 11-21-16][7/18][6/11]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/432.json
+[2024-08-15 11-21-18][7/18][7/11]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/61.json
+[2024-08-15 11-21-19][7/18][8/11]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/64.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/64.json. Time(s) tried: 1
+[2024-08-15 11-21-22][7/18][9/11]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/69.json
+[2024-08-15 11-21-23][7/18][10/11]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/89.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/89.json. Time(s) tried: 1
+[2024-08-15 11-21-25][7/18][11/11]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/893.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/893.json. Time(s) tried: 1
+[2024-08-15 11-21-28][8/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/map-assets/
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/map-assets/. Time(s) tried: 1
+[2024-08-15 11-21-30]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/map-assets/
+Empty DataFrame
+Columns: [file, size, web_date, web_timestamp, local_date, local_timestamp]
+Index: []
+[2024-08-15 11-21-30][9/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/. Time(s) tried: 1
+[2024-08-15 11-21-32]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/
+              file                   size           web_date         web_timestamp        local_date          local_timestamp   
+      cherry-augments.json         45.1 KiB     2024-Aug-14 18:16    1723630560.0     2024-08-14 14-07-37    1723615657.4487429 
+        companions.json            756.6 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-07-40    1723615660.4683974 
+      generic-assets.json          175.9 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-07-42    1723615662.518927  
+           items.json              440.6 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-07-44    1723615664.0316367 
+           loot.json                2.8 MiB     2024-Aug-14 18:16    1723630560.0     2024-08-14 14-07-46    1723615666.8852324 
+           perks.json              95.6 KiB     2024-Aug-14 18:16    1723630560.0     2024-08-14 14-07-50    1723615670.1236472 
+       profile-icons.json          319.1 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-07-52    1723615672.2556975 
+         skinlines.json            50.9 KiB     2024-Aug-14 18:16    1723630560.0     2024-08-14 14-07-54    1723615674.108692  
+           skins.json               3.4 MiB     2024-Aug-14 18:16    1723630560.0     2024-08-14 14-07-57    1723615677.3242655 
+      summoner-emotes.json         319.1 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-07-59    1723615679.435282  
+      summoner-icons.json           1.4 MiB     2024-Aug-14 18:16    1723630560.0     2024-08-14 14-08-01    1723615681.9630373 
+       tftchampions.json           50.0 KiB     2024-Aug-14 18:16    1723630560.0     2024-08-14 14-08-04    1723615684.1171184 
+      tftdamageskins.json          67.4 KiB     2024-Aug-14 18:16    1723630560.0     2024-08-14 14-08-06    1723615686.3052547 
+         tftitems.json             166.2 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-08-08    1723615688.4778578 
+        tftmapskins.json           31.3 KiB     2024-Aug-14 18:16    1723630560.0     2024-08-14 14-08-10    1723615690.672168  
+       tftplaybooks.json           55.5 KiB     2024-Aug-14 18:16    1723630560.0     2024-08-14 14-08-12    1723615692.4288187 
+ tftrotationalshopitemdata.json    752.9 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-08-14    1723615694.7514014 
+          tftsets.json               895 B      2024-Aug-14 18:16    1723630560.0     2024-08-14 14-08-16    1723615696.8777628 
+       tftskilltree.json             86 B       2024-Aug-14 06:01    1723586460.0     1970-01-01 08-00-00           0.0         
+         tfttraits.json            164.8 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-08-20    1723615700.9570239 
+  tfttrovesbannerrewards.json      668.9 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-08-23    1723615703.113861  
+     tfttrovesbanners.json          6.1 MiB     2024-Aug-14 18:16    1723630560.0     2024-08-14 14-08-26    1723615706.8224144 
+   tfttrovestablesnames.json       327.6 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-08-29    1723615709.3306763 
+         universes.json            33.8 KiB     2024-Aug-14 18:16    1723630560.0     2024-08-14 14-08-31    1723615711.0927575 
+        ward-skins.json            103.9 KiB    2024-Aug-14 18:16    1723630560.0     2024-08-14 14-08-32    1723615712.7921686 
+[2024-08-15 11-21-32][9/18][1/25]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/cherry-augments.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/cherry-augments.json. Time(s) tried: 1
+[2024-08-15 11-21-34][9/18][2/25]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/companions.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/companions.json. Time(s) tried: 1
+[2024-08-15 11-21-37][9/18][3/25]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/generic-assets.json
+[2024-08-15 11-21-39][9/18][4/25]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/items.json
+[2024-08-15 11-21-41][9/18][5/25]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/loot.json
+[2024-08-15 11-21-44][9/18][6/25]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/perks.json
+[2024-08-15 11-21-46][9/18][7/25]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/profile-icons.json
+[2024-08-15 11-21-47][9/18][8/25]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/skinlines.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/skinlines.json. Time(s) tried: 1
+[2024-08-15 11-21-50][9/18][9/25]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/skins.json
+[2024-08-15 11-21-53][9/18][10/25]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/summoner-emotes.json
+[2024-08-15 11-21-55][9/18][11/25]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/summoner-icons.json
+[2024-08-15 11-21-58][9/18][12/25]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftchampions.json
+[2024-08-15 11-21-59][9/18][13/25]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftdamageskins.json
+[2024-08-15 11-22-01][9/18][14/25]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftitems.json
+[2024-08-15 11-22-03][9/18][15/25]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftmapskins.json
+[2024-08-15 11-22-05][9/18][16/25]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftplaybooks.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftplaybooks.json. Time(s) tried: 1
+[2024-08-15 11-22-06][9/18][17/25]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftrotationalshopitemdata.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftrotationalshopitemdata.json. Time(s) tried: 1
+[2024-08-15 11-22-09][9/18][18/25]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftsets.json
+[2024-08-15 11-22-11][9/18][19/25]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftskilltree.json
+文件https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftskilltree.json不存在！
+File https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftskilltree.json not found!
+[2024-08-15 11-22-12][9/18][20/25]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttraits.json
+[2024-08-15 11-22-14][9/18][21/25]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovesbannerrewards.json
+[2024-08-15 11-22-17][9/18][22/25]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovesbanners.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovesbanners.json. Time(s) tried: 1
+[2024-08-15 11-22-21][9/18][23/25]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovestablesnames.json
+[2024-08-15 11-22-23][9/18][24/25]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/universes.json
+[2024-08-15 11-22-25][9/18][25/25]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/ward-skins.json
+[2024-08-15 11-22-27][10/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/
+[2024-08-15 11-22-28]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/pbe/
+             file                size        web_date         web_timestamp        local_date          local_timestamp   
+ compat-version-metadata.json    62 B    2024-Aug-14 23:39    1723649940.0     2024-08-14 14-08-37    1723615717.3230138 
+    content-metadata.json        64 B    2024-Aug-14 23:39    1723649940.0     2024-08-14 14-08-38    1723615718.9767652 
+[2024-08-15 11-22-28][10/18][1/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/compat-version-metadata.json
+[2024-08-15 11-22-30]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/compat-version-metadata.json
+[2024-08-15 11-22-30][10/18][2/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/content-metadata.json
+[2024-08-15 11-22-32]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/content-metadata.json
+[2024-08-15 11-22-32][11/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/cdragon/arena/
+[2024-08-15 11-22-33]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/pbe/cdragon/arena/
+    file         size           web_date         web_timestamp        local_date          local_timestamp   
+ en_us.json    176.4 KiB    2024-Aug-14 23:40    1723650000.0     2024-08-14 14-08-43    1723615723.7779222 
+ zh_cn.json    178.4 KiB    2024-Aug-14 23:40    1723650000.0     2024-08-14 14-08-45    1723615725.6617067 
+[2024-08-15 11-22-33][11/18][1/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/cdragon/arena/en_us.json
+[2024-08-15 11-22-35]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/cdragon/arena/en_us.json
+[2024-08-15 11-22-35][11/18][2/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/cdragon/arena/zh_cn.json
+[2024-08-15 11-22-37]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/cdragon/arena/zh_cn.json
+[2024-08-15 11-22-37][12/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/cdragon/tft/
+[2024-08-15 11-22-38]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/pbe/cdragon/tft/
+    file        size          web_date         web_timestamp        local_date          local_timestamp   
+ en_us.json    6.3 MiB    2024-Aug-14 23:40    1723650000.0     2024-08-14 14-08-51    1723615731.0274901 
+ zh_cn.json    6.4 MiB    2024-Aug-14 23:40    1723650000.0     2024-08-14 14-08-54    1723615734.727238  
+[2024-08-15 11-22-39][12/18][1/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/cdragon/tft/en_us.json
+[2024-08-15 11-22-42]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/cdragon/tft/en_us.json
+[2024-08-15 11-22-42][12/18][2/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/cdragon/tft/zh_cn.json
+[2024-08-15 11-22-45]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/cdragon/tft/zh_cn.json
+[2024-08-15 11-22-45][13/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/
+[2024-08-15 11-22-46]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/
+   file        size          web_date         web_timestamp        local_date          local_timestamp   
+ 122.json    36.0 KiB    2024-Aug-14 20:12    1723637520.0     2024-08-14 14-09-01    1723615741.6748734 
+ 21.json     45.8 KiB    2024-Aug-14 20:12    1723637520.0     2024-08-14 14-09-03    1723615743.6428106 
+ 86.json     31.7 KiB    2024-Aug-14 20:12    1723637520.0     2024-08-14 14-09-05    1723615745.7234683 
+[2024-08-15 11-22-46][13/18][1/3]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/122.json
+[2024-08-15 11-22-48]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/122.json
+[2024-08-15 11-22-48][13/18][2/3]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/21.json
+[2024-08-15 11-22-49]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/21.json
+[2024-08-15 11-22-49][13/18][3/3]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/86.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/86.json. Time(s) tried: 1
+[2024-08-15 11-22-52]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/86.json
+[2024-08-15 11-22-52][14/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/map-assets/
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/map-assets/. Time(s) tried: 1
+[2024-08-15 11-22-54]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/map-assets/
+Empty DataFrame
+Columns: [file, size, web_date, web_timestamp, local_date, local_timestamp]
+Index: []
+[2024-08-15 11-22-54][15/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/. Time(s) tried: 1
+[2024-08-15 11-22-56]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/
+                file                     size           web_date         web_timestamp        local_date          local_timestamp   
+ champion-rune-recommendations.json    328.1 KiB    2024-Aug-14 20:12    1723637520.0     2024-08-14 14-09-16    1723615756.339432  
+        generic-assets.json            176.8 KiB    2024-Aug-14 20:12    1723637520.0     2024-08-14 14-09-20    1723615760.8373644 
+             items.json                441.8 KiB    2024-Aug-14 20:12    1723637520.0     2024-08-14 14-09-23    1723615763.0282812 
+             skins.json                 3.1 MiB     2024-Aug-14 20:12    1723637520.0     2024-08-14 14-09-33    1723615773.7190478 
+[2024-08-15 11-22-56][15/18][1/4]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-rune-recommendations.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-rune-recommendations.json. Time(s) tried: 1
+[2024-08-15 11-22-59]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-rune-recommendations.json
+[2024-08-15 11-22-59][15/18][2/4]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/generic-assets.json
+[2024-08-15 11-23-00]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/generic-assets.json
+[2024-08-15 11-23-00][15/18][3/4]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/items.json
+[2024-08-15 11-23-02]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/items.json
+[2024-08-15 11-23-02][15/18][4/4]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/skins.json
+[2024-08-15 11-23-05]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/skins.json
+[2024-08-15 11-23-05][16/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/. Time(s) tried: 1
+违反协议导致读取中断！正在尝试第2次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/. Time(s) tried: 2
+[2024-08-15 11-23-08]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/
+  file        size          web_date         web_timestamp        local_date          local_timestamp   
+ 21.json    48.3 KiB    2024-Aug-14 20:12    1723637520.0     2024-08-14 14-10-15    1723615815.5363576 
+[2024-08-15 11-23-08][16/18][1/1]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/21.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/21.json. Time(s) tried: 1
+[2024-08-15 11-23-10]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/21.json
+[2024-08-15 11-23-10][17/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/map-assets/
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/map-assets/. Time(s) tried: 1
+[2024-08-15 11-23-12]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/map-assets/
+Empty DataFrame
+Columns: [file, size, web_date, web_timestamp, local_date, local_timestamp]
+Index: []
+[2024-08-15 11-23-12][18/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/. Time(s) tried: 1
+[2024-08-15 11-23-14]页面新文件列表如下：
+New file list is as follows:
+网页链接（URL)： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/
+        file              size           web_date         web_timestamp        local_date          local_timestamp   
+ generic-assets.json    176.8 KiB    2024-Aug-14 20:12    1723637520.0     2024-08-14 14-10-31    1723615831.0381193 
+     items.json         439.2 KiB    2024-Aug-14 20:12    1723637520.0     2024-08-14 14-10-33    1723615833.237699  
+     skins.json          3.4 MiB     2024-Aug-14 20:12    1723637520.0     2024-08-14 14-10-45    1723615845.8440392 
+[2024-08-15 11-23-14][18/18][1/3]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/generic-assets.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/generic-assets.json. Time(s) tried: 1
+[2024-08-15 11-23-17]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/generic-assets.json
+[2024-08-15 11-23-17][18/18][2/3]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/items.json
+[2024-08-15 11-23-19]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/items.json
+[2024-08-15 11-23-19][18/18][3/3]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/skins.json
+[2024-08-15 11-23-22]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/skins.json
+已更新以下17个文件：
+Updated the following 17 file(s):
+https://raw.communitydragon.org/pbe/compat-version-metadata.json
+https://raw.communitydragon.org/pbe/content-metadata.json
+https://raw.communitydragon.org/pbe/cdragon/arena/en_us.json
+https://raw.communitydragon.org/pbe/cdragon/arena/zh_cn.json
+https://raw.communitydragon.org/pbe/cdragon/tft/en_us.json
+https://raw.communitydragon.org/pbe/cdragon/tft/zh_cn.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/122.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/21.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/86.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-rune-recommendations.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/generic-assets.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/items.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/skins.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/21.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/generic-assets.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/items.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/skins.json
+
+请选择要更新的数据资源，输入空字符串以退出程序：
+Please select the data resource to update, or submit an empty string to exit the program:
+1	CommunityDragon
+2	DataDragon
+
+[The program has exited!]
