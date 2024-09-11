@@ -1,6 +1,6 @@
 {
     "type": "tft-augment",
-    "version": "14.17.1",
+    "version": "14.18.1",
     "augment-container": {
         "name": "Mystic Knapsack",
         "image": {
@@ -1851,7 +1851,7 @@
             "id": "TFT_Augment_Flexible",
             "name": "Flexible",
             "image": {
-                "full": "Flexible_II.TFT_Set12.png",
+                "full": "ComponentGrabBag-III.png",
                 "sprite": "tft-augment4.png",
                 "group": "tft-augment",
                 "x": 96,
@@ -3303,11 +3303,11 @@
                 "h": 48
             }
         },
-        "TFT12_Augment_Incantor": {
-            "id": "TFT12_Augment_Incantor",
-            "name": "Defensive Arts",
+        "TFT12_Augment_Faerie": {
+            "id": "TFT12_Augment_Faerie",
+            "name": "Royal Guard",
             "image": {
-                "full": "DefensiveArts_II.TFT_Set12.png",
+                "full": "RoyalGuard_II.TFT_Set12.png",
                 "sprite": "tft-augment8.png",
                 "group": "tft-augment",
                 "x": 192,
@@ -3316,27 +3316,14 @@
                 "h": 48
             }
         },
-        "TFT12_Augment_Faerie": {
-            "id": "TFT12_Augment_Faerie",
-            "name": "Royal Guard",
-            "image": {
-                "full": "RoyalGuard_II.TFT_Set12.png",
-                "sprite": "tft-augment8.png",
-                "group": "tft-augment",
-                "x": 240,
-                "y": 48,
-                "w": 48,
-                "h": 48
-            }
-        },
         "TFT12_Augment_Frost": {
             "id": "TFT12_Augment_Frost",
-            "name": "Frosty Frontline",
+            "name": "Winter is Coming",
             "image": {
                 "full": "FrostyFrontline_II.TFT_Set12.png",
                 "sprite": "tft-augment8.png",
                 "group": "tft-augment",
-                "x": 288,
+                "x": 240,
                 "y": 48,
                 "w": 48,
                 "h": 48
@@ -3349,7 +3336,7 @@
                 "full": "CaramelizedComforts_II.TFT_Set12.png",
                 "sprite": "tft-augment8.png",
                 "group": "tft-augment",
-                "x": 336,
+                "x": 288,
                 "y": 48,
                 "w": 48,
                 "h": 48
@@ -3362,7 +3349,7 @@
                 "full": "Potions201_II.TFT_Set12.png",
                 "sprite": "tft-augment8.png",
                 "group": "tft-augment",
-                "x": 384,
+                "x": 336,
                 "y": 48,
                 "w": 48,
                 "h": 48
@@ -3375,7 +3362,7 @@
                 "full": "HigherEducation_II.TFT_Set12.png",
                 "sprite": "tft-augment8.png",
                 "group": "tft-augment",
-                "x": 432,
+                "x": 384,
                 "y": 48,
                 "w": 48,
                 "h": 48
@@ -3388,8 +3375,8 @@
                 "full": "EternalGrowth_II.TFT_Set12.png",
                 "sprite": "tft-augment8.png",
                 "group": "tft-augment",
-                "x": 0,
-                "y": 96,
+                "x": 432,
+                "y": 48,
                 "w": 48,
                 "h": 48
             }
@@ -3401,7 +3388,7 @@
                 "full": "EternalGrowth_II.TFT_Set12.png",
                 "sprite": "tft-augment8.png",
                 "group": "tft-augment",
-                "x": 48,
+                "x": 0,
                 "y": 96,
                 "w": 48,
                 "h": 48
@@ -3414,7 +3401,7 @@
                 "full": "SchoolMascot_II.TFT_Set12.png",
                 "sprite": "tft-augment8.png",
                 "group": "tft-augment",
-                "x": 96,
+                "x": 48,
                 "y": 96,
                 "w": 48,
                 "h": 48
@@ -3427,7 +3414,7 @@
                 "full": "AGoldenQuest_II.TFT_Set12.png",
                 "sprite": "tft-augment8.png",
                 "group": "tft-augment",
-                "x": 144,
+                "x": 96,
                 "y": 96,
                 "w": 48,
                 "h": 48
@@ -3440,7 +3427,7 @@
                 "full": "Dejavu_II.TFT_Set12.png",
                 "sprite": "tft-augment8.png",
                 "group": "tft-augment",
-                "x": 192,
+                "x": 144,
                 "y": 96,
                 "w": 48,
                 "h": 48
@@ -3453,7 +3440,7 @@
                 "full": "MoltenCaramel_II.TFT_Set12.png",
                 "sprite": "tft-augment8.png",
                 "group": "tft-augment",
-                "x": 240,
+                "x": 192,
                 "y": 96,
                 "w": 48,
                 "h": 48
@@ -3466,7 +3453,46 @@
                 "full": "Transfiguration_II.TFT_Set12.png",
                 "sprite": "tft-augment8.png",
                 "group": "tft-augment",
+                "x": 240,
+                "y": 96,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT12_Augment_Arcana": {
+            "id": "TFT12_Augment_Arcana",
+            "name": "Arcane Conduit",
+            "image": {
+                "full": "ArcaneConduit_II.TFT_Set12.png",
+                "sprite": "tft-augment8.png",
+                "group": "tft-augment",
                 "x": 288,
+                "y": 96,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT12_Augment_Dragon": {
+            "id": "TFT12_Augment_Dragon",
+            "name": "Draconic Mastery",
+            "image": {
+                "full": "DraconicMastery_II.TFT_Set12.png",
+                "sprite": "tft-augment8.png",
+                "group": "tft-augment",
+                "x": 336,
+                "y": 96,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT12_Augment_ShenCarry": {
+            "id": "TFT12_Augment_ShenCarry",
+            "name": "Pillar of Flame",
+            "image": {
+                "full": "EtherealBlades_II.png",
+                "sprite": "tft-augment8.png",
+                "group": "tft-augment",
+                "x": 384,
                 "y": 96,
                 "w": 48,
                 "h": 48

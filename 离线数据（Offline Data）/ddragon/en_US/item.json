@@ -1,6 +1,6 @@
 {
     "type": "item",
-    "version": "14.17.1",
+    "version": "14.18.1",
     "basic": {
         "name": "",
         "rune": {
@@ -1653,7 +1653,7 @@
             },
             "stats": {},
             "effect": {
-                "Effect1Amount": "0.75",
+                "Effect1Amount": "0.85",
                 "Effect2Amount": "5",
                 "Effect3Amount": "0.35"
             }
@@ -2072,10 +2072,10 @@
             },
             "stats": {},
             "effect": {
-                "Effect1Amount": "40",
+                "Effect1Amount": "50",
                 "Effect2Amount": "125",
                 "Effect3Amount": "20",
-                "Effect4Amount": "45",
+                "Effect4Amount": "20",
                 "Effect5Amount": "0.17"
             }
         },
@@ -8049,7 +8049,7 @@
         },
         "224646": {
             "name": "Stormsurge",
-            "description": "<mainText><stats><attention>80</attention> Ability Power<br><attention>10</attention> Magic Penetration<br><attention>8%</attention> Move Speed</stats><br><br><passive>Stormraider</passive><br>Dealing 35% of a champion's maximum Health within a short duration applies <passive>Squall</passive> and grants Move Speed.<br><br><passive>Squall</passive><br>After a few seconds, strike the target, dealing magic damage. If the target dies before the strike, it detonates immediately, dealing damage in a large area and grants bonus gold.</mainText>",
+            "description": "<mainText><stats><attention>80</attention> Ability Power<br><attention>15</attention> Magic Penetration<br><attention>5%</attention> Move Speed</stats><br><br><passive>Stormraider</passive><br>Dealing 25% of a champion's maximum Health within a short duration applies <passive>Squall</passive> and grants Move Speed.<br><br><passive>Squall</passive><br>After a few seconds, strike the target, dealing magic damage. If the target dies before the strike, it detonates immediately, dealing damage in a large area and grants bonus gold.</mainText>",
             "colloq": "",
             "plaintext": "",
             "image": {
@@ -8083,7 +8083,7 @@
             },
             "stats": {
                 "FlatMagicDamageMod": 80,
-                "PercentMovementSpeedMod": 0.08
+                "PercentMovementSpeedMod": 0.05
             }
         },
         "226035": {
@@ -11868,7 +11868,7 @@
         },
         "3072": {
             "name": "Bloodthirster",
-            "description": "<mainText><stats><attention>80</attention> Attack Damage<br><attention>18%</attention> Life Steal</stats><br><br><passive>Ichorshield</passive><br>Convert healing received from your Lifesteal in excess of your maximum Health into a Shield.</mainText>",
+            "description": "<mainText><stats><attention>80</attention> Attack Damage<br><attention>15%</attention> Life Steal</stats><br><br><passive>Ichorshield</passive><br>Convert healing received from your Lifesteal in excess of your maximum Health into a Shield.</mainText>",
             "colloq": ";bt",
             "plaintext": "Grants Attack Damage, Life Steal and Life Steal now overheals",
             "from": [
@@ -11905,7 +11905,7 @@
             },
             "stats": {
                 "FlatPhysicalDamageMod": 80,
-                "PercentLifeStealMod": 0.18
+                "PercentLifeStealMod": 0.15
             },
             "depth": 3
         },
@@ -17999,7 +17999,7 @@
         },
         "443079": {
             "name": "Turbo Chemtank",
-            "description": "<mainText><stats><attention>1100</attention> Health<br><attention>15%</attention> Move Speed</stats><br><br><passive>Charged</passive><br>The strength of movement slowing effects is reduced by 30%.<br><br><br><br><active>ACTIVE</active> (0s)<br><active>Supercharged</active><br>For 4 seconds, gain 80% Move Speed when facing visible enemy champions. When an enemy champion is nearby or after the duration ends, unleash a shockwave, slowing nearby enemies for 50% for 2 seconds.</mainText>",
+            "description": "<mainText><stats><attention>1100</attention> Health<br><attention>15%</attention> Move Speed</stats><br><br><passive>Charged</passive><br>The strength of movement slowing effects is reduced by 30%.<br><br><br><br><active>ACTIVE</active> (0s)<br><active>Supercharged</active><br>For 4 seconds, gain 80% Move Speed when facing visible enemy champions. When an enemy champion is nearby or after the duration ends, unleash a shockwave, slowing nearby enemies for 60% for 2 seconds.</mainText>",
             "colloq": "",
             "plaintext": "",
             "specialRecipe": 220007,
@@ -18239,7 +18239,7 @@
         },
         "444637": {
             "name": "Demonic Embrace",
-            "description": "<mainText><stats><attention>80</attention> Ability Power<br><attention>600</attention> Health<br><attention>25</attention> Ability Haste</stats><br><br><passive>Sinister Pact</passive><br>Gain +4% <scaleAP>Ability Power</scaleAP> per 300 Missing Health, up to 40%.<br><br><active>ACTIVE</active> (0s)<br><active>Price of Power</active><br>Sacrifice 300 health to gain 100% Move Speed decaying over 3 seconds. This is non-fatal.</mainText>",
+            "description": "<mainText><stats><attention>80</attention> Ability Power<br><attention>700</attention> Health<br><attention>30</attention> Ability Haste</stats><br><br><passive>Sinister Pact</passive><br>Gain +4% <scaleAP>Ability Power</scaleAP> per 300 Missing Health, up to 40%.<br><br><active>ACTIVE</active> (0s)<br><active>Price of Power</active><br>Sacrifice 300 health to gain 100% Move Speed decaying over 3 seconds. This is non-fatal.</mainText>",
             "colloq": "",
             "plaintext": "",
             "specialRecipe": 220007,
@@ -18273,7 +18273,7 @@
                 "33": false
             },
             "stats": {
-                "FlatHPPoolMod": 600,
+                "FlatHPPoolMod": 700,
                 "FlatMagicDamageMod": 80
             }
         },
@@ -18772,7 +18772,7 @@
         },
         "447105": {
             "name": "Empyrean Promise",
-            "description": "<mainText><stats><attention>60</attention> Ability Power<br><attention>18%</attention> Heal and Shield Power<br><attention>30</attention> Ability Haste<br><attention>125%</attention> Base Mana Regen</stats><br><br><br><br><active>ACTIVE</active> (0s)<br><active>Vigilance</active><br>Teleport to your ally and grant <shield> shield</shield> for 5s when landing. Can be used when Ally is downed.</mainText>",
+            "description": "<mainText><stats><attention>70</attention> Ability Power<br><attention>18%</attention> Heal and Shield Power<br><attention>30</attention> Ability Haste<br><attention>125%</attention> Base Mana Regen</stats><br><br><br><br><active>ACTIVE</active> (0s)<br><active>Vigilance</active><br>Teleport to your ally and grant <shield> shield</shield> for 5s when landing. Can be used when Ally is downed.</mainText>",
             "colloq": "",
             "plaintext": "",
             "specialRecipe": 220007,
@@ -18805,7 +18805,7 @@
                 "33": false
             },
             "stats": {
-                "FlatMagicDamageMod": 60
+                "FlatMagicDamageMod": 70
             }
         },
         "447106": {
@@ -20071,7 +20071,7 @@
         },
         "4645": {
             "name": "Shadowflame",
-            "description": "<mainText><stats><attention>120</attention> Ability Power<br><attention>12</attention> Magic Penetration</stats><br><br><passive>Cinderbloom</passive><br><magicDamage>Magic damage</magicDamage> and <trueDamage>true damage</trueDamage> critically strikes low Health enemies.</mainText>",
+            "description": "<mainText><stats><attention>115</attention> Ability Power<br><attention>15</attention> Magic Penetration</stats><br><br><passive>Cinderbloom</passive><br><magicDamage>Magic damage</magicDamage> and <trueDamage>true damage</trueDamage> critically strikes low Health enemies.</mainText>",
             "colloq": "",
             "plaintext": "",
             "from": [
@@ -20106,13 +20106,13 @@
                 "33": false
             },
             "stats": {
-                "FlatMagicDamageMod": 120
+                "FlatMagicDamageMod": 115
             },
             "depth": 3
         },
         "4646": {
             "name": "Stormsurge",
-            "description": "<mainText><stats><attention>95</attention> Ability Power<br><attention>10</attention> Magic Penetration<br><attention>8%</attention> Move Speed</stats><br><br><passive>Stormraider</passive><br>Dealing 35% of a champion's maximum Health within a short duration applies <passive>Squall</passive> and grants Move Speed.<br><br><passive>Squall</passive><br>After a few seconds, strike the target, dealing magic damage. If the target dies before the strike, it detonates immediately, dealing damage in a large area and grants bonus gold.</mainText>",
+            "description": "<mainText><stats><attention>95</attention> Ability Power<br><attention>15</attention> Magic Penetration<br><attention>5%</attention> Move Speed</stats><br><br><passive>Stormraider</passive><br>Dealing 25% of a champion's maximum Health within a short duration applies <passive>Squall</passive> and grants Move Speed.<br><br><passive>Squall</passive><br>After a few seconds, strike the target, dealing magic damage. If the target dies before the strike, it detonates immediately, dealing damage in a large area and grants bonus gold.</mainText>",
             "colloq": "",
             "plaintext": "",
             "from": [
@@ -20150,7 +20150,7 @@
             },
             "stats": {
                 "FlatMagicDamageMod": 95,
-                "PercentMovementSpeedMod": 0.08
+                "PercentMovementSpeedMod": 0.05
             },
             "depth": 3
         },
@@ -20749,7 +20749,7 @@
         },
         "6655": {
             "name": "Luden's Companion",
-            "description": "<mainText><stats><attention>95</attention> Ability Power<br><attention>600</attention> Mana<br><attention>25</attention> Ability Haste</stats><br><br><passive>Fire</passive><br>Damaging Abilities fire Shots that deal additional damage to the target and nearby enemies. Remaining Shots fire on the primary target, dealing reduced damage.</mainText>",
+            "description": "<mainText><stats><attention>100</attention> Ability Power<br><attention>600</attention> Mana<br><attention>20</attention> Ability Haste</stats><br><br><passive>Fire</passive><br>Damaging Abilities fire Shots that deal additional damage to the target and nearby enemies. Remaining Shots fire on the primary target, dealing reduced damage.</mainText>",
             "colloq": "",
             "plaintext": "High burst damage, good against fragile foes",
             "from": [
@@ -20766,10 +20766,10 @@
                 "h": 48
             },
             "gold": {
-                "base": 600,
+                "base": 550,
                 "purchasable": true,
-                "total": 2900,
-                "sell": 2030
+                "total": 2850,
+                "sell": 1995
             },
             "tags": [
                 "SpellDamage",
@@ -20787,7 +20787,7 @@
             },
             "stats": {
                 "FlatMPPoolMod": 600,
-                "FlatMagicDamageMod": 95
+                "FlatMagicDamageMod": 100
             },
             "depth": 3
         },
