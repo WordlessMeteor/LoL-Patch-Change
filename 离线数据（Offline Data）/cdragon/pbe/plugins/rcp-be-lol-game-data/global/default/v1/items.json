@@ -3463,7 +3463,7 @@
     {
         "id": 3065,
         "name": "Spirit Visage",
-        "description": "<mainText><stats><attention> 400</attention> Health<br><attention> 60</attention> Magic Resist<br><attention> 10</attention> Ability Haste<br><attention> 100%</attention> Base Health Regen</stats><br><br><passive>Boundless Vitality</passive><br>Heals and Shields on you are increased by 25%.</mainText>",
+        "description": "<mainText><stats><attention> 400</attention> Health<br><attention> 50</attention> Magic Resist<br><attention> 10</attention> Ability Haste<br><attention> 100%</attention> Base Health Regen</stats><br><br><passive>Boundless Vitality</passive><br>Heals and Shields on you are increased by 25%.</mainText>",
         "active": false,
         "inStore": true,
         "from": [
@@ -3485,8 +3485,8 @@
         "requiredBuffCurrencyCost": 0,
         "specialRecipe": 0,
         "isEnchantment": false,
-        "price": 850,
-        "priceTotal": 2900,
+        "price": 650,
+        "priceTotal": 2700,
         "displayInItemSets": true,
         "iconPath": "/lol-game-data/assets/ASSETS/Items/Icons2D/3065_Tank_T3_SpiritVisage.png"
     },
@@ -4537,7 +4537,7 @@
     {
         "id": 3116,
         "name": "Rylai's Crystal Scepter",
-        "description": "<mainText><stats><attention> 70</attention> Ability Power<br><attention> 400</attention> Health</stats><br><br><passive>Rimefrost</passive><br>Damaging Abilities <keyword>Slow</keyword> enemies by 30% for 1 second.</mainText>",
+        "description": "<mainText><stats><attention> 65</attention> Ability Power<br><attention> 400</attention> Health</stats><br><br><passive>Rimefrost</passive><br>Damaging Abilities <keyword>Slow</keyword> enemies by 30% for 1 second.</mainText>",
         "active": false,
         "inStore": true,
         "from": [
@@ -5233,7 +5233,7 @@
     {
         "id": 3155,
         "name": "Hexdrinker",
-        "description": "<mainText><stats><attention> 25</attention> Attack Damage<br><attention> 30</attention> Magic Resist</stats><br><br><passive>Lifeline</passive>  (0s)<br>Taking magic damage that would reduce your Health below 30% grants a <shield>magic damage Shield</shield> for 2.5 seconds.</mainText>",
+        "description": "<mainText><stats><attention> 25</attention> Attack Damage<br><attention> 25</attention> Magic Resist</stats><br><br><passive>Lifeline</passive>  (0s)<br>Taking magic damage that would reduce your Health below 30% grants a <shield>magic damage Shield</shield> for 2.5 seconds.</mainText>",
         "active": false,
         "inStore": true,
         "from": [
@@ -5510,8 +5510,8 @@
         "requiredBuffCurrencyCost": 0,
         "specialRecipe": 0,
         "isEnchantment": false,
-        "price": 75,
-        "priceTotal": 2900,
+        "price": 175,
+        "priceTotal": 3000,
         "displayInItemSets": true,
         "iconPath": "/lol-game-data/assets/ASSETS/Items/Icons2D/3181_Hullbreaker.png"
     },
@@ -7685,7 +7685,7 @@
     {
         "id": 4646,
         "name": "Stormsurge",
-        "description": "<mainText><stats><attention> 95</attention> Ability Power<br><attention> 15</attention> Magic Penetration<br><attention> 4%</attention> Move Speed</stats><br><br><passive>Stormraider</passive>  (0s)<br>Dealing 25% of a champion's maximum Health within 2.5s applies <passive>Squall</passive> to them and grants <speed>25% Move Speed</speed> for 2 seconds.<br><br><passive>Squall</passive><br>After 2 seconds, deal <magicDamage>magic damage</magicDamage>. If the target dies before <passive>Squall</passive> triggers, it damages nearby enemies and grants <gold>30 gold</gold>.</mainText>",
+        "description": "<mainText><stats><attention> 95</attention> Ability Power<br><attention> 15</attention> Magic Penetration<br><attention> 4%</attention> Move Speed</stats><br><br><passive>Stormraider</passive>  (0s)<br>Dealing 25% of a champion's maximum Health within 2.5s applies <passive>Squall</passive> to them and grants <speed>25% Move Speed</speed> for 1.5 seconds.<br><br><passive>Squall</passive><br>After 2 seconds, deal <magicDamage>magic damage</magicDamage>. If the target dies before <passive>Squall</passive> triggers, it damages nearby enemies and grants <gold>30 gold</gold>.</mainText>",
         "active": false,
         "inStore": true,
         "from": [
@@ -7971,8 +7971,8 @@
         "requiredBuffCurrencyCost": 0,
         "specialRecipe": 0,
         "isEnchantment": false,
-        "price": 400,
-        "priceTotal": 2450,
+        "price": 450,
+        "priceTotal": 2500,
         "displayInItemSets": true,
         "iconPath": "/lol-game-data/assets/ASSETS/Items/Icons2D/6621_Dawncore.png"
     },
@@ -8790,7 +8790,7 @@
     {
         "id": 6698,
         "name": "Profane Hydra",
-        "description": "<mainText><stats><attention> 60</attention> Attack Damage<br><attention> 18</attention> Lethality<br><attention> 15</attention> Ability Haste</stats><br><br><passive>Cleave</passive><br>Attacks deal <physicalDamage>physical damage</physicalDamage> to nearby enemies. <active>Heretical Cleave</active>  (0s)<br>Deal <physicalDamage>physical damage</physicalDamage> around you.</mainText>",
+        "description": "<mainText><stats><attention> 60</attention> Attack Damage<br><attention> 18</attention> Lethality<br><attention> 10</attention> Ability Haste</stats><br><br><passive>Cleave</passive><br>Attacks deal <physicalDamage>physical damage</physicalDamage> to nearby enemies. <active>Heretical Cleave</active>  (0s)<br>Deal <physicalDamage>physical damage</physicalDamage> around you.</mainText>",
         "active": true,
         "inStore": true,
         "from": [
@@ -8812,8 +8812,8 @@
         "requiredBuffCurrencyCost": 0,
         "specialRecipe": 0,
         "isEnchantment": false,
-        "price": 763,
-        "priceTotal": 3300,
+        "price": 663,
+        "priceTotal": 3200,
         "displayInItemSets": true,
         "iconPath": "/lol-game-data/assets/ASSETS/Items/Icons2D/6698_ProfaneHydra.png"
     },
@@ -13245,7 +13245,7 @@
     {
         "id": 224646,
         "name": "Stormsurge",
-        "description": "<mainText><stats><attention> 80</attention> Ability Power<br><attention> 15</attention> Magic Penetration<br><attention> 4%</attention> Move Speed</stats><br><br><passive>Stormraider</passive>  (0s)<br>Dealing 25% of a champion's maximum Health within 2.5s applies <passive>Squall</passive> to them and grants <speed>25% Move Speed</speed> for 2 seconds.<br><br><passive>Squall</passive><br>After 2 seconds, deal <magicDamage>magic damage</magicDamage>. If the target dies before <passive>Squall</passive> triggers, it damages nearby enemies and grants <gold>30 gold</gold>.</mainText>",
+        "description": "<mainText><stats><attention> 80</attention> Ability Power<br><attention> 15</attention> Magic Penetration<br><attention> 4%</attention> Move Speed</stats><br><br><passive>Stormraider</passive>  (0s)<br>Dealing 25% of a champion's maximum Health within 2.5s applies <passive>Squall</passive> to them and grants <speed>25% Move Speed</speed> for 1.5 seconds.<br><br><passive>Squall</passive><br>After 2 seconds, deal <magicDamage>magic damage</magicDamage>. If the target dies before <passive>Squall</passive> triggers, it damages nearby enemies and grants <gold>30 gold</gold>.</mainText>",
         "active": false,
         "inStore": true,
         "from": [],
