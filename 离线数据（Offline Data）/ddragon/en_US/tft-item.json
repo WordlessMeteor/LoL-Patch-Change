@@ -1,6 +1,6 @@
 {
     "type": "tft-item",
-    "version": "14.18.1",
+    "version": "14.19.1",
     "data": {
         "TFTTutorial_Items/TFTTutorial_Item_NeedlesslyLargeRod": {
             "id": "TFTTutorial_Item_NeedlesslyLargeRod",
@@ -3013,6 +3013,383 @@
                 "sprite": "tft-item7.png",
                 "group": "tft-item",
                 "x": 48,
+                "y": 96,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_AssassinEmblemItem": {
+            "id": "TFT5_Item_AssassinEmblemItem",
+            "name": "Assassin Emblem",
+            "image": {
+                "full": "TFT5_Item_AssassinEmblemItem.png",
+                "sprite": "tft-item7.png",
+                "group": "tft-item",
+                "x": 96,
+                "y": 96,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_SpellweaverEmblemItem": {
+            "id": "TFT5_Item_SpellweaverEmblemItem",
+            "name": "Spellweaver Emblem",
+            "image": {
+                "full": "TFT5_Item_SpellweaverEmblemItem.png",
+                "sprite": "tft-item7.png",
+                "group": "tft-item",
+                "x": 144,
+                "y": 96,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_RevenantEmblemItem": {
+            "id": "TFT5_Item_RevenantEmblemItem",
+            "name": "Revenant Emblem",
+            "image": {
+                "full": "TFT5_Item_RevenantEmblemItem.png",
+                "sprite": "tft-item7.png",
+                "group": "tft-item",
+                "x": 192,
+                "y": 96,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_LegionnaireEmblemItem": {
+            "id": "TFT5_Item_LegionnaireEmblemItem",
+            "name": "Legionnaire Emblem",
+            "image": {
+                "full": "TFT5_Item_LegionnaireEmblemItem.png",
+                "sprite": "tft-item7.png",
+                "group": "tft-item",
+                "x": 240,
+                "y": 96,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_RedeemedEmblemItem": {
+            "id": "TFT5_Item_RedeemedEmblemItem",
+            "name": "Redeemed Emblem",
+            "image": {
+                "full": "TFT5_Item_RedeemedEmblemItem.png",
+                "sprite": "tft-item7.png",
+                "group": "tft-item",
+                "x": 288,
+                "y": 96,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_RenewerEmblemItem": {
+            "id": "TFT5_Item_RenewerEmblemItem",
+            "name": "Renewer Emblem",
+            "image": {
+                "full": "TFT5_Item_RenewerEmblemItem.png",
+                "sprite": "tft-item7.png",
+                "group": "tft-item",
+                "x": 336,
+                "y": 96,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_ForgottenEmblemItem": {
+            "id": "TFT5_Item_ForgottenEmblemItem",
+            "name": "Forgotten Emblem",
+            "image": {
+                "full": "TFT5_Item_ForgottenEmblemItem.png",
+                "sprite": "tft-item7.png",
+                "group": "tft-item",
+                "x": 384,
+                "y": 96,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_CovenEmblemItem": {
+            "id": "TFT5_Item_CovenEmblemItem",
+            "name": "Coven Emblem",
+            "image": {
+                "full": "TFT5_Item_CovenEmblemItem.png",
+                "sprite": "tft-item7.png",
+                "group": "tft-item",
+                "x": 432,
+                "y": 96,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_AbominationEmblemItem": {
+            "id": "TFT5_Item_AbominationEmblemItem",
+            "name": "Abomination Emblem",
+            "image": {
+                "full": "TFT5_Item_AbominationEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 0,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_CavalierEmblemItem": {
+            "id": "TFT5_Item_CavalierEmblemItem",
+            "name": "Cavalier Emblem",
+            "image": {
+                "full": "TFT5_Item_CavalierEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 48,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_DawnbringerEmblemItem": {
+            "id": "TFT5_Item_DawnbringerEmblemItem",
+            "name": "Dawnbringer Emblem",
+            "image": {
+                "full": "TFT5_Item_DawnbringerEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 96,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_DragonslayerEmblemItem": {
+            "id": "TFT5_Item_DragonslayerEmblemItem",
+            "name": "Dragonslayer Emblem",
+            "image": {
+                "full": "TFT5_Item_DragonslayerEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 144,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_HellionEmblemItem": {
+            "id": "TFT5_Item_HellionEmblemItem",
+            "name": "Hellion Emblem",
+            "image": {
+                "full": "TFT5_Item_HellionEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 192,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_IroncladEmblemItem": {
+            "id": "TFT5_Item_IroncladEmblemItem",
+            "name": "Ironclad Emblem",
+            "image": {
+                "full": "TFT5_Item_IroncladEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 240,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_NightbringerEmblemItem": {
+            "id": "TFT5_Item_NightbringerEmblemItem",
+            "name": "Nightbringer Emblem",
+            "image": {
+                "full": "TFT5_Item_NightbringerEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 288,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_SkirmisherEmblemItem": {
+            "id": "TFT5_Item_SkirmisherEmblemItem",
+            "name": "Skirmisher Emblem",
+            "image": {
+                "full": "TFT5_Item_SkirmisherEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 336,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "Set5_RadiantItems/TFT5_Item_ZephyrRadiant": {
+            "id": "TFT5_Item_ZephyrRadiant",
+            "name": "Mistral",
+            "image": {
+                "full": "TFT5_Item_ZephyrRadiant.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 384,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_DraconicEmblemItem": {
+            "id": "TFT5_Item_DraconicEmblemItem",
+            "name": "Draconic Emblem",
+            "image": {
+                "full": "TFT5_Item_DraconicEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 432,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_RangerEmblemItem": {
+            "id": "TFT5_Item_RangerEmblemItem",
+            "name": "Ranger Emblem",
+            "image": {
+                "full": "TFT5_Item_RangerEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 0,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_BrawlerEmblemItem": {
+            "id": "TFT5_Item_BrawlerEmblemItem",
+            "name": "Brawler Emblem",
+            "image": {
+                "full": "TFT5_Item_BrawlerEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 48,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_InvokerEmblemItem": {
+            "id": "TFT5_Item_InvokerEmblemItem",
+            "name": "Invoker Emblem",
+            "image": {
+                "full": "TFT5_Item_InvokerEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 96,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_CannoneerEmblemItem": {
+            "id": "TFT5_Item_CannoneerEmblemItem",
+            "name": "Cannoneer Emblem",
+            "image": {
+                "full": "TFT5_Item_CannoneerEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 144,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_SentinelEmblemItem": {
+            "id": "TFT5_Item_SentinelEmblemItem",
+            "name": "Sentinel Emblem",
+            "image": {
+                "full": "TFT5_Item_SentinelEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 192,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_KnightEmblemItem": {
+            "id": "TFT5_Item_KnightEmblemItem",
+            "name": "Knight Emblem",
+            "image": {
+                "full": "TFT5_Item_KnightEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 240,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_MysticEmblemItem": {
+            "id": "TFT5_Item_MysticEmblemItem",
+            "name": "Mystic Emblem",
+            "image": {
+                "full": "TFT5_Item_MysticEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 288,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_ShadowItems/TFT5_Item_LocketOfTheIronSolariShadow": {
+            "id": "TFT5_Item_LocketOfTheIronSolariShadow",
+            "name": "Locket of the Silver Lunari",
+            "image": {
+                "full": "TFT5_Item_LocketOfTheIronSolariShadow.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 336,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_ShadowItems/TFT5_Item_ChaliceOfPowerShadow": {
+            "id": "TFT5_Item_ChaliceOfPowerShadow",
+            "name": "Chalice of Malice",
+            "image": {
+                "full": "TFT5_Item_ChaliceOfPowerShadow.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 384,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_ShadowItems/TFT5_Item_ShroudOfStillnessShadow": {
+            "id": "TFT5_Item_ShroudOfStillnessShadow",
+            "name": "Dark Shroud of Stillness",
+            "image": {
+                "full": "TFT5_Item_ShroudOfStillnessShadow.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 432,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_ShadowItems/TFT5_Item_ZephyrShadow": {
+            "id": "TFT5_Item_ZephyrShadow",
+            "name": "Turbulent Zephyr",
+            "image": {
+                "full": "TFT5_Item_ZephyrShadow.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 0,
                 "y": 96,
                 "w": 48,
                 "h": 48

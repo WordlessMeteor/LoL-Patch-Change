@@ -1,6 +1,6 @@
 {
     "type": "tft-item",
-    "version": "14.18.1",
+    "version": "14.19.1",
     "data": {
         "TFTTutorial_Items/TFTTutorial_Item_NeedlesslyLargeRod": {
             "id": "TFTTutorial_Item_NeedlesslyLargeRod",
@@ -3013,6 +3013,383 @@
                 "sprite": "tft-item7.png",
                 "group": "tft-item",
                 "x": 48,
+                "y": 96,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_AssassinEmblemItem": {
+            "id": "TFT5_Item_AssassinEmblemItem",
+            "name": "刺客纹章",
+            "image": {
+                "full": "TFT5_Item_AssassinEmblemItem.png",
+                "sprite": "tft-item7.png",
+                "group": "tft-item",
+                "x": 96,
+                "y": 96,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_SpellweaverEmblemItem": {
+            "id": "TFT5_Item_SpellweaverEmblemItem",
+            "name": "法师纹章",
+            "image": {
+                "full": "TFT5_Item_SpellweaverEmblemItem.png",
+                "sprite": "tft-item7.png",
+                "group": "tft-item",
+                "x": 144,
+                "y": 96,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_RevenantEmblemItem": {
+            "id": "TFT5_Item_RevenantEmblemItem",
+            "name": "复生亡魂纹章",
+            "image": {
+                "full": "TFT5_Item_RevenantEmblemItem.png",
+                "sprite": "tft-item7.png",
+                "group": "tft-item",
+                "x": 192,
+                "y": 96,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_LegionnaireEmblemItem": {
+            "id": "TFT5_Item_LegionnaireEmblemItem",
+            "name": "征服者纹章",
+            "image": {
+                "full": "TFT5_Item_LegionnaireEmblemItem.png",
+                "sprite": "tft-item7.png",
+                "group": "tft-item",
+                "x": 240,
+                "y": 96,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_RedeemedEmblemItem": {
+            "id": "TFT5_Item_RedeemedEmblemItem",
+            "name": "圣光卫士纹章",
+            "image": {
+                "full": "TFT5_Item_RedeemedEmblemItem.png",
+                "sprite": "tft-item7.png",
+                "group": "tft-item",
+                "x": 288,
+                "y": 96,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_RenewerEmblemItem": {
+            "id": "TFT5_Item_RenewerEmblemItem",
+            "name": "复苏者纹章",
+            "image": {
+                "full": "TFT5_Item_RenewerEmblemItem.png",
+                "sprite": "tft-item7.png",
+                "group": "tft-item",
+                "x": 336,
+                "y": 96,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_ForgottenEmblemItem": {
+            "id": "TFT5_Item_ForgottenEmblemItem",
+            "name": "破败军团纹章",
+            "image": {
+                "full": "TFT5_Item_ForgottenEmblemItem.png",
+                "sprite": "tft-item7.png",
+                "group": "tft-item",
+                "x": 384,
+                "y": 96,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_CovenEmblemItem": {
+            "id": "TFT5_Item_CovenEmblemItem",
+            "name": "魔女纹章",
+            "image": {
+                "full": "TFT5_Item_CovenEmblemItem.png",
+                "sprite": "tft-item7.png",
+                "group": "tft-item",
+                "x": 432,
+                "y": 96,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_AbominationEmblemItem": {
+            "id": "TFT5_Item_AbominationEmblemItem",
+            "name": "丧尸纹章",
+            "image": {
+                "full": "TFT5_Item_AbominationEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 0,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_CavalierEmblemItem": {
+            "id": "TFT5_Item_CavalierEmblemItem",
+            "name": "重骑兵纹章",
+            "image": {
+                "full": "TFT5_Item_CavalierEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 48,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_DawnbringerEmblemItem": {
+            "id": "TFT5_Item_DawnbringerEmblemItem",
+            "name": "黎明使者纹章",
+            "image": {
+                "full": "TFT5_Item_DawnbringerEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 96,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_DragonslayerEmblemItem": {
+            "id": "TFT5_Item_DragonslayerEmblemItem",
+            "name": "屠龙勇士纹章",
+            "image": {
+                "full": "TFT5_Item_DragonslayerEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 144,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_HellionEmblemItem": {
+            "id": "TFT5_Item_HellionEmblemItem",
+            "name": "小恶魔纹章",
+            "image": {
+                "full": "TFT5_Item_HellionEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 192,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_IroncladEmblemItem": {
+            "id": "TFT5_Item_IroncladEmblemItem",
+            "name": "铁甲卫士纹章",
+            "image": {
+                "full": "TFT5_Item_IroncladEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 240,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_NightbringerEmblemItem": {
+            "id": "TFT5_Item_NightbringerEmblemItem",
+            "name": "黑夜使者纹章",
+            "image": {
+                "full": "TFT5_Item_NightbringerEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 288,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_SkirmisherEmblemItem": {
+            "id": "TFT5_Item_SkirmisherEmblemItem",
+            "name": "神盾战士纹章",
+            "image": {
+                "full": "TFT5_Item_SkirmisherEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 336,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "Set5_RadiantItems/TFT5_Item_ZephyrRadiant": {
+            "id": "TFT5_Item_ZephyrRadiant",
+            "name": "寒风",
+            "image": {
+                "full": "TFT5_Item_ZephyrRadiant.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 384,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_DraconicEmblemItem": {
+            "id": "TFT5_Item_DraconicEmblemItem",
+            "name": "龙族纹章",
+            "image": {
+                "full": "TFT5_Item_DraconicEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 432,
+                "y": 0,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_RangerEmblemItem": {
+            "id": "TFT5_Item_RangerEmblemItem",
+            "name": "游侠纹章",
+            "image": {
+                "full": "TFT5_Item_RangerEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 0,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_BrawlerEmblemItem": {
+            "id": "TFT5_Item_BrawlerEmblemItem",
+            "name": "斗士纹章",
+            "image": {
+                "full": "TFT5_Item_BrawlerEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 48,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_InvokerEmblemItem": {
+            "id": "TFT5_Item_InvokerEmblemItem",
+            "name": "神谕者纹章",
+            "image": {
+                "full": "TFT5_Item_InvokerEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 96,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_CannoneerEmblemItem": {
+            "id": "TFT5_Item_CannoneerEmblemItem",
+            "name": "强袭炮手纹章",
+            "image": {
+                "full": "TFT5_Item_CannoneerEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 144,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_SentinelEmblemItem": {
+            "id": "TFT5_Item_SentinelEmblemItem",
+            "name": "光明哨兵纹章",
+            "image": {
+                "full": "TFT5_Item_SentinelEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 192,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_KnightEmblemItem": {
+            "id": "TFT5_Item_KnightEmblemItem",
+            "name": "骑士纹章",
+            "image": {
+                "full": "TFT5_Item_KnightEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 240,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_EmblemItems/TFT5_Item_MysticEmblemItem": {
+            "id": "TFT5_Item_MysticEmblemItem",
+            "name": "秘术师纹章",
+            "image": {
+                "full": "TFT5_Item_MysticEmblemItem.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 288,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_ShadowItems/TFT5_Item_LocketOfTheIronSolariShadow": {
+            "id": "TFT5_Item_LocketOfTheIronSolariShadow",
+            "name": "白银皎月之匣",
+            "image": {
+                "full": "TFT5_Item_LocketOfTheIronSolariShadow.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 336,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_ShadowItems/TFT5_Item_ChaliceOfPowerShadow": {
+            "id": "TFT5_Item_ChaliceOfPowerShadow",
+            "name": "恶意圣杯",
+            "image": {
+                "full": "TFT5_Item_ChaliceOfPowerShadow.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 384,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_ShadowItems/TFT5_Item_ShroudOfStillnessShadow": {
+            "id": "TFT5_Item_ShroudOfStillnessShadow",
+            "name": "黑暗静止法衣",
+            "image": {
+                "full": "TFT5_Item_ShroudOfStillnessShadow.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 432,
+                "y": 48,
+                "w": 48,
+                "h": 48
+            }
+        },
+        "TFT5_ShadowItems/TFT5_Item_ZephyrShadow": {
+            "id": "TFT5_Item_ZephyrShadow",
+            "name": "狂乱灵风",
+            "image": {
+                "full": "TFT5_Item_ZephyrShadow.png",
+                "sprite": "tft-item8.png",
+                "group": "tft-item",
+                "x": 0,
                 "y": 96,
                 "w": 48,
                 "h": 48
