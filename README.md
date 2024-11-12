@@ -38,6 +38,31 @@ This repository is only for diff checking use. No release will be provided. All 
 	</thead>
 	<tbody>
 		<tr>
+			<td style="text-align:center;">2024-11-12 08-30-41</td>
+			<td style="text-align:center;">2</td>
+			<td>
+				CDragon: <br>
+					<ul style="list-style-type: disc; margin-left: 20px;">
+						<li>PBE: 14.23.632.8129 -> 14.23.634.2658</li>
+					</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2024-11-10 16-33-16</td>
+			<td style="text-align:center;">2</td>
+			<td>No changes</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2024-11-09 17-24-01</td>
+			<td style="text-align:center;">2</td>
+			<td>No changes</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2024-11-08 16-57-30</td>
+			<td style="text-align:center;">2</td>
+			<td>No changes</td>
+		</tr>
+		<tr>
 			<td style="text-align:center;">2024-11-07 19-08-29</td>
 			<td style="text-align:center;">2</td>
 			<td>
@@ -55,7 +80,7 @@ This repository is only for diff checking use. No release will be provided. All 
 				CDragon: <br>
 					<ul style="list-style-type: disc; margin-left: 20px;">
 						<li>Latest: 14.21.630.3012 -> 14.22.631.8255</li>
-						<li>PBE: 14.22.628.5783 -> 14.22.628.9473</li>
+						<li>PBE: 14.23.632.6552 -> 14.23.632.8129</li>
 					</ul>
 				DDragon: 14.21.1 -> 14.22.1
 			</td>
