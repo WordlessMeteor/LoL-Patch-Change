@@ -38,6 +38,32 @@ This repository is only for diff checking use. No release will be provided. All 
 	</thead>
 	<tbody>
 		<tr>
+			<td style="text-align:center;">2024-11-21 10-20-37</td>
+			<td style="text-align:center;">2</td>
+			<td>
+				CDragon: <br>
+					<ul style="list-style-type: disc; margin-left: 20px;">
+						<li>Latest: 14.22.635.4945 -> 14.23.636.9832</li>
+					</ul>
+				DDragon: 14.22.1 -> 14.23.1
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2024-11-20 08-33-16</td>
+			<td style="text-align:center;">2</td>
+			<td>No changes</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2024-11-18 10-31-12</td>
+			<td style="text-align:center;">2</td>
+			<td>No changes</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2024-11-17 17-21-21</td>
+			<td style="text-align:center;">2</td>
+			<td>No changes</td>
+		</tr>
+		<tr>
 			<td style="text-align:center;">2024-11-16 10-14-43</td>
 			<td style="text-align:center;">2</td>
 			<td>
