@@ -38,6 +38,17 @@ This repository is only for diff checking use. No release will be provided. All 
 	</thead>
 	<tbody>
 		<tr>
+			<td style="text-align:center;">2025-01-15 09-08-43</td>
+			<td style="text-align:center;">2</td>
+			<td>
+				CDragon: <br>
+					<ul style="list-style-type: disc; margin-left: 20px;">
+						<li>Latest: 15.1.648.3927 -> 15.1.649.4112</li>
+						<li>PBE: 15.2.649.2690 -> 15.2.649.6264</li>
+					</ul>
+			</td>
+		</tr>
+		<tr>
 			<td style="text-align:center;">2025-01-14 09-00-29</td>
 			<td style="text-align:center;">2</td>
 			<td>
