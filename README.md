@@ -38,7 +38,23 @@ This repository is only for diff checking use. No release will be provided. All 
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align:center;">2025-05-02 08-46-40</td>
+			<td style="text-align:center;">2025-05-06 09-10-58</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>
+				CDragon: <br>
+					<ul style="list-style-type: disc; margin-left: 20px;">
+						<li>Latest: Within-patch change</li>
+						<li>PBE: 15.10.678.5711 -> 15.10.678.8835</li>
+					</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2025-05-05 10-37-45</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>No changes</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2025-05-03 08-46-40</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -49,7 +65,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-05-01 09-37-05</td>
+			<td style="text-align:center;">2025-05-02 18-55-05</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
