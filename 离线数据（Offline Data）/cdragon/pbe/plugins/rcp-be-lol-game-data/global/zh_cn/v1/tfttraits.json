@@ -16680,7 +16680,7 @@
         "trait_id": "TFTEvent5YR_Bilgewater",
         "set": "TFTSetEvent5YR",
         "icon_path": "/lol-game-data/assets/ASSETS/UX/TraitIcons/Trait_Icon_9_Bilgewater.png",
-        "tooltip_text": "己方弈子的攻击和技能会标记敌人。这个标记会将对该敌人的一部分已造成伤害储存起来。<br><br>被标记的敌人们会在@TFTTrait.TFTEvent5YR_Bilgewater.1:BarrageInterval@秒后被一颗炮弹击中，造成已储存的伤害外加一个固定数额的<physicalDamage>物理伤害</physicalDamage>。<br><br><row>(@TFTTrait.TFTEvent5YR_Bilgewater.1:MinUnits@) <physicalDamage>@TFTTrait.TFTEvent5YR_Bilgewater.1:Damage@</physicalDamage> + @TFTTrait.TFTEvent5YR_Bilgewater.1:DamagePercent@%已造成伤害</row><br><row>(@TFTTrait.TFTEvent5YR_Bilgewater.2:MinUnits@) <physicalDamage>@TFTTrait.TFTEvent5YR_Bilgewater.2:Damage@</physicalDamage> + @TFTTrait.TFTEvent5YR_Bilgewater.2:DamagePercent@%已造成伤害。每第@TFTTrait.TFTEvent5YR_Bilgewater.2:ShotsUntilTreasure@颗炮弹会被替换为一个掉落金币的财宝箱！</row>",
+        "tooltip_text": "tft_trait_description_TFTEvent5YR_Bilgewater",
         "innate_trait_sets": [],
         "conditional_trait_sets": [
             {
@@ -17910,7 +17910,7 @@
                     },
                     {
                         "name": "ShieldAmount",
-                        "value": 300.0
+                        "value": 350.0
                     },
                     {
                         "name": "ShieldDuration",

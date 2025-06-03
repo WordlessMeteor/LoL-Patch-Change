@@ -16680,7 +16680,7 @@
         "trait_id": "TFTEvent5YR_Bilgewater",
         "set": "TFTSetEvent5YR",
         "icon_path": "/lol-game-data/assets/ASSETS/UX/TraitIcons/Trait_Icon_9_Bilgewater.png",
-        "tooltip_text": "Your team's attacks and Abilities mark enemies. The mark stores a percentage of damage dealt to the enemy.<br><br>Marked enemies are struck by a cannonball after @TFTTrait.TFTEvent5YR_Bilgewater.1:BarrageInterval@ seconds, dealing the stored damage plus a flat value as <physicalDamage>physical damage</physicalDamage>.<br><br><row>(@TFTTrait.TFTEvent5YR_Bilgewater.1:MinUnits@) <physicalDamage>@TFTTrait.TFTEvent5YR_Bilgewater.1:Damage@</physicalDamage> + @TFTTrait.TFTEvent5YR_Bilgewater.1:DamagePercent@% damage dealt</row><br><row>(@TFTTrait.TFTEvent5YR_Bilgewater.2:MinUnits@) <physicalDamage>@TFTTrait.TFTEvent5YR_Bilgewater.2:Damage@</physicalDamage> + @TFTTrait.TFTEvent5YR_Bilgewater.2:DamagePercent@% damage dealt. Every @TFTTrait.TFTEvent5YR_Bilgewater.2:ShotsUntilTreasure@th cannonball is replaced with a treasure chest that drops gold!</row>",
+        "tooltip_text": "Your team's attacks and Abilities mark enemies. The mark stores a percentage of damage dealt to the enemy.<br><br>Marked enemies are struck by a cannonball after @TFTTrait.TFTEvent5YR_Bilgewater.1:BarrageInterval@ seconds, dealing the stored damage plus a flat value as <physicalDamage>physical damage</physicalDamage>.<br><br><row>(@TFTTrait.TFTEvent5YR_Bilgewater.1:MinUnits@) @TFTTrait.TFTEvent5YR_Bilgewater.1:Damage@ + @TFTTrait.TFTEvent5YR_Bilgewater.1:DamagePercent@% damage dealt</row><br><row>(@TFTTrait.TFTEvent5YR_Bilgewater.2:MinUnits@) @TFTTrait.TFTEvent5YR_Bilgewater.2:Damage@ + @TFTTrait.TFTEvent5YR_Bilgewater.2:DamagePercent@% damage dealt. Every @TFTTrait.TFTEvent5YR_Bilgewater.2:ShotsUntilTreasure@th cannonball is replaced with a treasure chest that drops gold!</row>",
         "innate_trait_sets": [],
         "conditional_trait_sets": [
             {
@@ -16897,7 +16897,7 @@
         "trait_id": "TFTEvent5YR_Dragonlord",
         "set": "TFTSetEvent5YR",
         "icon_path": "/lol-game-data/assets/ASSETS/UX/TraitIcons/Trait_Icon_11_Dragonlord.png",
-        "tooltip_text": "After @TFTTrait.TFTEvent5YR_Dragonlord.1:FirstDelay@ seconds of combat, the Dragon strikes the board, dealing true damage and stunning all enemies. Allies gain Attack Speed for the rest of combat.<br><br><row>(@TFTTrait.TFTEvent5YR_Dragonlord.1:MinUnits@) <trueDamage>@TFTTrait.TFTEvent5YR_Dragonlord.1:TrueDamageHPRatio*100@% %i:scaleHealth%</trueDamage> damage, Stuns for @TFTTrait.TFTEvent5YR_Dragonlord.1:StunDuration@ second, @TFTTrait.TFTEvent5YR_Dragonlord.1:AttackSpeedBuff*100@% %i:scaleAS%.</row><br><row>(@TFTTrait.TFTEvent5YR_Dragonlord.2:MinUnits@) <trueDamage>@TFTTrait.TFTEvent5YR_Dragonlord.2:TrueDamageHPRatio*100@% %i:scaleHealth%</trueDamage> damage, Stuns for @TFTTrait.TFTEvent5YR_Dragonlord.2:StunDuration@ seconds, @TFTTrait.TFTEvent5YR_Dragonlord.2:AttackSpeedBuff*100@% %i:scaleAS%.<br>After an additional @TFTTrait.TFTEvent5YR_Dragonlord.2:SecondDelay@ seconds, the Dragon strikes again.</row><br><br>",
+        "tooltip_text": "After @TFTTrait.TFTEvent5YR_Dragonlord.1:FirstDelay@ seconds of combat, the Dragon strikes the board, dealing <trueDamage>true damage</trueDamage> and stunning all enemies. Allies gain Attack Speed for the rest of combat.<br><br><row>(@TFTTrait.TFTEvent5YR_Dragonlord.1:MinUnits@) @TFTTrait.TFTEvent5YR_Dragonlord.1:TrueDamageHPRatio*100@% %i:scaleHealth% damage, Stuns for @TFTTrait.TFTEvent5YR_Dragonlord.1:StunDuration@ second, @TFTTrait.TFTEvent5YR_Dragonlord.1:AttackSpeedBuff*100@% %i:scaleAS%.</row><br><row>(@TFTTrait.TFTEvent5YR_Dragonlord.2:MinUnits@) @TFTTrait.TFTEvent5YR_Dragonlord.2:TrueDamageHPRatio*100@% %i:scaleHealth% damage, Stuns for @TFTTrait.TFTEvent5YR_Dragonlord.2:StunDuration@ seconds, @TFTTrait.TFTEvent5YR_Dragonlord.2:AttackSpeedBuff*100@% %i:scaleAS%.<br>After an additional @TFTTrait.TFTEvent5YR_Dragonlord.2:SecondDelay@ seconds, the Dragon strikes again.</row><br><br>",
         "innate_trait_sets": [],
         "conditional_trait_sets": [
             {
@@ -17910,7 +17910,7 @@
                     },
                     {
                         "name": "ShieldAmount",
-                        "value": 300.0
+                        "value": 350.0
                     },
                     {
                         "name": "ShieldDuration",
