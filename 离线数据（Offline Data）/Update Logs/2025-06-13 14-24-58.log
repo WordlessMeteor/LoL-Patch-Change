@@ -1,0 +1,446 @@
+请选择要更新的数据资源，输入空字符串以退出程序：
+Please select the data resource to update, or submit an empty string to exit the program:
+1	CommunityDragon
+2	DataDragon
+1
+请选择要更新的数据资源：
+Please select the data resources to update:
+☆1	主要文件（默认）【Major files (by default)】
+2	自行指定（Specify manually）
+请选择更新模式：
+Please select the update mode:
+1	全局扫描（Global Scan）
+☆2	按修改时间更新（默认）【Updating According to Modification Time (by default)】
+
+请选择一种方式指定修改时间：
+Please select a method of specifying the modification time:
+☆1	自动获取（默认）【Automatically get (by default)】
+2	手动输入（Manually input）
+
+[2025-06-13 14-25-11][1/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/
+[2025-06-13 14-25-12]页面新文件列表如下：
+New file list is as follows: 
+             file                size        web_date         web_timestamp        local_date          local_timestamp   
+ compat-version-metadata.json    72 B    2025-Jun-13 02:32    1749753120.0     2025-06-12 13-56-42    1749707802.283029  
+    content-metadata.json        74 B    2025-Jun-13 02:32    1749753120.0     2025-06-12 13-56-43    1749707803.3008175 
+[2025-06-13 14-25-12][1/18][1/2]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/compat-version-metadata.json
+[2025-06-13 14-25-13][1/18][2/2]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/content-metadata.json
+[2025-06-13 14-25-14][2/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/cdragon/arena/
+[2025-06-13 14-25-20]页面新文件列表如下：
+New file list is as follows: 
+    file         size           web_date         web_timestamp        local_date          local_timestamp   
+ en_us.json    221.7 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-56-45    1749707805.0201564 
+ zh_cn.json    224.9 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-56-46    1749707806.368325  
+[2025-06-13 14-25-20][2/18][1/2]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/cdragon/arena/en_us.json
+[2025-06-13 14-25-22][2/18][2/2]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/cdragon/arena/zh_cn.json
+[2025-06-13 14-25-23][3/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/cdragon/tft/
+[2025-06-13 14-25-30]页面新文件列表如下：
+New file list is as follows: 
+    file         size          web_date         web_timestamp        local_date          local_timestamp   
+ en_us.json    18.2 MiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-56-51    1749707811.8613229 
+ zh_cn.json    18.2 MiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-56-54    1749707814.7641041 
+[2025-06-13 14-25-30][3/18][1/2]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/cdragon/tft/en_us.json
+[2025-06-13 14-25-34][3/18][2/2]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/cdragon/tft/zh_cn.json
+[2025-06-13 14-25-40][4/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/
+[2025-06-13 14-25-41]页面新文件列表如下：
+New file list is as follows: 
+   file        size          web_date         web_timestamp        local_date          local_timestamp   
+ 103.json    64.1 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-56-56    1749707816.6673987 
+ 13.json     34.7 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-56-57    1749707817.5325112 
+ 145.json    57.1 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-56-58    1749707818.609573  
+ 147.json    44.8 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-56-59    1749707819.5171864 
+ 200.json    24.6 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-00    1749707820.398786  
+ 22.json     57.5 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-01    1749707821.921921  
+ 236.json    49.8 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-02    1749707822.9428217 
+ 254.json    37.4 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-04    1749707824.1126933 
+ 33.json     29.9 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-05    1749707825.1950536 
+  4.json     45.6 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-06    1749707826.302592  
+ 429.json    23.3 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-07    1749707827.2734082 
+ 555.json    52.3 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-08    1749707828.230541  
+ 58.json     44.1 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-09    1749707829.280993  
+ 64.json     56.9 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-10    1749707830.5378208 
+ 67.json     54.3 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-11    1749707831.5751815 
+  7.json     48.3 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-12    1749707832.6310365 
+ 81.json     57.1 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-13    1749707833.824349  
+ 86.json     39.0 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-14    1749707834.8190396 
+ 887.json    29.3 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-15    1749707835.7836635 
+ 895.json    24.6 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-16    1749707836.9261975 
+[2025-06-13 14-25-42][4/18][1/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/103.json
+[2025-06-13 14-25-51][4/18][2/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/13.json
+[2025-06-13 14-25-52][4/18][3/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/145.json
+[2025-06-13 14-26-02][4/18][4/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/147.json
+[2025-06-13 14-26-09][4/18][5/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/200.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/200.json. Time(s) tried: 1
+[2025-06-13 14-26-11][4/18][6/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/22.json
+[2025-06-13 14-26-12][4/18][7/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/236.json
+[2025-06-13 14-26-16][4/18][8/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/254.json
+[2025-06-13 14-26-24][4/18][9/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/33.json
+[2025-06-13 14-26-28][4/18][10/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/4.json
+[2025-06-13 14-26-30][4/18][11/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/429.json
+无法连接到代理！正在尝试第1次重新获取数据！
+Cannot connect to proxy! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/429.json. Time(s) tried: 1
+[2025-06-13 14-26-49][4/18][12/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/555.json
+[2025-06-13 14-26-50][4/18][13/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/58.json
+[2025-06-13 14-26-51][4/18][14/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/64.json
+[2025-06-13 14-26-52][4/18][15/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/67.json
+[2025-06-13 14-26-53][4/18][16/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/7.json
+[2025-06-13 14-26-54][4/18][17/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/81.json
+[2025-06-13 14-26-55][4/18][18/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/86.json
+[2025-06-13 14-26-56][4/18][19/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/887.json
+[2025-06-13 14-27-14][4/18][20/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/895.json
+[2025-06-13 14-27-20][5/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/map-assets/
+[2025-06-13 14-27-22]页面新文件列表如下：
+New file list is as follows: 
+      file            size           web_date         web_timestamp        local_date          local_timestamp   
+ map-assets.json    145.9 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-19    1749707839.3320637 
+[2025-06-13 14-27-22][5/18][1/1]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/map-assets/map-assets.json
+[2025-06-13 14-27-23][6/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/
+[2025-06-13 14-27-24]页面新文件列表如下：
+New file list is as follows: 
+                file                     size           web_date         web_timestamp        local_date          local_timestamp   
+       achievementtitles.json          99.6 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-22    1749707842.0292208 
+          challenges.json              610.8 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-23    1749707843.5403965 
+ champion-rune-recommendations.json    325.9 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-25    1749707845.0120654 
+          companions.json              931.3 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-26    1749707846.0686777 
+     csssheet-teamplanner.json         56.6 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-27    1749707847.1484568 
+           event-hub.json              111.0 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-28    1749707848.2768333 
+        generic-assets.json            210.6 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-29    1749707849.796036  
+             items.json                481.3 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-30    1749707850.9172118 
+          lolcurrency.json              1.2 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-33    1749707853.0806453 
+             loot.json                  2.9 MiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-35    1749707855.190492  
+        mission-assets.json            36.6 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-36    1749707856.0067153 
+          objectives.json              71.5 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-36    1749707856.9795012 
+             perks.json                96.4 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-38    1749707858.128347  
+         profile-icons.json            332.4 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-39    1749707859.3282747 
+            queues.json                76.6 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-40    1749707860.4336207 
+            regalia.json               25.5 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-41    1749707861.5033832 
+            rewards.json               836.4 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-43    1749707863.0217137 
+         skinaugments.json             12.5 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-43    1749707863.9466927 
+          skinborders.json             11.0 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-44    1749707864.881772  
+             skins.json                 4.7 MiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-46    1749707866.571114  
+          stylesheet.json              22.0 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-47    1749707867.3492224 
+        summoner-emotes.json           466.2 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-49     1749707869.01462  
+        summoner-icons.json             1.9 MiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-50    1749707870.1906385 
+    tftcapmissioncollection.json        3.5 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-51    1749707871.1714427 
+         tftchampions.json             113.6 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-52    1749707872.3456488 
+     tftchemtechstoredata.json          3.9 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-57-53    1749707873.2612693 
+        tftcontentdata.json            681.1 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-58-55    1749707935.4498582 
+        tftdamageskins.json            86.7 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-58-56    1749707936.384807  
+       tfteventpvebuddy.json             92 B       2025-Jun-11 06:08    1749593280.0     1970-01-01 08-00-00           0.0         
+        tfteventpvehub.json              90 B       2025-Jun-11 06:08    1749593280.0     1970-01-01 08-00-00           0.0         
+           tftitems.json               609.8 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-00    1749707940.997933  
+          tftmapskins.json             37.5 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-01    1749707941.894443  
+       tftregionportals.json           17.5 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-02    1749707942.776341  
+   tftrotationalshopitemdata.json       1.7 MiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-05    1749707945.072009  
+            tftsets.json                4.9 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-06    1749707946.109432  
+           tfttraits.json              325.3 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-07    1749707947.480909  
+    tfttrovesbannerrewards.json        807.3 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-09    1749707949.1128318 
+       tfttrovesbanners.json           161.3 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-10    1749707950.2787876 
+     tfttrovestablesnames.json         365.2 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-11    1749707951.7170045 
+         tftzoomskins.json              6.7 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-12    1749707952.8658721 
+          ward-skins.json              128.4 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-14    1749707954.1745052 
+[2025-06-13 14-27-24][6/18][1/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/achievementtitles.json
+[2025-06-13 14-27-26][6/18][2/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/challenges.json
+[2025-06-13 14-27-28][6/18][3/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-rune-recommendations.json
+[2025-06-13 14-27-35][6/18][4/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/companions.json
+[2025-06-13 14-27-36][6/18][5/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/csssheet-teamplanner.json
+[2025-06-13 14-27-37][6/18][6/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/event-hub.json
+[2025-06-13 14-27-44][6/18][7/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/generic-assets.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/generic-assets.json. Time(s) tried: 1
+[2025-06-13 14-27-53][6/18][8/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/items.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/items.json. Time(s) tried: 1
+[2025-06-13 14-27-59][6/18][9/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/lolcurrency.json
+[2025-06-13 14-28-03][6/18][10/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/loot.json
+[2025-06-13 14-28-11][6/18][11/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/mission-assets.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/mission-assets.json. Time(s) tried: 1
+违反协议导致读取中断！正在尝试第2次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/mission-assets.json. Time(s) tried: 2
+[2025-06-13 14-28-22][6/18][12/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/objectives.json
+[2025-06-13 14-28-23][6/18][13/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/perks.json
+[2025-06-13 14-28-24][6/18][14/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/profile-icons.json
+[2025-06-13 14-28-25][6/18][15/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/queues.json
+[2025-06-13 14-28-26][6/18][16/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/regalia.json
+[2025-06-13 14-28-27][6/18][17/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rewards.json
+[2025-06-13 14-28-28][6/18][18/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/skinaugments.json
+[2025-06-13 14-28-28][6/18][19/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/skinborders.json
+[2025-06-13 14-28-29][6/18][20/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/skins.json
+[2025-06-13 14-28-30][6/18][21/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/stylesheet.json
+[2025-06-13 14-28-31][6/18][22/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/summoner-emotes.json
+[2025-06-13 14-28-32][6/18][23/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/summoner-icons.json
+[2025-06-13 14-28-34][6/18][24/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftcapmissioncollection.json
+[2025-06-13 14-28-36][6/18][25/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftchampions.json
+[2025-06-13 14-28-37][6/18][26/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftchemtechstoredata.json
+[2025-06-13 14-28-37][6/18][27/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftcontentdata.json
+[2025-06-13 14-28-39][6/18][28/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftdamageskins.json
+[2025-06-13 14-28-40][6/18][29/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfteventpvebuddy.json
+文件https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfteventpvebuddy.json不存在！
+File https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfteventpvebuddy.json not found!
+[2025-06-13 14-28-41][6/18][30/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfteventpvehub.json
+文件https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfteventpvehub.json不存在！
+File https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfteventpvehub.json not found!
+[2025-06-13 14-28-42][6/18][31/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftitems.json
+[2025-06-13 14-28-44][6/18][32/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftmapskins.json
+[2025-06-13 14-28-46][6/18][33/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftregionportals.json
+[2025-06-13 14-28-47][6/18][34/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftrotationalshopitemdata.json
+[2025-06-13 14-28-49][6/18][35/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftsets.json
+[2025-06-13 14-28-50][6/18][36/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfttraits.json
+[2025-06-13 14-28-51][6/18][37/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovesbannerrewards.json
+[2025-06-13 14-28-53][6/18][38/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovesbanners.json
+[2025-06-13 14-28-53][6/18][39/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovestablesnames.json
+[2025-06-13 14-28-55][6/18][40/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftzoomskins.json
+[2025-06-13 14-28-56][6/18][41/41]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/ward-skins.json
+[2025-06-13 14-28-57][7/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/
+[2025-06-13 14-28-57]页面新文件列表如下：
+New file list is as follows: 
+   file        size          web_date         web_timestamp        local_date          local_timestamp   
+ 103.json    65.6 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-16    1749707956.1892085 
+ 13.json     36.8 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-17    1749707957.236905  
+ 145.json    59.4 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-18    1749707958.3288596 
+ 147.json    47.0 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-19     1749707959.22935  
+ 200.json    25.0 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-20    1749707960.1451724 
+ 22.json     61.1 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-21    1749707961.1200116 
+ 236.json    53.3 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-22    1749707962.6072254 
+ 254.json    39.1 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-23    1749707963.571102  
+ 33.json     31.6 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-24    1749707964.5314288 
+  4.json     48.6 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-25    1749707965.477473  
+ 429.json    24.4 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-26    1749707966.2945042 
+ 555.json    54.6 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-27    1749707967.2453935 
+ 58.json     46.6 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-28    1749707968.3866405 
+ 64.json     60.1 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-29    1749707969.3417356 
+ 67.json     57.6 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-30     1749707970.37227  
+  7.json     50.6 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-31    1749707971.3373365 
+ 81.json     60.1 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-32    1749707972.2939386 
+ 86.json     41.3 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-33    1749707973.189254  
+ 887.json    30.6 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-34    1749707974.1152415 
+ 895.json    25.1 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-35    1749707975.0728288 
+[2025-06-13 14-28-58][7/18][1/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/103.json
+[2025-06-13 14-28-59][7/18][2/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/13.json
+[2025-06-13 14-29-00][7/18][3/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/145.json
+[2025-06-13 14-29-01][7/18][4/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/147.json
+[2025-06-13 14-29-01][7/18][5/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/200.json
+[2025-06-13 14-29-02][7/18][6/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/22.json
+[2025-06-13 14-29-03][7/18][7/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/236.json
+[2025-06-13 14-29-04][7/18][8/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/254.json
+[2025-06-13 14-29-05][7/18][9/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/33.json
+[2025-06-13 14-29-07][7/18][10/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/4.json
+[2025-06-13 14-29-08][7/18][11/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/429.json
+[2025-06-13 14-29-10][7/18][12/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/555.json
+[2025-06-13 14-29-11][7/18][13/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/58.json
+[2025-06-13 14-29-12][7/18][14/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/64.json
+[2025-06-13 14-29-13][7/18][15/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/67.json
+[2025-06-13 14-29-14][7/18][16/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/7.json
+[2025-06-13 14-29-15][7/18][17/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/81.json
+[2025-06-13 14-29-16][7/18][18/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/86.json
+[2025-06-13 14-29-16][7/18][19/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/887.json
+[2025-06-13 14-29-17][7/18][20/20]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/895.json
+[2025-06-13 14-29-18][8/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/map-assets/
+[2025-06-13 14-29-19]页面新文件列表如下：
+New file list is as follows: 
+      file            size           web_date         web_timestamp        local_date          local_timestamp  
+ map-assets.json    146.8 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-37    1749707977.550078 
+[2025-06-13 14-29-19][8/18][1/1]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/map-assets/map-assets.json
+[2025-06-13 14-29-20][9/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/
+[2025-06-13 14-29-21]页面新文件列表如下：
+New file list is as follows: 
+              file                   size           web_date         web_timestamp        local_date          local_timestamp   
+     achievementtitles.json        100.1 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-40    1749707980.0402718 
+        challenges.json            617.4 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-41    1749707981.6832304 
+        companions.json            936.5 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-43    1749707983.3260903 
+         event-hub.json            110.6 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-44    1749707984.488262  
+      generic-assets.json          210.6 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-45    1749707985.8279915 
+           items.json              481.3 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-47    1749707987.428849  
+        lolcurrency.json            1.2 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-48    1749707988.4726005 
+           loot.json                3.0 MiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-51    1749707991.053071  
+      mission-assets.json          36.6 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-52    1749707992.012476  
+        objectives.json            71.6 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-52    1749707992.9571867 
+           perks.json              98.8 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-54    1749707994.2823167 
+       profile-icons.json          332.4 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-55    1749707995.6340687 
+          queues.json              79.9 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 13-59-56    1749707996.8154943 
+          regalia.json             25.5 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 14-00-15    1749708015.7174127 
+        skinborders.json           11.1 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 14-00-16    1749708016.571114  
+           skins.json               5.0 MiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 14-00-19    1749708019.3795989 
+        stylesheet.json            22.0 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 14-00-20    1749708020.2845857 
+      summoner-emotes.json         474.3 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 14-00-21    1749708021.7311637 
+      summoner-icons.json           1.7 MiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 14-00-23    1749708023.5887856 
+  tftcapmissioncollection.json      3.6 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 14-00-24    1749708024.545707  
+       tftchampions.json           115.1 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 14-00-25    1749708025.707591  
+   tftchemtechstoredata.json        4.2 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 14-00-26    1749708026.7459004 
+      tftcontentdata.json          681.1 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 14-00-28    1749708028.3226287 
+      tftdamageskins.json          87.8 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 14-00-29    1749708029.4440594 
+      tftdisplaytags.json           4.8 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 14-00-30    1749708030.5157726 
+     tfteventpvebuddy.json           90 B       2025-Jun-11 06:08    1749593280.0     1970-01-01 08-00-00           0.0         
+      tfteventpvehub.json            88 B       2025-Jun-11 06:08    1749593280.0     1970-01-01 08-00-00           0.0         
+         tftitems.json             610.2 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 14-00-34    1749708034.0227776 
+        tftmapskins.json           37.6 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 14-00-35    1749708035.5909078 
+     tftregionportals.json         17.6 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 14-00-36    1749708036.5014474 
+ tftrotationalshopitemdata.json     1.7 MiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 14-00-38    1749708038.2129378 
+          tftsets.json              5.1 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 14-00-39    1749708039.3327625 
+         tfttraits.json            332.7 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 14-00-40    1749708040.8204625 
+  tfttrovesbannerrewards.json      810.7 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 14-00-42    1749708042.3788426 
+     tfttrovesbanners.json         161.1 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 14-00-43    1749708043.503486  
+   tfttrovestablesnames.json       377.6 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 14-00-44    1749708044.9968457 
+       tftzoomskins.json            6.7 KiB     2025-Jun-13 02:37    1749753420.0     2025-06-12 14-00-46    1749708046.0843961 
+        ward-skins.json            119.8 KiB    2025-Jun-13 02:37    1749753420.0     2025-06-12 14-00-47    1749708047.1569402 
+[2025-06-13 14-29-22][9/18][1/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/achievementtitles.json
+[2025-06-13 14-29-23][9/18][2/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/challenges.json
+[2025-06-13 14-29-24][9/18][3/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/companions.json
+[2025-06-13 14-29-25][9/18][4/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/event-hub.json
+[2025-06-13 14-29-27][9/18][5/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/generic-assets.json
+[2025-06-13 14-29-28][9/18][6/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/items.json
+[2025-06-13 14-29-30][9/18][7/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/lolcurrency.json
+[2025-06-13 14-29-31][9/18][8/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/loot.json
+[2025-06-13 14-29-34][9/18][9/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/mission-assets.json
+[2025-06-13 14-29-35][9/18][10/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/objectives.json
+[2025-06-13 14-29-36][9/18][11/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/perks.json
+[2025-06-13 14-29-37][9/18][12/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/profile-icons.json
+[2025-06-13 14-29-39][9/18][13/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/queues.json
+[2025-06-13 14-29-40][9/18][14/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/regalia.json
+[2025-06-13 14-29-41][9/18][15/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/skinborders.json
+[2025-06-13 14-29-42][9/18][16/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/skins.json
+[2025-06-13 14-29-44][9/18][17/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/stylesheet.json
+[2025-06-13 14-29-45][9/18][18/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/summoner-emotes.json
+[2025-06-13 14-29-48][9/18][19/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/summoner-icons.json
+[2025-06-13 14-29-50][9/18][20/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftcapmissioncollection.json
+[2025-06-13 14-29-51][9/18][21/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftchampions.json
+[2025-06-13 14-29-52][9/18][22/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftchemtechstoredata.json
+[2025-06-13 14-29-53][9/18][23/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftcontentdata.json
+[2025-06-13 14-29-55][9/18][24/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftdamageskins.json
+[2025-06-13 14-29-56][9/18][25/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftdisplaytags.json
+[2025-06-13 14-29-57][9/18][26/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfteventpvebuddy.json
+文件https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfteventpvebuddy.json不存在！
+File https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfteventpvebuddy.json not found!
+[2025-06-13 14-29-58][9/18][27/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfteventpvehub.json
+文件https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfteventpvehub.json不存在！
+File https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfteventpvehub.json not found!
+[2025-06-13 14-29-58][9/18][28/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftitems.json
+[2025-06-13 14-30-00][9/18][29/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftmapskins.json
+[2025-06-13 14-30-01][9/18][30/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftregionportals.json
+[2025-06-13 14-30-02][9/18][31/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftrotationalshopitemdata.json
+[2025-06-13 14-30-05][9/18][32/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftsets.json
+[2025-06-13 14-30-06][9/18][33/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttraits.json
+[2025-06-13 14-30-08][9/18][34/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovesbannerrewards.json
+[2025-06-13 14-30-10][9/18][35/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovesbanners.json
+[2025-06-13 14-30-11][9/18][36/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovestablesnames.json
+[2025-06-13 14-30-13][9/18][37/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftzoomskins.json
+[2025-06-13 14-30-14][9/18][38/38]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/ward-skins.json
+[2025-06-13 14-30-15][10/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/
+[2025-06-13 14-30-16]页面新文件列表如下：
+New file list is as follows: 
+             file                size        web_date         web_timestamp        local_date          local_timestamp   
+ compat-version-metadata.json    59 B    2025-Jun-12 21:52    1749736320.0     2025-06-12 14-00-49    1749708049.2559133 
+    content-metadata.json        61 B    2025-Jun-12 21:52    1749736320.0     2025-06-12 14-00-50    1749708050.9972663 
+[2025-06-13 14-30-16][10/18][1/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/compat-version-metadata.json
+[2025-06-13 14-30-17]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/compat-version-metadata.json
+[2025-06-13 14-30-17][10/18][2/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/content-metadata.json
+[2025-06-13 14-30-18]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/content-metadata.json
+[2025-06-13 14-30-18][11/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/cdragon/arena/
+[2025-06-13 14-30-20]页面新文件列表如下：
+New file list is as follows: 
+    file         size           web_date         web_timestamp        local_date          local_timestamp   
+ en_us.json    221.7 KiB    2025-Jun-12 21:54    1749736440.0     2025-06-12 14-00-52    1749708052.9853914 
+ zh_cn.json    224.9 KiB    2025-Jun-12 21:54    1749736440.0     2025-06-12 14-00-54    1749708054.4272563 
+[2025-06-13 14-30-20][11/18][1/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/cdragon/arena/en_us.json
+[2025-06-13 14-30-21][11/18][2/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/cdragon/arena/zh_cn.json
+[2025-06-13 14-30-23][12/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/cdragon/tft/
+[2025-06-13 14-30-24]页面新文件列表如下：
+New file list is as follows: 
+    file         size          web_date         web_timestamp        local_date          local_timestamp   
+ en_us.json    18.2 MiB    2025-Jun-12 21:54    1749736440.0     2025-06-12 14-00-58    1749708058.7688107 
+ zh_cn.json    18.2 MiB    2025-Jun-12 21:54    1749736440.0     2025-06-12 14-01-02    1749708062.1361065 
+[2025-06-13 14-30-24][12/18][1/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/cdragon/tft/en_us.json
+[2025-06-13 14-30-30]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/cdragon/tft/en_us.json
+[2025-06-13 14-30-30][12/18][2/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/cdragon/tft/zh_cn.json
+[2025-06-13 14-30-37]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/cdragon/tft/zh_cn.json
+[2025-06-13 14-30-37][13/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/
+[2025-06-13 14-30-41]页面新文件列表如下：
+New file list is as follows: 
+  file        size          web_date         web_timestamp        local_date          local_timestamp  
+ 28.json    48.4 KiB    2025-Jun-12 21:53    1749736380.0     2025-06-11 07-22-26    1749597746.436418 
+ 40.json    48.8 KiB    2025-Jun-12 21:53    1749736380.0     2025-06-11 07-22-47    1749597767.723825 
+[2025-06-13 14-30-41][13/18][1/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/28.json
+[2025-06-13 14-30-43]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/28.json
+[2025-06-13 14-30-43][13/18][2/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/40.json
+[2025-06-13 14-30-49]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/40.json
+[2025-06-13 14-30-49][14/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/map-assets/
+[2025-06-13 14-30-50]页面新文件列表如下：
+New file list is as follows: 
+Empty DataFrame
+Columns: [file, size, web_date, web_timestamp, local_date, local_timestamp]
+Index: []
+[2025-06-13 14-30-51][15/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/
+[2025-06-13 14-30-52]页面新文件列表如下：
+New file list is as follows: 
+                file                     size           web_date         web_timestamp        local_date          local_timestamp   
+ champion-rune-recommendations.json    324.4 KiB    2025-Jun-12 21:53    1749736380.0     2025-06-12 14-01-17    1749708077.7451973 
+            rewards.json               839.2 KiB    2025-Jun-12 21:53    1749736380.0     2025-06-07 11-47-16    1749268036.4972222 
+             skins.json                 4.8 MiB     2025-Jun-12 21:53    1749736380.0     2025-06-12 14-01-28    1749708088.5183194 
+           tftitems.json               610.4 KiB    2025-Jun-12 21:53    1749736380.0     2025-06-02 12-45-45    1748839545.185994  
+   tftrotationalshopitemdata.json       1.8 MiB     2025-Jun-12 21:53    1749736380.0     2025-06-12 14-01-35    1749708095.5035713 
+[2025-06-13 14-30-53][15/18][1/5]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-rune-recommendations.json
+[2025-06-13 14-30-55]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-rune-recommendations.json
+[2025-06-13 14-30-55][15/18][2/5]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rewards.json
+[2025-06-13 14-31-00]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rewards.json
+[2025-06-13 14-31-00][15/18][3/5]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/skins.json
+[2025-06-13 14-31-12]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/skins.json
+[2025-06-13 14-31-12][15/18][4/5]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tftitems.json
+[2025-06-13 14-31-17]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tftitems.json
+[2025-06-13 14-31-17][15/18][5/5]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tftrotationalshopitemdata.json
+[2025-06-13 14-31-20]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tftrotationalshopitemdata.json
+[2025-06-13 14-31-20][16/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/
+[2025-06-13 14-31-25]页面新文件列表如下：
+New file list is as follows: 
+  file        size          web_date         web_timestamp        local_date          local_timestamp   
+ 28.json    50.3 KiB    2025-Jun-12 21:53    1749736380.0     2025-06-12 14-01-50    1749708110.2620676 
+ 40.json    51.1 KiB    2025-Jun-12 21:53    1749736380.0     2025-06-11 07-28-20    1749598100.7076273 
+[2025-06-13 14-31-26][16/18][1/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/28.json
+[2025-06-13 14-31-29]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/28.json
+[2025-06-13 14-31-29][16/18][2/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/40.json
+[2025-06-13 14-31-30]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/40.json
+[2025-06-13 14-31-30][17/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/map-assets/
+[2025-06-13 14-31-31]页面新文件列表如下：
+New file list is as follows: 
+Empty DataFrame
+Columns: [file, size, web_date, web_timestamp, local_date, local_timestamp]
+Index: []
+[2025-06-13 14-31-31][18/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/
+[2025-06-13 14-31-34]页面新文件列表如下：
+New file list is as follows: 
+              file                   size           web_date         web_timestamp        local_date          local_timestamp   
+           skins.json               5.0 MiB     2025-Jun-12 21:53    1749736380.0     2025-06-12 14-02-16    1749708136.9948187 
+         tftitems.json             612.0 KiB    2025-Jun-12 21:53    1749736380.0     2025-06-02 12-46-50    1748839610.1824503 
+ tftrotationalshopitemdata.json     1.9 MiB     2025-Jun-12 21:53    1749736380.0     2025-06-12 14-02-25    1749708145.1957018 
+[2025-06-13 14-31-34][18/18][1/3]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/skins.json
+[2025-06-13 14-31-41]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/skins.json
+[2025-06-13 14-31-41][18/18][2/3]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftitems.json
+[2025-06-13 14-31-48]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftitems.json
+[2025-06-13 14-31-48][18/18][3/3]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftrotationalshopitemdata.json
+[2025-06-13 14-31-51]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftrotationalshopitemdata.json
+已更新以下16个文件：
+Updated the following 16 file(s):
+https://raw.communitydragon.org/pbe/compat-version-metadata.json
+https://raw.communitydragon.org/pbe/content-metadata.json
+https://raw.communitydragon.org/pbe/cdragon/tft/en_us.json
+https://raw.communitydragon.org/pbe/cdragon/tft/zh_cn.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/28.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/40.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-rune-recommendations.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rewards.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/skins.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tftitems.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tftrotationalshopitemdata.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/28.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/40.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/skins.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftitems.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftrotationalshopitemdata.json
+
+请选择要更新的数据资源，输入空字符串以退出程序：
+Please select the data resource to update, or submit an empty string to exit the program:
+1	CommunityDragon
+2	DataDragon
+
+[The program has exited!]
