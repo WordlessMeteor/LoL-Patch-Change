@@ -21,8 +21,8 @@ This repository stores **Chinese and English** key data resources in json format
 19. https://ddragon.leagueoflegends.com/cdn/[version]/[version]/data/en_US (Not accessible)
 20. https://ddragon.leagueoflegends.com/cdn/[version]/[version]/data/zh_CN (Not accessible)
 
-如果要查看完整的版本变更，请将[英雄联盟自定义脚本仓库](https://github.com/WordlessMeteor/LoL-DIY-Programs)克隆到本地，并查看标题为“离线数据资源更新”的提交。该存储库需要占用大约34 GB的本地空间。对于包含较多数据资源的更新的提交，本地加载仍然需要几分钟时间，请耐心等待。\
-For complete patch change, please clone [LoL-DIY-Programs repository](https://github.com/WordlessMeteor/LoL-DIY-Programs) to local and check the commit with header "Offline Data Resource Update". This repository takes up nearly 20 GiB disk space. For those commits that involve many data resources, it takes several minutes to load the diff locally, so you'd better wait.\
+如果要查看完整的版本变更，请将[英雄联盟自定义脚本仓库](https://github.com/WordlessMeteor/LoL-DIY-Programs)克隆到本地，并查看标题为“离线数据资源更新”的提交。该存储库需要占用大约37 GB的本地空间。对于包含较多数据资源的更新的提交，本地加载仍然需要几分钟时间，请耐心等待。\
+For complete patch change, please clone [LoL-DIY-Programs repository](https://github.com/WordlessMeteor/LoL-DIY-Programs) to local and check the commit with header "Offline Data Resource Update". This repository takes up nearly 37 GiB disk space. For those commits that involve many data resources, it takes several minutes to load the diff locally, so you'd better wait.\
 本存储库仅供查看更新内容，不提供任何发行版。所有有效的日志文件都会保留。\
 This repository is only for diff checking use. No release will be provided. All valid logs are reserved.
 
@@ -37,6 +37,28 @@ This repository is only for diff checking use. No release will be provided. All 
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td style="text-align:center;">2025-06-26 06-21-57</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>
+				CDragon: <br>
+					<ul style="list-style-type: disc; margin-left: 20px;">
+						<li>Latest: 15.12.688.6522 -> 15.13.692.4165</li>
+						<li>PBE: 15.14.692.3467 -> 15.14.692.6968</li>
+					</ul>
+				DDragon: 15.12.1 -> 15.13.1
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2025-06-25 08-42-52</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>
+				CDragon: <br>
+					<ul style="list-style-type: disc; margin-left: 20px;">
+						<li>PBE: 15.13.691.5933 -> 15.14.692.3467</li>
+					</ul>
+			</td>
+		</tr>
 		<tr>
 			<td style="text-align:center;">2025-06-24 12-20-33</td>
 			<td style="text-align:center;">1/2/1</td>
