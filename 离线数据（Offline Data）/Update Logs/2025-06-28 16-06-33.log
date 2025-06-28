@@ -1,0 +1,1205 @@
+请选择要更新的数据资源，输入空字符串以退出程序：
+Please select the data resource to update, or submit an empty string to exit the program:
+1	CommunityDragon
+2	DataDragon
+[2025-06-28 16-06-34]1
+请选择要更新的数据资源：
+Please select the data resources to update:
+☆1	主要文件（默认）【Major files (by default)】
+2	自行指定（Specify manually）
+[2025-06-28 16-06-34]
+请选择更新模式：
+Please select the update mode:
+1	全局扫描（Global Scan）
+☆2	按修改时间更新（默认）【Updating According to Modification Time (by default)】
+[2025-06-28 16-06-34]
+请选择一种方式指定修改时间：
+Please select a method of specifying the modification time:
+☆1	自动获取（默认）【Automatically get (by default)】
+2	手动输入（Manually input）
+[2025-06-28 16-06-34]
+[2025-06-28 16-06-34][1/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/
+[2025-06-28 16-06-35]页面新文件列表如下：
+New file list is as follows: 
+             file                size        web_date         web_timestamp        local_date          local_timestamp   
+ compat-version-metadata.json    72 B    2025-Jun-27 23:31    1751038260.0     2025-06-27 14-35-56    1751006156.6256924 
+    content-metadata.json        74 B    2025-Jun-27 23:31    1751038260.0     2025-06-27 14-35-57    1751006157.4727657 
+[2025-06-28 16-06-35][1/18][1/2]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/compat-version-metadata.json
+[2025-06-28 16-06-36]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/compat-version-metadata.json
+[2025-06-28 16-06-36][1/18][2/2]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/content-metadata.json
+[2025-06-28 16-06-36]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/latest/content-metadata.json
+[2025-06-28 16-06-36][2/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/cdragon/arena/
+[2025-06-28 16-06-37]页面新文件列表如下：
+New file list is as follows: 
+    file         size           web_date         web_timestamp        local_date          local_timestamp   
+ en_us.json    221.7 KiB    2025-Jun-27 23:42    1751038920.0     2025-06-27 14-35-59    1751006159.3513455 
+ zh_cn.json    224.9 KiB    2025-Jun-27 23:42    1751038920.0     2025-06-27 14-36-00    1751006160.8425105 
+[2025-06-28 16-06-37][2/18][1/2]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/cdragon/arena/en_us.json
+[2025-06-28 16-06-37][2/18][2/2]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/cdragon/arena/zh_cn.json
+[2025-06-28 16-06-38][3/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/cdragon/tft/
+[2025-06-28 16-06-38]页面新文件列表如下：
+New file list is as follows: 
+    file         size          web_date         web_timestamp        local_date          local_timestamp   
+ en_us.json    18.2 MiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-04    1751006164.653082  
+ zh_cn.json    18.2 MiB    2025-Jun-27 23:42    1751038920.0     2025-06-27 14-36-07    1751006167.0916786 
+[2025-06-28 16-06-38][3/18][1/2]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/cdragon/tft/en_us.json
+[2025-06-28 16-06-39][3/18][2/2]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/cdragon/tft/zh_cn.json
+[2025-06-28 16-06-43][4/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/
+[2025-06-28 16-06-44]页面新文件列表如下：
+New file list is as follows: 
+   file        size          web_date         web_timestamp        local_date          local_timestamp   
+ -1.json      770 B      2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-09    1751006169.900303  
+  1.json     44.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-11    1751006171.1947138 
+ 10.json     56.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-12    1751006172.537548  
+ 101.json    28.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-13    1751006173.617266  
+ 102.json    27.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-14    1751006174.9506624 
+ 103.json    64.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-16    1751006176.3268821 
+ 104.json    41.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-17    1751006177.6630535 
+ 105.json    35.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-18    1751006178.9738278 
+ 106.json    28.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-20    1751006180.227468  
+ 107.json    36.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-21    1751006181.617798  
+ 11.json     83.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-22    1751006182.9428053 
+ 110.json    49.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-23    1751006183.9977562 
+ 111.json    31.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-25    1751006185.270887  
+ 112.json    26.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-26    1751006186.7822416 
+ 113.json    39.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-28    1751006188.018404  
+ 114.json    58.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-29    1751006189.340169  
+ 115.json    33.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-30    1751006190.410645  
+ 117.json    40.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-31    1751006191.7144136 
+ 119.json    47.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-33    1751006193.0149207 
+ 12.json     33.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-34    1751006194.351482  
+ 120.json    34.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-35    1751006195.6393428 
+ 121.json    45.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-36    1751006196.9546158 
+ 122.json    48.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-38     1751006198.08815  
+ 126.json    34.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-39    1751006199.3667598 
+ 127.json    33.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-40    1751006200.418711  
+ 13.json     34.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-41     1751006201.79944  
+ 131.json    52.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-43    1751006203.0753067 
+ 133.json    23.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-44    1751006204.5897007 
+ 134.json    50.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-45    1751006205.6573927 
+ 136.json    31.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-46    1751006206.6655984 
+ 14.json     37.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-48    1751006208.038359  
+ 141.json    29.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-49    1751006209.4143753 
+ 142.json    33.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-50     1751006210.55251  
+ 143.json    49.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-52    1751006212.100257  
+ 145.json    57.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-53    1751006213.1400537 
+ 147.json    44.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-54    1751006214.4008453 
+ 15.json     51.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-55    1751006215.9208639 
+ 150.json    32.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-57    1751006217.2745647 
+ 154.json    26.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-58    1751006218.5794063 
+ 157.json    59.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-36-59    1751006219.9228065 
+ 16.json     42.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-01    1751006221.5636497 
+ 161.json    25.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-02    1751006222.9333284 
+ 163.json    22.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-04    1751006224.102281  
+ 164.json    33.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-05    1751006225.2318842 
+ 166.json    20.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-06    1751006226.5217345 
+ 17.json     41.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-07    1751006227.8201766 
+ 18.json     49.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-08    1751006228.849826  
+ 19.json     42.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-10    1751006230.0367632 
+  2.json     37.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-11    1751006231.3250206 
+ 20.json     40.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-12    1751006232.3709877 
+ 200.json    24.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-13    1751006233.6951294 
+ 201.json    36.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-15    1751006235.0642753 
+ 202.json    40.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-16    1751006236.385095  
+ 203.json    34.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-17    1751006237.471984  
+ 21.json     56.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-19    1751006239.0563753 
+ 22.json     57.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-20    1751006240.3831785 
+ 221.json    30.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-21    1751006241.6446235 
+ 222.json    48.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-22    1751006242.9341395 
+ 223.json    31.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-24     1751006244.27335  
+ 23.json     36.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-25    1751006245.7080898 
+ 233.json    21.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-26    1751006246.964634  
+ 234.json    32.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-28    1751006248.296018  
+ 235.json    46.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-29    1751006249.6167958 
+ 236.json    49.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-30    1751006250.9681773 
+ 238.json    51.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-32    1751006252.2207158 
+ 24.json     37.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-33    1751006253.3102927 
+ 240.json    24.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-34    1751006254.5554173 
+ 245.json    42.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-35    1751006255.617519  
+ 246.json    38.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-36    1751006256.920344  
+ 25.json     56.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-38    1751006258.0381396 
+ 254.json    37.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-39    1751006259.3319905 
+ 26.json     24.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-40    1751006260.6271553 
+ 266.json    35.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-41    1751006261.8752918 
+ 267.json    45.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-43     1751006263.11788  
+ 268.json    26.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-44    1751006264.4041116 
+ 27.json     28.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-45    1751006265.6745722 
+ 28.json     48.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-47    1751006267.0174406 
+ 29.json     43.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-48    1751006268.3285236 
+  3.json     32.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-49    1751006269.5820353 
+ 30.json     28.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-50    1751006270.6438003 
+ 31.json     32.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-51    1751006271.9030766 
+ 32.json     43.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-53    1751006273.1428819 
+ 33.json     30.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-54    1751006274.240539  
+ 34.json     42.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-55    1751006275.6402583 
+ 35.json     49.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-56    1751006276.9668577 
+ 350.json    42.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-58    1751006278.244463  
+ 36.json     30.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-37-59    1751006279.298917  
+ 360.json    28.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-00    1751006280.5390306 
+ 37.json     72.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-01    1751006281.817064  
+ 38.json     29.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-03    1751006283.124631  
+ 39.json     46.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-04    1751006284.987368  
+  4.json     45.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-06    1751006286.0283642 
+ 40.json     48.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-07    1751006287.2659197 
+ 41.json     34.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-08    1751006288.558104  
+ 412.json    50.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-09    1751006289.904226  
+ 42.json     30.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-10    1751006290.9129834 
+ 420.json    28.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-11    1751006291.9365103 
+ 421.json    27.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-13    1751006293.0196772 
+ 427.json    26.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-14    1751006294.064542  
+ 429.json    23.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-15    1751006295.3437178 
+ 43.json     52.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-16    1751006296.6470447 
+ 432.json    34.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-17    1751006297.6754248 
+ 44.json     28.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-19    1751006299.012282  
+ 45.json     46.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-20    1751006300.5161002 
+ 48.json     26.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-22    1751006302.1906552 
+ 497.json    40.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-23    1751006303.5032017 
+ 498.json    45.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-24    1751006304.5697124 
+  5.json     35.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-25    1751006305.884805  
+ 50.json     34.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-27    1751006307.4491446 
+ 51.json     46.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-28    1751006308.5662966 
+ 516.json    25.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-29    1751006309.8795545 
+ 517.json    38.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-30    1751006310.9099493 
+ 518.json    35.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-31    1751006311.9700215 
+ 523.json    29.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-33    1751006313.2910326 
+ 526.json    26.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-34    1751006314.575166  
+ 53.json     47.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-35    1751006315.598616  
+ 54.json     42.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-36    1751006316.6469684 
+ 55.json     51.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-37    1751006317.9152067 
+ 555.json    52.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-39    1751006319.011275  
+ 56.json     31.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-40     1751006320.20385  
+ 57.json     29.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-41    1751006321.2074606 
+ 58.json     44.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-42    1751006322.4931977 
+ 59.json     41.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-43    1751006323.5115738 
+  6.json     30.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-44    1751006324.8352475 
+ 60.json     30.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-45    1751006325.9526103 
+ 61.json     33.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-47    1751006327.2742302 
+ 62.json     26.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-48    1751006328.8601649 
+ 63.json     39.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-49    1751006329.878698  
+ 64.json     57.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-51    1751006331.188295  
+ 67.json     54.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-52    1751006332.5206246 
+ 68.json     27.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-53    1751006333.937681  
+ 69.json     32.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-55    1751006335.456661  
+  7.json     48.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-57    1751006337.0958624 
+ 711.json    23.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-58    1751006338.1606407 
+ 72.json     19.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-38-59    1751006339.7467194 
+ 74.json     28.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-01    1751006341.0617163 
+ 75.json     43.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-02    1751006342.4977407 
+ 76.json     48.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-03    1751006343.5223176 
+ 77.json     20.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-04    1751006344.8633988 
+ 777.json    47.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-06    1751006346.110686  
+ 78.json     34.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-07    1751006347.4319253 
+ 79.json     37.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-08    1751006348.7596135 
+ 799.json    14.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-10    1751006350.1198213 
+  8.json     39.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-11    1751006351.4522352 
+ 80.json     39.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-12    1751006352.6444685 
+ 800.json    15.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-14    1751006354.0449193 
+ 81.json     57.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-15    1751006355.4193895 
+ 82.json     44.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-16    1751006356.5397346 
+ 83.json     40.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-18    1751006358.0006893 
+ 84.json     65.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-19    1751006359.3876042 
+ 85.json     29.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-20    1751006360.7536283 
+ 86.json     39.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-22    1751006362.149611  
+ 875.json    47.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-23    1751006363.2570338 
+ 876.json    27.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-24    1751006364.5605571 
+ 887.json    29.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-25    1751006365.901816  
+ 888.json    27.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-27    1751006367.2273707 
+ 89.json     48.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-28    1751006368.5178974 
+ 893.json    15.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-29    1751006369.8155823 
+ 895.json    24.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-31    1751006371.1757443 
+ 897.json    21.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-32    1751006372.156492  
+  9.json     36.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-33    1751006373.7352188 
+ 90.json     41.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-34    1751006374.829514  
+ 901.json    15.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-35    1751006375.9689415 
+ 902.json    19.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-37    1751006377.501138  
+ 91.json     42.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-38    1751006378.916222  
+ 910.json    43.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-40    1751006380.2550676 
+ 92.json     51.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-41    1751006381.573952  
+ 950.json    24.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-42    1751006382.607004  
+ 96.json     69.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-43    1751006383.806662  
+ 98.json     38.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-45    1751006385.1118824 
+ 99.json     54.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-46    1751006386.3362105 
+[2025-06-28 16-06-44][4/18][1/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/-1.json
+[2025-06-28 16-06-44][4/18][2/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/1.json
+[2025-06-28 16-06-45][4/18][3/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/10.json
+[2025-06-28 16-06-46][4/18][4/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/101.json
+[2025-06-28 16-06-47][4/18][5/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/102.json
+[2025-06-28 16-06-48][4/18][6/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/103.json
+[2025-06-28 16-06-49][4/18][7/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/104.json
+[2025-06-28 16-06-49][4/18][8/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/105.json
+[2025-06-28 16-06-51][4/18][9/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/106.json
+[2025-06-28 16-06-52][4/18][10/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/107.json
+[2025-06-28 16-06-52][4/18][11/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/11.json
+[2025-06-28 16-06-53][4/18][12/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/110.json
+[2025-06-28 16-06-54][4/18][13/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/111.json
+[2025-06-28 16-06-55][4/18][14/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/112.json
+[2025-06-28 16-06-56][4/18][15/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/113.json
+[2025-06-28 16-06-57][4/18][16/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/114.json
+[2025-06-28 16-06-57][4/18][17/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/115.json
+[2025-06-28 16-06-58][4/18][18/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/117.json
+[2025-06-28 16-06-59][4/18][19/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/119.json
+[2025-06-28 16-07-00][4/18][20/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/12.json
+[2025-06-28 16-07-01][4/18][21/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/120.json
+[2025-06-28 16-07-02][4/18][22/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/121.json
+[2025-06-28 16-07-02][4/18][23/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/122.json
+[2025-06-28 16-07-04][4/18][24/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/126.json
+[2025-06-28 16-07-05][4/18][25/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/127.json
+[2025-06-28 16-07-06][4/18][26/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/13.json
+[2025-06-28 16-07-07][4/18][27/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/131.json
+[2025-06-28 16-07-07][4/18][28/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/133.json
+[2025-06-28 16-07-08][4/18][29/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/134.json
+[2025-06-28 16-07-09][4/18][30/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/136.json
+[2025-06-28 16-07-10][4/18][31/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/14.json
+[2025-06-28 16-07-11][4/18][32/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/141.json
+[2025-06-28 16-07-12][4/18][33/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/142.json
+[2025-06-28 16-07-13][4/18][34/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/143.json
+[2025-06-28 16-07-14][4/18][35/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/145.json
+[2025-06-28 16-07-14][4/18][36/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/147.json
+[2025-06-28 16-07-15][4/18][37/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/15.json
+[2025-06-28 16-07-16][4/18][38/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/150.json
+[2025-06-28 16-07-17][4/18][39/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/154.json
+[2025-06-28 16-07-18][4/18][40/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/157.json
+[2025-06-28 16-07-18][4/18][41/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/16.json
+[2025-06-28 16-07-20][4/18][42/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/161.json
+[2025-06-28 16-07-21][4/18][43/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/163.json
+[2025-06-28 16-07-21][4/18][44/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/164.json
+[2025-06-28 16-07-22][4/18][45/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/166.json
+[2025-06-28 16-07-23][4/18][46/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/17.json
+[2025-06-28 16-07-24][4/18][47/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/18.json
+[2025-06-28 16-07-25][4/18][48/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/19.json
+[2025-06-28 16-07-26][4/18][49/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/2.json
+[2025-06-28 16-07-26][4/18][50/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/20.json
+[2025-06-28 16-07-27][4/18][51/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/200.json
+[2025-06-28 16-07-28][4/18][52/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/201.json
+[2025-06-28 16-07-29][4/18][53/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/202.json
+[2025-06-28 16-07-30][4/18][54/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/203.json
+[2025-06-28 16-07-30][4/18][55/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/21.json
+[2025-06-28 16-07-31][4/18][56/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/22.json
+[2025-06-28 16-07-32][4/18][57/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/221.json
+[2025-06-28 16-07-33][4/18][58/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/222.json
+[2025-06-28 16-07-34][4/18][59/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/223.json
+[2025-06-28 16-07-34][4/18][60/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/23.json
+[2025-06-28 16-07-35][4/18][61/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/233.json
+[2025-06-28 16-07-36][4/18][62/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/234.json
+[2025-06-28 16-07-37][4/18][63/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/235.json
+[2025-06-28 16-07-38][4/18][64/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/236.json
+[2025-06-28 16-07-39][4/18][65/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/238.json
+[2025-06-28 16-07-40][4/18][66/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/24.json
+[2025-06-28 16-07-40][4/18][67/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/240.json
+[2025-06-28 16-07-41][4/18][68/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/245.json
+[2025-06-28 16-07-42][4/18][69/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/246.json
+[2025-06-28 16-07-43][4/18][70/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/25.json
+[2025-06-28 16-07-44][4/18][71/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/254.json
+[2025-06-28 16-07-45][4/18][72/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/26.json
+[2025-06-28 16-07-45][4/18][73/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/266.json
+[2025-06-28 16-07-46][4/18][74/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/267.json
+[2025-06-28 16-07-47][4/18][75/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/268.json
+[2025-06-28 16-07-48][4/18][76/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/27.json
+[2025-06-28 16-07-49][4/18][77/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/28.json
+[2025-06-28 16-07-50][4/18][78/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/29.json
+[2025-06-28 16-07-51][4/18][79/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/3.json
+[2025-06-28 16-07-52][4/18][80/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/30.json
+[2025-06-28 16-07-53][4/18][81/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/31.json
+[2025-06-28 16-07-54][4/18][82/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/32.json
+[2025-06-28 16-07-55][4/18][83/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/33.json
+[2025-06-28 16-07-55][4/18][84/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/34.json
+[2025-06-28 16-07-56][4/18][85/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/35.json
+[2025-06-28 16-07-57][4/18][86/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/350.json
+[2025-06-28 16-07-58][4/18][87/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/36.json
+[2025-06-28 16-07-59][4/18][88/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/360.json
+[2025-06-28 16-08-00][4/18][89/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/37.json
+[2025-06-28 16-08-01][4/18][90/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/38.json
+[2025-06-28 16-08-02][4/18][91/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/39.json
+[2025-06-28 16-08-03][4/18][92/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/4.json
+[2025-06-28 16-08-03][4/18][93/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/40.json
+[2025-06-28 16-08-04][4/18][94/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/41.json
+[2025-06-28 16-08-05][4/18][95/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/412.json
+[2025-06-28 16-08-07][4/18][96/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/42.json
+[2025-06-28 16-08-07][4/18][97/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/420.json
+[2025-06-28 16-08-08][4/18][98/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/421.json
+[2025-06-28 16-08-09][4/18][99/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/427.json
+[2025-06-28 16-08-10][4/18][100/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/429.json
+[2025-06-28 16-08-11][4/18][101/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/43.json
+[2025-06-28 16-08-12][4/18][102/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/432.json
+[2025-06-28 16-08-13][4/18][103/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/44.json
+[2025-06-28 16-08-13][4/18][104/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/45.json
+[2025-06-28 16-08-14][4/18][105/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/48.json
+[2025-06-28 16-08-15][4/18][106/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/497.json
+[2025-06-28 16-08-17][4/18][107/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/498.json
+[2025-06-28 16-08-18][4/18][108/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/5.json
+[2025-06-28 16-08-19][4/18][109/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/50.json
+[2025-06-28 16-08-20][4/18][110/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/51.json
+[2025-06-28 16-08-21][4/18][111/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/516.json
+[2025-06-28 16-08-21][4/18][112/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/517.json
+[2025-06-28 16-08-22][4/18][113/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/518.json
+[2025-06-28 16-08-23][4/18][114/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/523.json
+[2025-06-28 16-08-24][4/18][115/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/526.json
+[2025-06-28 16-08-25][4/18][116/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/53.json
+[2025-06-28 16-08-26][4/18][117/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/54.json
+[2025-06-28 16-08-28][4/18][118/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/55.json
+[2025-06-28 16-08-29][4/18][119/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/555.json
+[2025-06-28 16-08-29][4/18][120/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/56.json
+[2025-06-28 16-08-30][4/18][121/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/57.json
+[2025-06-28 16-08-31][4/18][122/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/58.json
+[2025-06-28 16-08-32][4/18][123/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/59.json
+[2025-06-28 16-08-32][4/18][124/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/6.json
+[2025-06-28 16-08-33][4/18][125/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/60.json
+[2025-06-28 16-08-34][4/18][126/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/61.json
+[2025-06-28 16-08-35][4/18][127/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/62.json
+[2025-06-28 16-08-36][4/18][128/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/63.json
+[2025-06-28 16-08-36][4/18][129/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/64.json
+[2025-06-28 16-08-38][4/18][130/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/67.json
+[2025-06-28 16-08-38][4/18][131/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/68.json
+[2025-06-28 16-08-39][4/18][132/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/69.json
+[2025-06-28 16-08-40][4/18][133/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/7.json
+[2025-06-28 16-08-41][4/18][134/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/711.json
+[2025-06-28 16-08-42][4/18][135/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/72.json
+[2025-06-28 16-08-42][4/18][136/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/74.json
+[2025-06-28 16-08-43][4/18][137/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/75.json
+[2025-06-28 16-08-44][4/18][138/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/76.json
+[2025-06-28 16-08-44][4/18][139/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/77.json
+[2025-06-28 16-08-45][4/18][140/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/777.json
+[2025-06-28 16-08-46][4/18][141/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/78.json
+[2025-06-28 16-08-47][4/18][142/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/79.json
+[2025-06-28 16-08-48][4/18][143/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/799.json
+[2025-06-28 16-08-49][4/18][144/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/8.json
+[2025-06-28 16-08-50][4/18][145/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/80.json
+[2025-06-28 16-08-50][4/18][146/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/800.json
+[2025-06-28 16-08-51][4/18][147/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/81.json
+[2025-06-28 16-08-52][4/18][148/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/82.json
+[2025-06-28 16-08-53][4/18][149/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/83.json
+[2025-06-28 16-08-54][4/18][150/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/84.json
+[2025-06-28 16-08-55][4/18][151/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/85.json
+[2025-06-28 16-08-56][4/18][152/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/86.json
+[2025-06-28 16-08-57][4/18][153/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/875.json
+[2025-06-28 16-08-57][4/18][154/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/876.json
+[2025-06-28 16-08-58][4/18][155/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/887.json
+[2025-06-28 16-08-59][4/18][156/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/888.json
+[2025-06-28 16-09-00][4/18][157/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/89.json
+[2025-06-28 16-09-01][4/18][158/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/893.json
+[2025-06-28 16-09-01][4/18][159/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/895.json
+[2025-06-28 16-09-02][4/18][160/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/897.json
+[2025-06-28 16-09-03][4/18][161/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/9.json
+[2025-06-28 16-09-04][4/18][162/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/90.json
+[2025-06-28 16-09-05][4/18][163/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/901.json
+[2025-06-28 16-09-06][4/18][164/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/902.json
+[2025-06-28 16-09-06][4/18][165/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/91.json
+[2025-06-28 16-09-07][4/18][166/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/910.json
+[2025-06-28 16-09-08][4/18][167/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/92.json
+[2025-06-28 16-09-09][4/18][168/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/950.json
+[2025-06-28 16-09-10][4/18][169/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/96.json
+[2025-06-28 16-09-10][4/18][170/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/98.json
+[2025-06-28 16-09-11][4/18][171/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champions/99.json
+[2025-06-28 16-09-12][5/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/map-assets/
+[2025-06-28 16-09-13]页面新文件列表如下：
+New file list is as follows: 
+      file            size           web_date         web_timestamp        local_date          local_timestamp   
+ map-assets.json    146.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-50    1751006390.2375214 
+[2025-06-28 16-09-13][5/18][1/1]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/map-assets/map-assets.json
+[2025-06-28 16-09-14][6/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/
+[2025-06-28 16-09-15]页面新文件列表如下：
+New file list is as follows: 
+                file                     size           web_date         web_timestamp        local_date          local_timestamp   
+       achievementtitles.json          100.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-53    1751006393.5027163 
+          challenges.json              611.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-55    1751006395.114171  
+ champion-rune-recommendations.json    323.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-56    1751006396.8939748 
+          companions.json              931.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-39-59    1751006399.0512652 
+           event-hub.json              115.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-00    1751006400.7521029 
+      game-mode-mutators.json            333 B      2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-02    1751006402.4113166 
+        generic-assets.json            210.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-04    1751006404.1157658 
+             items.json                481.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-05    1751006405.1570706 
+             loot.json                  2.9 MiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-07    1751006407.8464475 
+             maps.json                  1.6 KiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-09    1751006409.1740181 
+        mission-assets.json            37.8 KiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-10    1751006410.521739  
+         nachobanners.json             12.3 KiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-11    1751006411.5838976 
+        nexusfinishers.json             1.6 KiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-13    1751006413.0059726 
+          objectives.json              74.9 KiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-14    1751006414.4410176 
+         profile-icons.json            333.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-16    1751006416.550604  
+            regalia.json               25.8 KiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-17    1751006417.890715  
+            rewards.json               881.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-20    1751006420.0947528 
+         skinaugments.json             12.7 KiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-21    1751006421.676234  
+          skinborders.json             11.2 KiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-23    1751006423.3117926 
+             skins.json                 4.8 MiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-25    1751006425.9382668 
+       summoner-banners.json           30.4 KiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-27    1751006427.2672362 
+        summoner-emotes.json           468.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-29    1751006429.1593728 
+        summoner-icons.json             1.9 MiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-31    1751006431.5596926 
+        tftcontentdata.json            683.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-34    1751006434.2643197 
+        tftdamageskins.json            87.0 KiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-35    1751006435.7268057 
+       tfteventpvebuddy.json             92 B       2025-Jun-25 06:14    1750803240.0     1970-01-01 08-00-00           0.0         
+        tfteventpvehub.json              90 B       2025-Jun-25 06:14    1750803240.0     1970-01-01 08-00-00           0.0         
+           tftitems.json               608.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-41    1751006441.0946457 
+        tftjourneytrack.json              2 B       2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-42    1751006442.162233  
+   tftrotationalshopitemdata.json       1.8 MiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-44    1751006444.348831  
+         tftskilltree.json             14.8 KiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-45    1751006445.6408074 
+           tfttraits.json              325.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-47    1751006447.5651462 
+    tfttrovesbannerrewards.json        808.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-49    1751006449.3518505 
+       tfttrovesbanners.json           174.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-50    1751006450.492126  
+     tfttrovestablesnames.json         366.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-52    1751006452.490786  
+[2025-06-28 16-09-15][6/18][1/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/achievementtitles.json
+[2025-06-28 16-09-16][6/18][2/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/challenges.json
+[2025-06-28 16-09-17][6/18][3/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-rune-recommendations.json
+[2025-06-28 16-09-19][6/18][4/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/companions.json
+[2025-06-28 16-09-20][6/18][5/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/event-hub.json
+[2025-06-28 16-09-22][6/18][6/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/game-mode-mutators.json
+[2025-06-28 16-09-23][6/18][7/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/generic-assets.json
+[2025-06-28 16-09-24][6/18][8/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/items.json
+[2025-06-28 16-09-24][6/18][9/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/loot.json
+[2025-06-28 16-09-27][6/18][10/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/maps.json
+[2025-06-28 16-09-28][6/18][11/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/mission-assets.json
+[2025-06-28 16-09-28][6/18][12/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/nachobanners.json
+[2025-06-28 16-09-29][6/18][13/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/nexusfinishers.json
+[2025-06-28 16-09-30][6/18][14/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/objectives.json
+[2025-06-28 16-09-31][6/18][15/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/profile-icons.json
+[2025-06-28 16-09-32][6/18][16/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/regalia.json
+[2025-06-28 16-09-33][6/18][17/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/rewards.json
+[2025-06-28 16-09-34][6/18][18/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/skinaugments.json
+[2025-06-28 16-09-35][6/18][19/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/skinborders.json
+[2025-06-28 16-09-36][6/18][20/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/skins.json
+[2025-06-28 16-09-38][6/18][21/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/summoner-banners.json
+[2025-06-28 16-09-39][6/18][22/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/summoner-emotes.json
+[2025-06-28 16-09-40][6/18][23/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/summoner-icons.json
+[2025-06-28 16-09-41][6/18][24/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftcontentdata.json
+[2025-06-28 16-09-43][6/18][25/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftdamageskins.json
+[2025-06-28 16-09-44][6/18][26/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfteventpvebuddy.json
+文件https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfteventpvebuddy.json不存在！
+File https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfteventpvebuddy.json not found!
+[2025-06-28 16-09-44][6/18][27/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfteventpvehub.json
+文件https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfteventpvehub.json不存在！
+File https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfteventpvehub.json not found!
+[2025-06-28 16-09-45][6/18][28/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftitems.json
+[2025-06-28 16-09-47][6/18][29/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftjourneytrack.json
+[2025-06-28 16-09-47][6/18][30/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftrotationalshopitemdata.json
+[2025-06-28 16-09-49][6/18][31/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tftskilltree.json
+[2025-06-28 16-09-50][6/18][32/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfttraits.json
+[2025-06-28 16-09-52][6/18][33/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovesbannerrewards.json
+[2025-06-28 16-09-53][6/18][34/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovesbanners.json
+[2025-06-28 16-09-54][6/18][35/35]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovestablesnames.json
+[2025-06-28 16-09-55][7/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/
+[2025-06-28 16-09-56]页面新文件列表如下：
+New file list is as follows: 
+   file        size          web_date         web_timestamp        local_date          local_timestamp   
+ -1.json      769 B      2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-54    1751006454.7919517 
+  1.json     47.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-56    1751006456.1713083 
+ 10.json     59.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-57    1751006457.2497115 
+ 101.json    29.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-58    1751006458.378086  
+ 102.json    29.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-40-59    1751006459.7273688 
+ 103.json    65.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-00    1751006460.7774656 
+ 104.json    43.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-02    1751006462.0644608 
+ 105.json    37.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-03     1751006463.12344  
+ 106.json    29.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-04    1751006464.4290552 
+ 107.json    37.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-05    1751006465.7695863 
+ 11.json     86.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-07    1751006467.4457648 
+ 110.json    51.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-08    1751006468.8501966 
+ 111.json    32.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-10    1751006470.1207485 
+ 112.json    27.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-14    1751006474.0044024 
+ 113.json    41.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-15    1751006475.4819498 
+ 114.json    61.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-16    1751006476.6835508 
+ 115.json    36.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-17    1751006477.8220363 
+ 117.json    42.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-19    1751006479.1838658 
+ 119.json    49.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-20    1751006480.248613  
+ 12.json     35.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-21    1751006481.5827684 
+ 120.json    36.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-22    1751006482.859686  
+ 121.json    47.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-24    1751006484.1496487 
+ 122.json    51.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-25    1751006485.459762  
+ 126.json    35.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-26    1751006486.7518754 
+ 127.json    34.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-28    1751006488.0220277 
+ 13.json     36.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-29    1751006489.3547208 
+ 131.json    55.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-30    1751006490.4652689 
+ 133.json    24.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-31    1751006491.503718  
+ 134.json    52.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-32    1751006492.7951548 
+ 136.json    32.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-34    1751006494.1139736 
+ 14.json     38.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-35    1751006495.358563  
+ 141.json    30.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-36    1751006496.6218743 
+ 142.json    34.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-37    1751006497.9303906 
+ 143.json    51.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-38    1751006498.986853  
+ 145.json    59.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-40    1751006500.3399835 
+ 147.json    47.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-41    1751006501.6252165 
+ 15.json     54.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-43    1751006503.019073  
+ 150.json    34.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-44    1751006504.2845929 
+ 154.json    27.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-45    1751006505.3435404 
+ 157.json    62.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-46    1751006506.7948196 
+ 16.json     44.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-48    1751006508.1462247 
+ 161.json    25.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-49    1751006509.1850498 
+ 163.json    24.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-50    1751006510.2096279 
+ 164.json    35.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-51    1751006511.3390665 
+ 166.json    21.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-52    1751006512.612797  
+ 17.json     45.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-53    1751006513.6465528 
+ 18.json     51.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-54    1751006514.9818454 
+ 19.json     45.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-56    1751006516.1059313 
+  2.json     40.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-57    1751006517.835608  
+ 20.json     41.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-41-59    1751006519.0674186 
+ 200.json    25.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-00    1751006520.3496795 
+ 201.json    37.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-01    1751006521.792923  
+ 202.json    42.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-03    1751006523.2134275 
+ 203.json    35.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-04    1751006524.499074  
+ 21.json     60.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-05    1751006525.788976  
+ 22.json     61.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-07    1751006527.3621128 
+ 221.json    31.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-08    1751006528.6419446 
+ 222.json    51.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-09    1751006529.6651902 
+ 223.json    31.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-10    1751006530.9679852 
+ 23.json     38.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-12    1751006532.1953938 
+ 233.json    21.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-13    1751006533.7332191 
+ 234.json    33.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-15    1751006535.0663848 
+ 235.json    48.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-16    1751006536.3907857 
+ 236.json    53.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-17    1751006537.9305384 
+ 238.json    54.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-18    1751006538.9870627 
+ 24.json     40.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-19    1751006539.992084  
+ 240.json    25.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-21    1751006541.3190248 
+ 245.json    45.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-22    1751006542.645388  
+ 246.json    39.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-23    1751006543.7075357 
+ 25.json     59.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-25    1751006545.032884  
+ 254.json    39.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-26    1751006546.3006227 
+ 26.json     24.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-27    1751006547.579353  
+ 266.json    37.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-28    1751006548.8146145 
+ 267.json    47.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-30    1751006550.106712  
+ 268.json    27.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-31    1751006551.387716  
+ 27.json     30.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-32    1751006552.6345017 
+ 28.json     50.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-33    1751006553.9020991 
+ 29.json     44.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-35    1751006555.1700559 
+  3.json     33.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-36    1751006556.514119  
+ 30.json     29.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-37    1751006557.7995331 
+ 31.json     33.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-39    1751006559.0552616 
+ 32.json     46.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-40    1751006560.4001071 
+ 33.json     31.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-41    1751006561.6810699 
+ 34.json     44.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-42    1751006562.9790978 
+ 35.json     51.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-44    1751006564.0777755 
+ 350.json    44.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-46    1751006566.1261425 
+ 36.json     32.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-47    1751006567.1350124 
+ 360.json    29.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-48    1751006568.1805348 
+ 37.json     75.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-49    1751006569.2022047 
+ 38.json     30.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-50    1751006570.532248  
+ 39.json     49.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-52    1751006572.198976  
+  4.json     48.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-53    1751006573.2131593 
+ 40.json     51.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-54    1751006574.5351813 
+ 41.json     36.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-56    1751006576.8052835 
+ 412.json    52.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-58    1751006578.143553  
+ 42.json     31.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-42-59    1751006579.214158  
+ 420.json    29.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-00    1751006580.498218  
+ 421.json    28.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-01    1751006581.7891238 
+ 427.json    26.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-03    1751006583.030881  
+ 429.json    24.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-04    1751006584.2950063 
+ 43.json     55.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-05    1751006585.3026323 
+ 432.json    35.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-06    1751006586.794883  
+ 44.json     29.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-08    1751006588.1346295 
+ 45.json     48.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-09    1751006589.4896736 
+ 48.json     27.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-11    1751006591.0464635 
+ 497.json    42.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-12    1751006592.383531  
+ 498.json    47.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-13    1751006593.6919606 
+  5.json     37.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-15    1751006595.1428237 
+ 50.json     36.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-17    1751006597.0384586 
+ 51.json     50.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-18    1751006598.3131585 
+ 516.json    26.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-19    1751006599.5883632 
+ 517.json    40.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-20    1751006600.9607484 
+ 518.json    36.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-22    1751006602.0142736 
+ 523.json    30.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-23    1751006603.2377186 
+ 526.json    27.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-24    1751006604.5153573 
+ 53.json     50.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-25    1751006605.7542002 
+ 54.json     44.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-27    1751006607.0271077 
+ 55.json     54.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-28    1751006608.3125439 
+ 555.json    54.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-29    1751006609.5776596 
+ 56.json     32.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-30    1751006610.5858643 
+ 57.json     30.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-31    1751006611.6602495 
+ 58.json     46.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-32    1751006612.7281733 
+ 59.json     44.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-33    1751006613.7865326 
+  6.json     31.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-35     1751006615.21813  
+ 60.json     32.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-36    1751006616.5044622 
+ 61.json     36.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-37    1751006617.5808415 
+ 62.json     27.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-38    1751006618.5820982 
+ 63.json     41.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-39    1751006619.8640382 
+ 64.json     60.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-41    1751006621.175647  
+ 67.json     57.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-42    1751006622.4292343 
+ 68.json     28.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-43    1751006623.7545724 
+ 69.json     33.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-44     1751006624.7787   
+  7.json     50.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-45    1751006625.818179  
+ 711.json    23.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-48    1751006628.6315167 
+ 72.json     20.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-49    1751006629.8791268 
+ 74.json     30.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-51    1751006631.1381001 
+ 75.json     45.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-52    1751006632.4928167 
+ 76.json     50.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-54    1751006634.2696102 
+ 77.json     21.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-55    1751006635.5324967 
+ 777.json    49.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-56    1751006636.8131332 
+ 78.json     37.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-58    1751006638.1527925 
+ 79.json     40.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-43-59    1751006639.4249346 
+ 799.json    14.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-00    1751006640.7117133 
+  8.json     41.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-01    1751006641.7564955 
+ 80.json     41.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-03    1751006643.1067727 
+ 800.json    15.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-04    1751006644.1174572 
+ 81.json     60.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-05    1751006645.4842985 
+ 82.json     45.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-06    1751006646.499621  
+ 83.json     41.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-07    1751006647.7648375 
+ 84.json     69.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-09    1751006649.109527  
+ 85.json     30.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-10    1751006650.403565  
+ 86.json     41.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-11    1751006651.4706452 
+ 875.json    50.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-12    1751006652.7779193 
+ 876.json    27.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-14    1751006654.0867064 
+ 887.json    30.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-16    1751006656.1272762 
+ 888.json    27.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-22    1751006662.7069836 
+ 89.json     51.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-23    1751006663.9852226 
+ 893.json    15.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-25    1751006665.2456412 
+ 895.json    25.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-26    1751006666.5646732 
+ 897.json    21.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-27    1751006667.9648154 
+  9.json     37.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-30    1751006670.051121  
+ 90.json     43.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-31    1751006671.4148726 
+ 901.json    16.1 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-32    1751006672.7090833 
+ 902.json    19.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-34    1751006674.276829  
+ 91.json     44.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-35    1751006675.5509381 
+ 910.json    43.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-36    1751006676.8150628 
+ 92.json     54.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-38    1751006678.1169927 
+ 950.json    24.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-39    1751006679.4011114 
+ 96.json     72.8 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-40    1751006680.8075929 
+ 98.json     39.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-41    1751006681.8447218 
+ 99.json     58.5 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-42    1751006682.8402526 
+[2025-06-28 16-09-56][7/18][1/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/-1.json
+[2025-06-28 16-09-57][7/18][2/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/1.json
+[2025-06-28 16-09-58][7/18][3/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/10.json
+[2025-06-28 16-09-59][7/18][4/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/101.json
+[2025-06-28 16-10-00][7/18][5/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/102.json
+[2025-06-28 16-10-01][7/18][6/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/103.json
+[2025-06-28 16-10-02][7/18][7/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/104.json
+[2025-06-28 16-10-03][7/18][8/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/105.json
+[2025-06-28 16-10-04][7/18][9/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/106.json
+[2025-06-28 16-10-05][7/18][10/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/107.json
+[2025-06-28 16-10-06][7/18][11/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/11.json
+[2025-06-28 16-10-07][7/18][12/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/110.json
+[2025-06-28 16-10-08][7/18][13/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/111.json
+[2025-06-28 16-10-09][7/18][14/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/112.json
+[2025-06-28 16-10-10][7/18][15/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/113.json
+[2025-06-28 16-10-11][7/18][16/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/114.json
+[2025-06-28 16-10-11][7/18][17/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/115.json
+[2025-06-28 16-10-12][7/18][18/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/117.json
+[2025-06-28 16-10-13][7/18][19/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/119.json
+[2025-06-28 16-10-14][7/18][20/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/12.json
+[2025-06-28 16-10-15][7/18][21/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/120.json
+[2025-06-28 16-10-16][7/18][22/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/121.json
+[2025-06-28 16-10-17][7/18][23/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/122.json
+[2025-06-28 16-10-17][7/18][24/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/126.json
+[2025-06-28 16-10-18][7/18][25/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/127.json
+[2025-06-28 16-10-19][7/18][26/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/13.json
+[2025-06-28 16-10-20][7/18][27/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/131.json
+[2025-06-28 16-10-21][7/18][28/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/133.json
+[2025-06-28 16-10-23][7/18][29/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/134.json
+[2025-06-28 16-10-24][7/18][30/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/136.json
+[2025-06-28 16-10-25][7/18][31/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/14.json
+[2025-06-28 16-10-26][7/18][32/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/141.json
+违反协议导致读取中断！正在尝试第1次重新获取数据！
+EOF occurred in violation of protocol! Trying to recapture the data with url: https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/141.json. Time(s) tried: 1
+[2025-06-28 16-10-27][7/18][33/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/142.json
+[2025-06-28 16-10-28][7/18][34/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/143.json
+[2025-06-28 16-10-29][7/18][35/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/145.json
+[2025-06-28 16-10-30][7/18][36/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/147.json
+[2025-06-28 16-10-31][7/18][37/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/15.json
+[2025-06-28 16-10-32][7/18][38/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/150.json
+[2025-06-28 16-10-34][7/18][39/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/154.json
+[2025-06-28 16-10-34][7/18][40/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/157.json
+[2025-06-28 16-10-35][7/18][41/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/16.json
+[2025-06-28 16-10-36][7/18][42/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/161.json
+[2025-06-28 16-10-37][7/18][43/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/163.json
+[2025-06-28 16-10-38][7/18][44/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/164.json
+[2025-06-28 16-10-39][7/18][45/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/166.json
+[2025-06-28 16-10-40][7/18][46/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/17.json
+[2025-06-28 16-10-41][7/18][47/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/18.json
+[2025-06-28 16-10-42][7/18][48/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/19.json
+[2025-06-28 16-10-43][7/18][49/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/2.json
+[2025-06-28 16-10-44][7/18][50/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/20.json
+[2025-06-28 16-10-45][7/18][51/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/200.json
+[2025-06-28 16-10-46][7/18][52/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/201.json
+[2025-06-28 16-10-47][7/18][53/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/202.json
+[2025-06-28 16-10-48][7/18][54/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/203.json
+[2025-06-28 16-10-48][7/18][55/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/21.json
+[2025-06-28 16-10-49][7/18][56/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/22.json
+[2025-06-28 16-10-50][7/18][57/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/221.json
+[2025-06-28 16-10-51][7/18][58/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/222.json
+[2025-06-28 16-10-52][7/18][59/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/223.json
+[2025-06-28 16-10-53][7/18][60/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/23.json
+[2025-06-28 16-10-54][7/18][61/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/233.json
+[2025-06-28 16-10-54][7/18][62/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/234.json
+[2025-06-28 16-10-55][7/18][63/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/235.json
+[2025-06-28 16-10-56][7/18][64/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/236.json
+[2025-06-28 16-10-57][7/18][65/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/238.json
+[2025-06-28 16-10-58][7/18][66/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/24.json
+[2025-06-28 16-10-59][7/18][67/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/240.json
+[2025-06-28 16-10-59][7/18][68/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/245.json
+[2025-06-28 16-11-00][7/18][69/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/246.json
+[2025-06-28 16-11-01][7/18][70/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/25.json
+[2025-06-28 16-11-02][7/18][71/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/254.json
+[2025-06-28 16-11-03][7/18][72/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/26.json
+[2025-06-28 16-11-04][7/18][73/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/266.json
+[2025-06-28 16-11-04][7/18][74/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/267.json
+[2025-06-28 16-11-05][7/18][75/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/268.json
+[2025-06-28 16-11-06][7/18][76/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/27.json
+[2025-06-28 16-11-07][7/18][77/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/28.json
+[2025-06-28 16-11-08][7/18][78/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/29.json
+[2025-06-28 16-11-09][7/18][79/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/3.json
+[2025-06-28 16-11-10][7/18][80/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/30.json
+[2025-06-28 16-11-11][7/18][81/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/31.json
+[2025-06-28 16-11-11][7/18][82/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/32.json
+[2025-06-28 16-11-12][7/18][83/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/33.json
+[2025-06-28 16-11-13][7/18][84/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/34.json
+[2025-06-28 16-11-14][7/18][85/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/35.json
+[2025-06-28 16-11-15][7/18][86/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/350.json
+[2025-06-28 16-11-16][7/18][87/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/36.json
+[2025-06-28 16-11-17][7/18][88/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/360.json
+[2025-06-28 16-11-18][7/18][89/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/37.json
+[2025-06-28 16-11-19][7/18][90/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/38.json
+[2025-06-28 16-11-20][7/18][91/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/39.json
+[2025-06-28 16-11-20][7/18][92/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/4.json
+[2025-06-28 16-11-21][7/18][93/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/40.json
+[2025-06-28 16-11-22][7/18][94/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/41.json
+[2025-06-28 16-11-23][7/18][95/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/412.json
+[2025-06-28 16-11-23][7/18][96/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/42.json
+[2025-06-28 16-11-24][7/18][97/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/420.json
+[2025-06-28 16-11-25][7/18][98/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/421.json
+[2025-06-28 16-11-26][7/18][99/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/427.json
+[2025-06-28 16-11-27][7/18][100/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/429.json
+[2025-06-28 16-11-28][7/18][101/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/43.json
+[2025-06-28 16-11-30][7/18][102/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/432.json
+[2025-06-28 16-11-31][7/18][103/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/44.json
+[2025-06-28 16-11-32][7/18][104/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/45.json
+[2025-06-28 16-11-33][7/18][105/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/48.json
+[2025-06-28 16-11-34][7/18][106/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/497.json
+[2025-06-28 16-11-34][7/18][107/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/498.json
+[2025-06-28 16-11-35][7/18][108/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/5.json
+[2025-06-28 16-11-36][7/18][109/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/50.json
+[2025-06-28 16-11-37][7/18][110/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/51.json
+[2025-06-28 16-11-38][7/18][111/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/516.json
+[2025-06-28 16-11-38][7/18][112/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/517.json
+[2025-06-28 16-11-39][7/18][113/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/518.json
+[2025-06-28 16-11-40][7/18][114/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/523.json
+[2025-06-28 16-11-41][7/18][115/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/526.json
+[2025-06-28 16-11-42][7/18][116/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/53.json
+[2025-06-28 16-11-43][7/18][117/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/54.json
+[2025-06-28 16-11-44][7/18][118/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/55.json
+[2025-06-28 16-11-44][7/18][119/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/555.json
+[2025-06-28 16-11-45][7/18][120/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/56.json
+[2025-06-28 16-11-46][7/18][121/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/57.json
+[2025-06-28 16-11-47][7/18][122/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/58.json
+[2025-06-28 16-11-48][7/18][123/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/59.json
+[2025-06-28 16-11-49][7/18][124/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/6.json
+[2025-06-28 16-11-50][7/18][125/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/60.json
+[2025-06-28 16-11-51][7/18][126/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/61.json
+[2025-06-28 16-11-51][7/18][127/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/62.json
+[2025-06-28 16-11-52][7/18][128/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/63.json
+[2025-06-28 16-11-53][7/18][129/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/64.json
+[2025-06-28 16-11-54][7/18][130/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/67.json
+[2025-06-28 16-11-55][7/18][131/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/68.json
+[2025-06-28 16-11-55][7/18][132/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/69.json
+[2025-06-28 16-11-56][7/18][133/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/7.json
+[2025-06-28 16-11-57][7/18][134/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/711.json
+[2025-06-28 16-11-58][7/18][135/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/72.json
+[2025-06-28 16-11-59][7/18][136/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/74.json
+[2025-06-28 16-12-00][7/18][137/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/75.json
+[2025-06-28 16-12-01][7/18][138/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/76.json
+[2025-06-28 16-12-01][7/18][139/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/77.json
+[2025-06-28 16-12-02][7/18][140/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/777.json
+[2025-06-28 16-12-03][7/18][141/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/78.json
+[2025-06-28 16-12-04][7/18][142/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/79.json
+[2025-06-28 16-12-05][7/18][143/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/799.json
+[2025-06-28 16-12-06][7/18][144/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/8.json
+[2025-06-28 16-12-07][7/18][145/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/80.json
+[2025-06-28 16-12-08][7/18][146/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/800.json
+[2025-06-28 16-12-08][7/18][147/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/81.json
+[2025-06-28 16-12-09][7/18][148/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/82.json
+[2025-06-28 16-12-10][7/18][149/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/83.json
+[2025-06-28 16-12-11][7/18][150/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/84.json
+[2025-06-28 16-12-12][7/18][151/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/85.json
+[2025-06-28 16-12-13][7/18][152/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/86.json
+[2025-06-28 16-12-14][7/18][153/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/875.json
+[2025-06-28 16-12-15][7/18][154/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/876.json
+[2025-06-28 16-12-16][7/18][155/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/887.json
+[2025-06-28 16-12-16][7/18][156/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/888.json
+[2025-06-28 16-12-17][7/18][157/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/89.json
+[2025-06-28 16-12-18][7/18][158/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/893.json
+[2025-06-28 16-12-19][7/18][159/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/895.json
+[2025-06-28 16-12-19][7/18][160/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/897.json
+[2025-06-28 16-12-20][7/18][161/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/9.json
+[2025-06-28 16-12-21][7/18][162/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/90.json
+[2025-06-28 16-12-22][7/18][163/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/901.json
+[2025-06-28 16-12-22][7/18][164/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/902.json
+[2025-06-28 16-12-23][7/18][165/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/91.json
+[2025-06-28 16-12-24][7/18][166/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/910.json
+[2025-06-28 16-12-25][7/18][167/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/92.json
+[2025-06-28 16-12-26][7/18][168/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/950.json
+[2025-06-28 16-12-26][7/18][169/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/96.json
+[2025-06-28 16-12-27][7/18][170/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/98.json
+[2025-06-28 16-12-28][7/18][171/171]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/99.json
+[2025-06-28 16-12-29][8/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/map-assets/
+[2025-06-28 16-12-30]页面新文件列表如下：
+New file list is as follows: 
+      file            size           web_date         web_timestamp        local_date          local_timestamp   
+ map-assets.json    147.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-45    1751006685.2416675 
+[2025-06-28 16-12-30][8/18][1/1]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/map-assets/map-assets.json
+[2025-06-28 16-12-31][9/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/
+[2025-06-28 16-12-31]页面新文件列表如下：
+New file list is as follows: 
+              file                   size           web_date         web_timestamp        local_date          local_timestamp   
+     achievementtitles.json        100.9 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-48    1751006688.3901367 
+        challenges.json            618.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-50    1751006690.330171  
+        companions.json            937.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-52    1751006692.4558702 
+         event-hub.json            114.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-53    1751006693.907444  
+    game-mode-mutators.json          316 B      2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-55    1751006695.198992  
+      generic-assets.json          210.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-56    1751006696.8861735 
+           items.json              481.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-44-58    1751006698.7951827 
+           loot.json                3.0 MiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-45-01    1751006701.1554372 
+           maps.json                1.6 KiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-45-07    1751006707.1771762 
+      mission-assets.json          37.8 KiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-45-08    1751006708.4471512 
+       nachobanners.json           12.3 KiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-45-09    1751006709.6810896 
+      nexusfinishers.json           1.6 KiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-45-10    1751006710.9059217 
+        objectives.json            74.9 KiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-45-12    1751006712.2066984 
+       profile-icons.json          333.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-45-13    1751006713.8690727 
+          regalia.json             25.8 KiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-45-15    1751006715.1389031 
+        skinborders.json           11.4 KiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-45-16    1751006716.1510623 
+           skins.json               5.1 MiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-45-20    1751006720.1970005 
+     summoner-banners.json         30.4 KiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-45-21    1751006721.2073479 
+      summoner-emotes.json         477.0 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-45-23    1751006723.0465767 
+      summoner-icons.json           1.7 MiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-45-25    1751006725.552847  
+      tftcontentdata.json          683.2 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-45-27    1751006727.3689466 
+      tftdamageskins.json          88.1 KiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-45-29    1751006729.3427997 
+     tfteventpvebuddy.json           90 B       2025-Jun-25 06:14    1750803240.0     1970-01-01 08-00-00           0.0         
+      tfteventpvehub.json            88 B       2025-Jun-25 06:14    1750803240.0     1970-01-01 08-00-00           0.0         
+         tftitems.json             608.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-45-33    1751006733.6970937 
+      tftjourneytrack.json            2 B       2025-Jun-27 23:41    1751038860.0     2025-06-27 14-45-34    1751006734.680081  
+ tftrotationalshopitemdata.json     1.9 MiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-45-38    1751006738.144745  
+       tftskilltree.json           15.5 KiB     2025-Jun-27 23:41    1751038860.0     2025-06-27 14-45-39    1751006739.461481  
+         tfttraits.json            332.7 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-45-41    1751006741.3301487 
+  tfttrovesbannerrewards.json      811.6 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-45-43    1751006743.5163355 
+     tfttrovesbanners.json         174.4 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-45-44    1751006744.8997684 
+   tfttrovestablesnames.json       379.3 KiB    2025-Jun-27 23:41    1751038860.0     2025-06-27 14-45-46    1751006746.462528  
+[2025-06-28 16-12-31][9/18][1/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/achievementtitles.json
+[2025-06-28 16-12-33][9/18][2/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/challenges.json
+[2025-06-28 16-12-34][9/18][3/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/companions.json
+[2025-06-28 16-12-36][9/18][4/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/event-hub.json
+[2025-06-28 16-12-37][9/18][5/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/game-mode-mutators.json
+[2025-06-28 16-12-38][9/18][6/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/generic-assets.json
+[2025-06-28 16-12-39][9/18][7/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/items.json
+[2025-06-28 16-12-41][9/18][8/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/loot.json
+[2025-06-28 16-12-43][9/18][9/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/maps.json
+[2025-06-28 16-12-44][9/18][10/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/mission-assets.json
+[2025-06-28 16-12-45][9/18][11/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/nachobanners.json
+[2025-06-28 16-12-46][9/18][12/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/nexusfinishers.json
+[2025-06-28 16-12-46][9/18][13/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/objectives.json
+[2025-06-28 16-12-47][9/18][14/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/profile-icons.json
+[2025-06-28 16-12-49][9/18][15/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/regalia.json
+[2025-06-28 16-12-49][9/18][16/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/skinborders.json
+[2025-06-28 16-12-50][9/18][17/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/skins.json
+[2025-06-28 16-12-53][9/18][18/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/summoner-banners.json
+[2025-06-28 16-12-54][9/18][19/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/summoner-emotes.json
+[2025-06-28 16-12-55][9/18][20/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/summoner-icons.json
+[2025-06-28 16-12-57][9/18][21/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftcontentdata.json
+[2025-06-28 16-12-59][9/18][22/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftdamageskins.json
+[2025-06-28 16-13-00][9/18][23/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfteventpvebuddy.json
+文件https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfteventpvebuddy.json不存在！
+File https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfteventpvebuddy.json not found!
+[2025-06-28 16-13-00][9/18][24/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfteventpvehub.json
+文件https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfteventpvehub.json不存在！
+File https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfteventpvehub.json not found!
+[2025-06-28 16-13-01][9/18][25/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftitems.json
+[2025-06-28 16-13-03][9/18][26/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftjourneytrack.json
+[2025-06-28 16-13-03][9/18][27/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftrotationalshopitemdata.json
+[2025-06-28 16-13-05][9/18][28/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftskilltree.json
+[2025-06-28 16-13-06][9/18][29/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttraits.json
+[2025-06-28 16-13-08][9/18][30/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovesbannerrewards.json
+[2025-06-28 16-13-09][9/18][31/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovesbanners.json
+[2025-06-28 16-13-11][9/18][32/32]正在校对文件（Checking file）： https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tfttrovestablesnames.json
+[2025-06-28 16-13-12][10/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/
+[2025-06-28 16-13-13]页面新文件列表如下：
+New file list is as follows: 
+             file                size        web_date         web_timestamp        local_date          local_timestamp   
+ compat-version-metadata.json    59 B    2025-Jun-27 21:07    1751029620.0     2025-06-27 14-45-49    1751006749.1501791 
+    content-metadata.json        61 B    2025-Jun-27 21:07    1751029620.0     2025-06-27 14-45-50    1751006750.4908814 
+[2025-06-28 16-13-13][10/18][1/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/compat-version-metadata.json
+[2025-06-28 16-13-14]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/compat-version-metadata.json
+[2025-06-28 16-13-14][10/18][2/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/content-metadata.json
+[2025-06-28 16-13-15]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/content-metadata.json
+[2025-06-28 16-13-15][11/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/cdragon/arena/
+[2025-06-28 16-13-16]页面新文件列表如下：
+New file list is as follows: 
+    file         size           web_date         web_timestamp        local_date          local_timestamp   
+ en_us.json    223.3 KiB    2025-Jun-27 21:08    1751029680.0     2025-06-27 14-45-53    1751006753.6371334 
+ zh_cn.json    226.6 KiB    2025-Jun-27 21:08    1751029680.0     2025-06-27 14-45-55    1751006755.4473126 
+[2025-06-28 16-13-17][11/18][1/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/cdragon/arena/en_us.json
+[2025-06-28 16-13-18]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/cdragon/arena/en_us.json
+[2025-06-28 16-13-18][11/18][2/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/cdragon/arena/zh_cn.json
+[2025-06-28 16-13-19]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/cdragon/arena/zh_cn.json
+[2025-06-28 16-13-19][12/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/cdragon/tft/
+[2025-06-28 16-13-20]页面新文件列表如下：
+New file list is as follows: 
+    file         size          web_date         web_timestamp        local_date          local_timestamp   
+ en_us.json    18.2 MiB    2025-Jun-27 21:08    1751029680.0     2025-06-27 14-46-00    1751006760.6788616 
+ zh_cn.json    18.2 MiB    2025-Jun-27 21:08    1751029680.0     2025-06-27 14-46-04    1751006764.2206695 
+[2025-06-28 16-13-20][12/18][1/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/cdragon/tft/en_us.json
+[2025-06-28 16-13-23][12/18][2/2]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/cdragon/tft/zh_cn.json
+[2025-06-28 16-13-27]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/cdragon/tft/zh_cn.json
+[2025-06-28 16-13-27][13/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champions/
+[2025-06-28 16-13-28]页面新文件列表如下：
+New file list is as follows: 
+Empty DataFrame
+Columns: [file, size, web_date, web_timestamp, local_date, local_timestamp]
+Index: []
+[2025-06-28 16-13-28][14/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/map-assets/
+[2025-06-28 16-13-29]页面新文件列表如下：
+New file list is as follows: 
+Empty DataFrame
+Columns: [file, size, web_date, web_timestamp, local_date, local_timestamp]
+Index: []
+[2025-06-28 16-13-29][15/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/
+[2025-06-28 16-13-30]页面新文件列表如下：
+New file list is as follows: 
+                file                     size           web_date         web_timestamp        local_date          local_timestamp   
+       achievementtitles.json          100.7 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-21 12-09-52    1750478992.0238402 
+          challenges.json              611.6 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-21 12-09-53    1750478993.6912515 
+ champion-rune-recommendations.json    323.6 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-27 14-46-17    1751006777.3495033 
+             loot.json                  2.9 MiB     2025-Jun-27 21:07    1751029620.0     2025-06-25 08-43-45    1750812225.1645992 
+            rewards.json               886.9 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-25 08-43-50    1750812230.0190628 
+        summoner-emotes.json           470.2 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-25 08-43-57    1750812237.5468829 
+        summoner-icons.json             1.9 MiB     2025-Jun-27 21:07    1751029620.0     2025-06-25 08-43-59    1750812239.8412595 
+   tftrotationalshopitemdata.json       1.8 MiB     2025-Jun-27 21:07    1751029620.0     2025-06-25 08-44-06    1750812246.395769  
+     tfttrovestablesnames.json         367.5 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-25 08-44-11    1750812251.6172626 
+[2025-06-28 16-13-30][15/18][1/9]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/achievementtitles.json
+[2025-06-28 16-13-31]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/achievementtitles.json
+[2025-06-28 16-13-31][15/18][2/9]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/challenges.json
+[2025-06-28 16-13-32]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/challenges.json
+[2025-06-28 16-13-32][15/18][3/9]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-rune-recommendations.json
+[2025-06-28 16-13-34]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-rune-recommendations.json
+[2025-06-28 16-13-34][15/18][4/9]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/loot.json
+[2025-06-28 16-13-36]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/loot.json
+[2025-06-28 16-13-36][15/18][5/9]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rewards.json
+[2025-06-28 16-13-37]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rewards.json
+[2025-06-28 16-13-37][15/18][6/9]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/summoner-emotes.json
+[2025-06-28 16-13-40]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/summoner-emotes.json
+[2025-06-28 16-13-40][15/18][7/9]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/summoner-icons.json
+[2025-06-28 16-13-42]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/summoner-icons.json
+[2025-06-28 16-13-42][15/18][8/9]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tftrotationalshopitemdata.json
+[2025-06-28 16-13-44]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tftrotationalshopitemdata.json
+[2025-06-28 16-13-44][15/18][9/9]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovestablesnames.json
+[2025-06-28 16-13-45]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovestablesnames.json
+[2025-06-28 16-13-45][16/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/
+[2025-06-28 16-13-46]页面新文件列表如下：
+New file list is as follows: 
+   file        size          web_date         web_timestamp        local_date          local_timestamp   
+ 110.json    51.8 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-05    1750890665.0022278 
+ 111.json    32.4 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-05     1750890665.59729  
+ 117.json    42.0 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-06    1750890666.4612024 
+ 12.json     35.1 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-07    1750890667.0603445 
+ 120.json    40.8 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-27 14-46-28    1751006788.6051474 
+ 13.json     36.9 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-08    1750890668.229142  
+ 134.json    52.9 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-08    1750890668.868403  
+ 145.json    59.5 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-19    1750890679.0544398 
+ 147.json    47.1 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-20    1750890680.1208832 
+ 16.json     44.7 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-22    1750890682.7963588 
+ 233.json    21.8 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-29    1750890689.1823523 
+ 235.json    48.9 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-30    1750890690.4097073 
+ 25.json     59.3 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-31    1750890691.545286  
+ 254.json    39.2 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-32    1750890692.6527505 
+ 26.json     24.6 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-33    1750890693.8132508 
+ 267.json    47.6 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-35    1750890695.5217042 
+  3.json     33.9 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-37    1750890697.740647  
+ 32.json     46.0 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-38    1750890698.8457096 
+ 350.json    48.7 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-27 14-46-31    1751006791.247831  
+ 360.json    29.1 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-40    1750890700.8091178 
+ 37.json     75.7 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-41    1750890701.681074  
+ 40.json     51.5 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-43    1750890703.5297818 
+ 412.json    52.7 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-45    1750890705.2830048 
+ 427.json    26.4 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-47    1750890707.2232754 
+ 429.json    28.9 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-27 14-46-32    1751006792.369415  
+ 43.json     55.1 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-48    1750890708.718857  
+ 44.json     29.4 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-49    1750890709.5306535 
+ 50.json     36.0 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-51    1750890711.108385  
+ 517.json    40.2 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-52    1750890712.124704  
+ 53.json     50.1 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-53    1750890713.8582547 
+ 56.json     32.7 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-55    1750890715.408107  
+ 68.json     28.1 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-31-57    1750890717.2848063 
+ 799.json    14.9 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-32-00    1750890720.6488473 
+  8.json     41.4 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-32-01    1750890721.4088898 
+ 80.json     41.2 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-32-02    1750890722.393069  
+ 804.json    14.1 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-27 14-46-33    1751006793.6909227 
+ 81.json     60.2 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-32-03    1750890723.893474  
+ 888.json    27.9 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-32-07    1750890727.3969657 
+ 902.json    19.5 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-32-09    1750890729.1366432 
+ 910.json    43.7 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-32-09    1750890729.9122293 
+ 98.json     39.4 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-32-10    1750890730.9462278 
+ 99.json     58.5 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-26 06-32-11    1750890731.9465313 
+[2025-06-28 16-13-46][16/18][1/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/110.json
+[2025-06-28 16-13-47]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/110.json
+[2025-06-28 16-13-47][16/18][2/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/111.json
+[2025-06-28 16-13-48]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/111.json
+[2025-06-28 16-13-48][16/18][3/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/117.json
+[2025-06-28 16-13-49]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/117.json
+[2025-06-28 16-13-49][16/18][4/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/12.json
+[2025-06-28 16-13-50]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/12.json
+[2025-06-28 16-13-50][16/18][5/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/120.json
+[2025-06-28 16-13-51]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/120.json
+[2025-06-28 16-13-51][16/18][6/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/13.json
+[2025-06-28 16-13-52]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/13.json
+[2025-06-28 16-13-52][16/18][7/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/134.json
+[2025-06-28 16-13-53]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/134.json
+[2025-06-28 16-13-53][16/18][8/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/145.json
+[2025-06-28 16-13-54]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/145.json
+[2025-06-28 16-13-54][16/18][9/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/147.json
+[2025-06-28 16-13-55]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/147.json
+[2025-06-28 16-13-55][16/18][10/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/16.json
+[2025-06-28 16-13-56]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/16.json
+[2025-06-28 16-13-56][16/18][11/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/233.json
+[2025-06-28 16-13-57]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/233.json
+[2025-06-28 16-13-57][16/18][12/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/235.json
+[2025-06-28 16-13-58]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/235.json
+[2025-06-28 16-13-58][16/18][13/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/25.json
+[2025-06-28 16-13-59]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/25.json
+[2025-06-28 16-13-59][16/18][14/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/254.json
+[2025-06-28 16-14-00]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/254.json
+[2025-06-28 16-14-00][16/18][15/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/26.json
+[2025-06-28 16-14-01]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/26.json
+[2025-06-28 16-14-01][16/18][16/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/267.json
+[2025-06-28 16-14-02]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/267.json
+[2025-06-28 16-14-02][16/18][17/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/3.json
+[2025-06-28 16-14-03]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/3.json
+[2025-06-28 16-14-03][16/18][18/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/32.json
+[2025-06-28 16-14-04]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/32.json
+[2025-06-28 16-14-04][16/18][19/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/350.json
+[2025-06-28 16-14-05]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/350.json
+[2025-06-28 16-14-05][16/18][20/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/360.json
+[2025-06-28 16-14-05]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/360.json
+[2025-06-28 16-14-05][16/18][21/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/37.json
+[2025-06-28 16-14-06]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/37.json
+[2025-06-28 16-14-06][16/18][22/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/40.json
+[2025-06-28 16-14-07]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/40.json
+[2025-06-28 16-14-07][16/18][23/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/412.json
+[2025-06-28 16-14-08]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/412.json
+[2025-06-28 16-14-08][16/18][24/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/427.json
+[2025-06-28 16-14-09]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/427.json
+[2025-06-28 16-14-09][16/18][25/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/429.json
+[2025-06-28 16-14-10]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/429.json
+[2025-06-28 16-14-10][16/18][26/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/43.json
+[2025-06-28 16-14-11]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/43.json
+[2025-06-28 16-14-11][16/18][27/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/44.json
+[2025-06-28 16-14-12]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/44.json
+[2025-06-28 16-14-12][16/18][28/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/50.json
+[2025-06-28 16-14-13]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/50.json
+[2025-06-28 16-14-13][16/18][29/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/517.json
+[2025-06-28 16-14-13]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/517.json
+[2025-06-28 16-14-13][16/18][30/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/53.json
+[2025-06-28 16-14-14]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/53.json
+[2025-06-28 16-14-14][16/18][31/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/56.json
+[2025-06-28 16-14-16]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/56.json
+[2025-06-28 16-14-16][16/18][32/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/68.json
+[2025-06-28 16-14-17]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/68.json
+[2025-06-28 16-14-17][16/18][33/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/799.json
+[2025-06-28 16-14-18]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/799.json
+[2025-06-28 16-14-18][16/18][34/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/8.json
+[2025-06-28 16-14-19]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/8.json
+[2025-06-28 16-14-19][16/18][35/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/80.json
+[2025-06-28 16-14-19]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/80.json
+[2025-06-28 16-14-19][16/18][36/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/804.json
+[2025-06-28 16-14-20]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/804.json
+[2025-06-28 16-14-20][16/18][37/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/81.json
+[2025-06-28 16-14-21]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/81.json
+[2025-06-28 16-14-21][16/18][38/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/888.json
+[2025-06-28 16-14-22]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/888.json
+[2025-06-28 16-14-22][16/18][39/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/902.json
+[2025-06-28 16-14-23]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/902.json
+[2025-06-28 16-14-23][16/18][40/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/910.json
+[2025-06-28 16-14-24]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/910.json
+[2025-06-28 16-14-24][16/18][41/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/98.json
+[2025-06-28 16-14-25]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/98.json
+[2025-06-28 16-14-25][16/18][42/42]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/99.json
+[2025-06-28 16-14-26]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/99.json
+[2025-06-28 16-14-26][17/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/map-assets/
+[2025-06-28 16-14-27]页面新文件列表如下：
+New file list is as follows: 
+Empty DataFrame
+Columns: [file, size, web_date, web_timestamp, local_date, local_timestamp]
+Index: []
+[2025-06-28 16-14-27][18/18]正在检查文件夹（Checking the folder）：https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/
+[2025-06-28 16-14-28]页面新文件列表如下：
+New file list is as follows: 
+          file               size           web_date         web_timestamp        local_date          local_timestamp   
+ achievementtitles.json    101.2 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-21 12-15-02    1750479302.2385523 
+    challenges.json        618.2 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-21 12-15-03    1750479303.868388  
+ champion-summary.json     37.3 KiB     2025-Jun-27 21:07    1751029620.0     2025-06-27 14-46-37    1751006797.6480048 
+       loot.json            3.0 MiB     2025-Jun-27 21:07    1751029620.0     2025-06-25 08-44-28    1750812268.7322798 
+       skins.json           5.1 MiB     2025-Jun-27 21:07    1751029620.0     2025-06-27 14-46-45    1751006805.6840732 
+     tftitems.json         610.7 KiB    2025-Jun-27 21:07    1751029620.0     2025-06-27 14-46-54    1751006814.4409294 
+[2025-06-28 16-14-28][18/18][1/6]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/achievementtitles.json
+[2025-06-28 16-14-29]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/achievementtitles.json
+[2025-06-28 16-14-29][18/18][2/6]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/challenges.json
+[2025-06-28 16-14-30]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/challenges.json
+[2025-06-28 16-14-30][18/18][3/6]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champion-summary.json
+[2025-06-28 16-14-31]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champion-summary.json
+[2025-06-28 16-14-31][18/18][4/6]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/loot.json
+[2025-06-28 16-14-33]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/loot.json
+[2025-06-28 16-14-33][18/18][5/6]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/skins.json
+[2025-06-28 16-14-36]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/skins.json
+[2025-06-28 16-14-36][18/18][6/6]正在校对文件（Checking file）： https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftitems.json
+[2025-06-28 16-14-38]已更新文件（Updated file）：离线数据（Offline Data）/cdragon/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftitems.json
+已更新以下64个文件：
+Updated the following 64 file(s):
+https://raw.communitydragon.org/latest/compat-version-metadata.json
+https://raw.communitydragon.org/latest/content-metadata.json
+https://raw.communitydragon.org/pbe/compat-version-metadata.json
+https://raw.communitydragon.org/pbe/content-metadata.json
+https://raw.communitydragon.org/pbe/cdragon/arena/en_us.json
+https://raw.communitydragon.org/pbe/cdragon/arena/zh_cn.json
+https://raw.communitydragon.org/pbe/cdragon/tft/zh_cn.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/achievementtitles.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/challenges.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/champion-rune-recommendations.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/loot.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/rewards.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/summoner-emotes.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/summoner-icons.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tftrotationalshopitemdata.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/default/v1/tfttrovestablesnames.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/110.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/111.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/117.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/12.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/120.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/13.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/134.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/145.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/147.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/16.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/233.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/235.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/25.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/254.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/26.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/267.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/3.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/32.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/350.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/360.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/37.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/40.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/412.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/427.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/429.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/43.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/44.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/50.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/517.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/53.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/56.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/68.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/799.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/8.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/80.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/804.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/81.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/888.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/902.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/910.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/98.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/99.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/achievementtitles.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/challenges.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champion-summary.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/loot.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/skins.json
+https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/tftitems.json
+
+请选择要更新的数据资源，输入空字符串以退出程序：
+Please select the data resource to update, or submit an empty string to exit the program:
+1	CommunityDragon
+2	DataDragon
+[2025-06-28 16-22-21]
+[The program has exited!]
