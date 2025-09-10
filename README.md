@@ -38,12 +38,49 @@ This repository is only for diff checking use. No release will be provided. All 
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align:center;">2025-09-05 15-37-04</td>
+			<td style="text-align:center;">2025-09-10 14-17-38</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>
+				CDragon: <br>
+					<ul style="list-style-type: disc; margin-left: 20px;">
+						<li>Latest: 15.17.708.5788 -> 15.18.710.2811</li>
+						<li>PBE: 15.18.710.2811 -> 15.19.710.8378</li>
+					</ul>
+				DDragon: 15.17.1 -> 15.18.1
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2025-09-09 09-27-39</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>No changes</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2025-09-08 09-22-09</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>No changes</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2025-09-07 09-14-28</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>No changes</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2025-09-06 16-20-04</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
 					<ul style="list-style-type: disc; margin-left: 20px;">
 						<li>PBE: 15.18.709.5951 -> 15.18.710.2811</li>
+					</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2025-09-05 15-37-04</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>
+				CDragon: <br>
+					<ul style="list-style-type: disc; margin-left: 20px;">
+						<li>PBE: 15.18.709.4374 -> 15.18.709.5951</li>
 					</ul>
 			</td>
 		</tr>
