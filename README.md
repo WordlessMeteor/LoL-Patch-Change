@@ -21,8 +21,8 @@ This repository stores **Chinese and English** key data resources in json format
 19. https://ddragon.leagueoflegends.com/cdn/[version]/[version]/data/en_US (Not accessible)
 20. https://ddragon.leagueoflegends.com/cdn/[version]/[version]/data/zh_CN (Not accessible)
 
-如果要查看完整的版本变更，请将[英雄联盟自定义脚本仓库](https://github.com/WordlessMeteor/LoL-DIY-Programs)克隆到本地，并查看标题为“离线数据资源更新”的提交。该存储库需要占用大约37 GB的本地空间。对于包含较多数据资源的更新的提交，本地加载仍然需要几分钟时间，请耐心等待。\
-For complete patch change, please clone [LoL-DIY-Programs repository](https://github.com/WordlessMeteor/LoL-DIY-Programs) to local and check the commit with header "Offline Data Resource Update". This repository takes up nearly 37 GiB disk space. For those commits that involve many data resources, it takes several minutes to load the diff locally, so you'd better wait.\
+如果要查看完整的版本变更，请将[英雄联盟游戏数据变更存储库](https://github.com/WordlessMeteor/LoL-Dragon-Change)克隆到本地，并查看标题为“离线数据资源更新”的提交。该存储库需要占用大约60 GB的本地空间。对于包含较多数据资源的更新的提交，本地加载仍然需要几分钟时间，请耐心等待。\
+For complete patch change, please clone [LoL-Dragon-Change repository](https://github.com/WordlessMeteor/LoL-Dragon-Change) to local and check the commit with header "Offline Data Resource Update". This repository takes up nearly 60 GiB disk space. For those commits that involve many data resources, it takes several minutes to load the diff locally, so you'd better wait.\
 本存储库仅供查看更新内容，不提供任何发行版。所有有效的日志文件都会保留。\
 This repository is only for diff checking use. No release will be provided. All valid logs are reserved.
 
