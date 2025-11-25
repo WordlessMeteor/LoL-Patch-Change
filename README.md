@@ -38,7 +38,23 @@ This repository is only for diff checking use. No release will be provided. All 
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align:center;">2025-11-23 13-41-51<br></td>
+			<td style="text-align:center;">2025-11-25 08-56-00</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>
+				CDragon: <br>
+					<ul style="list-style-type: disc; margin-left: 20px;">
+						<li>Latest: Within-patch change</li>
+						<li>Latest: 15.24.728.2175 -> 15.24.728.6646</li>
+					</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2025-11-24 11-54-09</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>No changes</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2025-11-23 13-41-51</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -48,7 +64,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-11-22 10-23-59<br></td>
+			<td style="text-align:center;">2025-11-22 10-23-59</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -58,7 +74,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-11-21 10-33-31<br></td>
+			<td style="text-align:center;">2025-11-21 10-33-31</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -68,7 +84,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-11-20 10-03-49<br></td>
+			<td style="text-align:center;">2025-11-20 10-03-49</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -80,7 +96,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-11-19 10-48-11<br></td>
+			<td style="text-align:center;">2025-11-19 10-48-11</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -90,22 +106,22 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-11-18 10-38-08<br></td>
+			<td style="text-align:center;">2025-11-18 10-38-08</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>No changes</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-11-17 11-46-17<br></td>
+			<td style="text-align:center;">2025-11-17 11-46-17</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>No changes</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-11-16 10-44-40<br></td>
+			<td style="text-align:center;">2025-11-16 10-44-40</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>No changes</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-11-15 11-25-12<br></td>
+			<td style="text-align:center;">2025-11-15 11-25-12</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -115,7 +131,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-11-14 12-05-04<br></td>
+			<td style="text-align:center;">2025-11-14 12-05-04</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -125,7 +141,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-11-13 12-04-32<br></td>
+			<td style="text-align:center;">2025-11-13 12-04-32</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -135,7 +151,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-11-12 08-14-56<br></td>
+			<td style="text-align:center;">2025-11-12 08-14-56</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -145,7 +161,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-11-11 10-18-18<br></td>
+			<td style="text-align:center;">2025-11-11 10-18-18</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -155,17 +171,17 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-11-10 12-02-05<br></td>
+			<td style="text-align:center;">2025-11-10 12-02-05</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>No changes</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-11-09 13-04-32<br></td>
+			<td style="text-align:center;">2025-11-09 13-04-32</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>No changes</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-11-08 13-01-44<br></td>
+			<td style="text-align:center;">2025-11-08 13-01-44</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -175,7 +191,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-11-07 10-20-09<br></td>
+			<td style="text-align:center;">2025-11-07 10-20-09</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -186,7 +202,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-11-06 13-10-51<br></td>
+			<td style="text-align:center;">2025-11-06 13-10-51</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -198,7 +214,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-11-05 11-26-32<br></td>
+			<td style="text-align:center;">2025-11-05 11-26-32</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -208,22 +224,22 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-11-04 09-11-51<br></td>
+			<td style="text-align:center;">2025-11-04 09-11-51</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>No changes</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-11-03 11-29-59<br></td>
+			<td style="text-align:center;">2025-11-03 11-29-59</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>No changes</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-11-02 13-57-26<br></td>
+			<td style="text-align:center;">2025-11-02 13-57-26</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>No changes</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-11-01 15-21-24<br></td>
+			<td style="text-align:center;">2025-11-01 15-21-24</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -233,7 +249,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-10-31 11-23-14<br></td>
+			<td style="text-align:center;">2025-10-31 11-23-14</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -243,7 +259,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-10-30 12-08-23<br></td>
+			<td style="text-align:center;">2025-10-30 12-08-23</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -253,7 +269,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-10-29 12-24-11<br></td>
+			<td style="text-align:center;">2025-10-29 12-24-11</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -264,7 +280,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-10-28 08-53-51<br></td>
+			<td style="text-align:center;">2025-10-28 08-53-51</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -274,12 +290,12 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-10-27 15-06-12<br></td>
+			<td style="text-align:center;">2025-10-27 15-06-12</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>No changes</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-10-26 14-22-58<br></td>
+			<td style="text-align:center;">2025-10-26 14-22-58</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -290,7 +306,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-10-25 12-51-13<br></td>
+			<td style="text-align:center;">2025-10-25 12-51-13</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -300,7 +316,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-10-24 13-30-31<br></td>
+			<td style="text-align:center;">2025-10-24 13-30-31</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -312,12 +328,12 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-10-23 10-09-19<br></td>
+			<td style="text-align:center;">2025-10-23 10-09-19</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>No changes</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-10-22 12-09-44<br></td>
+			<td style="text-align:center;">2025-10-22 12-09-44</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -327,22 +343,22 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-10-21 12-40-10<br></td>
+			<td style="text-align:center;">2025-10-21 12-40-10</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>No changes</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-10-20 13-57-40<br></td>
+			<td style="text-align:center;">2025-10-20 13-57-40</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>No changes</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-10-19 15-24-48<br></td>
+			<td style="text-align:center;">2025-10-19 15-24-48</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>No changes</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-10-18 16-11-53<br></td>
+			<td style="text-align:center;">2025-10-18 16-11-53</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -352,12 +368,12 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-10-18 12-57-43<br></td>
+			<td style="text-align:center;">2025-10-18 12-57-43</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>No changes</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-10-17 11-55-53<br></td>
+			<td style="text-align:center;">2025-10-17 11-55-53</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -367,7 +383,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-10-16 11-16-13<br></td>
+			<td style="text-align:center;">2025-10-16 11-16-13</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -377,7 +393,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-10-15 09-56-35<br></td>
+			<td style="text-align:center;">2025-10-15 09-56-35</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -388,7 +404,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-10-14 09-19-31<br></td>
+			<td style="text-align:center;">2025-10-14 09-19-31</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -398,12 +414,12 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-10-12 11-42-43<br></td>
+			<td style="text-align:center;">2025-10-12 11-42-43</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>No changes</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-10-11 12-11-26<br></td>
+			<td style="text-align:center;">2025-10-11 12-11-26</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -413,7 +429,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-10-10 11-19-35<br></td>
+			<td style="text-align:center;">2025-10-10 11-19-35</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -423,7 +439,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-10-09 12-33-02<br>2025-10-09 12-40-07<br></td>
+			<td style="text-align:center;">2025-10-09 12-33-02<br>2025-10-09 12-40-07</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
@@ -435,7 +451,7 @@ This repository is only for diff checking use. No release will be provided. All 
 			</td>
 		</tr>
 		<tr>
-			<td style="text-align:center;">2025-10-08 08-46-25<br></td>
+			<td style="text-align:center;">2025-10-08 08-46-25</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
