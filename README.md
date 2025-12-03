@@ -18,13 +18,13 @@ This repository stores **Chinese and English** key data resources in json format
 16. https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/champions/
 17. https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/map-assets/
 18. https://raw.communitydragon.org/pbe/plugins/rcp-be-lol-game-data/global/zh_cn/v1/
-19. https://ddragon.leagueoflegends.com/cdn/[version]/[version]/data/en_US (Not accessible)
-20. https://ddragon.leagueoflegends.com/cdn/[version]/[version]/data/zh_CN (Not accessible)
+19. https://ddragon.leagueoflegends.com/cdn/15.23.1/data/en_US/
+20. https://ddragon.leagueoflegends.com/cdn/15.23.1/data/zh_CN/
 
-如果要查看完整的版本变更，请将[英雄联盟游戏数据变更存储库](https://github.com/WordlessMeteor/LoL-Dragon-Change)克隆到本地，并查看标题为“离线数据资源更新”的提交。该存储库需要占用大约60 GB的本地空间。对于包含较多数据资源的更新的提交，本地加载仍然需要几分钟时间，请耐心等待。\
-For complete patch change, please clone [LoL-Dragon-Change repository](https://github.com/WordlessMeteor/LoL-Dragon-Change) to local and check the commit with header "Offline Data Resource Update". This repository takes up nearly 60 GiB disk space. For those commits that involve many data resources, it takes several minutes to load the diff locally, so you'd better wait.\
-本存储库仅供查看更新内容，不提供任何发行版。所有有效的日志文件都会保留。\
-This repository is only for diff checking use. No release will be provided. All valid logs are reserved.
+如果要查看完整的版本变更，请将[英雄联盟游戏数据变更存储库](https://github.com/WordlessMeteor/LoL-Dragon-Change-S16)克隆到本地，并查看标题为“离线数据资源更新”的提交。该存储库需要占用大约30 GB的本地空间。对于包含较多数据资源的更新的提交，本地加载仍然需要几分钟时间，请耐心等待。\
+For complete patch change, please clone [LoL-Dragon-Change repository](https://github.com/WordlessMeteor/LoL-Dragon-Change-S16) to local and check the commit with header "Offline Data Resource Update". This repository takes up nearly 30 GiB disk space. For those commits that involve many data resources, it takes several minutes to load the diff locally, so you'd better wait.\
+本存储库仅供查看更新内容。所有有效的日志文件都会保留。在每次测试服开启新赛季时，过往赛季的日志文件会从存储库中删除，并打包存放在[“日志存档”发行版](https://github.com/WordlessMeteor/LoL-Patch-Change/releases/tag/v0.0.0-log)中。\
+This repository is only for diff checking use. All valid logs are reserved. Once new season is launched on PBE, the log files of the previous season will be removed from the repository and archived into the [Log archive release](https://github.com/WordlessMeteor/LoL-Patch-Change/releases/tag/v0.0.0-log).
 
 ----
 # 日志说明（Log Explanation）
@@ -37,6 +37,41 @@ This repository is only for diff checking use. No release will be provided. All 
 		</tr>
 	</thead>
 	<tbody>
+		<tr>
+			<td style="text-align:center;">2025-12-03 09-15-21</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>
+				CDragon: <br>
+					<ul style="list-style-type: disc; margin-left: 20px;">
+						<li>PBE: 15.24.729.3078 -> 16.1.730.3587</li>
+					</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2025-12-02 11-24-00</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>No changes</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2025-12-01 11-07-00</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>No changes</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2025-11-30 12-02-40</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>No changes</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2025-11-29 12-06-29</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>No changes</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2025-11-28 10-23-43</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>No changes</td>
+		</tr>
 		<tr>
 			<td style="text-align:center;">2025-11-27 11-13-14</td>
 			<td style="text-align:center;">1/2/1</td>
