@@ -38,12 +38,23 @@ This repository is only for diff checking use. All valid logs are reserved. Once
 	</thead>
 	<tbody>
 		<tr>
+			<td style="text-align:center;">2025-12-19 11-23-22</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>
+				CDragon: <br>
+					<ul style="list-style-type: disc; margin-left: 20px;">
+						<li>Latest: Within-patch change</li>
+						<li>PBE: 16.1.734.1525 -> 16.1.734.3076 (No changes)</li>
+					</ul>
+			</td>
+		</tr>
+		<tr>
 			<td style="text-align:center;">2025-12-18 11-50-03</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
 				CDragon: <br>
 					<ul style="list-style-type: disc; margin-left: 20px;">
-						<li>Latest: 15.24.733.5841 -> 15.24.733.6673</li>
+						<li>Latest: 15.24.733.5841 -> 15.24.733.6673 (No changes)</li>
 						<li>PBE: 16.1.733.8063 -> 16.1.734.1525</li>
 					</ul>
 			</td>
