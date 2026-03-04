@@ -38,6 +38,42 @@ This repository is only for diff checking use. All valid logs are reserved. Once
 	</thead>
 	<tbody>
 		<tr>
+			<td style="text-align:center;">2026-03-04 12-11-26</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>
+				CDragon: <br>
+					<ul style="list-style-type: disc; margin-left: 20px;">
+						<li>PBE: Within-patch change</li>
+					</ul>
+				Fix Arena data value key lost issue
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2026-03-04 11-26-48</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>
+				CDragon: <br>
+					<ul style="list-style-type: disc; margin-left: 20px;">
+						<li>PBE: 16.5.749.6037 -> 16.6.750.6406</li>
+					</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2026-03-03 11-04-49</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>No changes</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2026-03-02 12-01-26</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>No changes</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2026-03-01 12-39-52</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>No changes</td>
+		</tr>
+		<tr>
 			<td style="text-align:center;">2026-02-28 12-27-09</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
