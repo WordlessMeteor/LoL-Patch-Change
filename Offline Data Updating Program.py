@@ -3,7 +3,7 @@ from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 from wcwidth import wcswidth
 from humanize import naturalsize
-from typing import Any, IO
+from typing import Any, IO, Literal
 
 os.makedirs("离线数据（Offline Data）/Update Logs", exist_ok = True)
 currentTime: str = time.strftime("%Y-%m-%d %H-%M-%S", time.localtime())
