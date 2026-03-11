@@ -250,6 +250,7 @@
             6662,
             6660,
             3803,
+            3068,
             2502,
             3012,
             3044,
@@ -4576,7 +4577,8 @@
         "inStore": true,
         "from": [
             6660,
-            1031
+            1031,
+            1028
         ],
         "to": [],
         "categories": [
@@ -4592,7 +4594,7 @@
         "requiredBuffCurrencyCost": 0,
         "specialRecipe": 0,
         "isEnchantment": false,
-        "price": 1000,
+        "price": 600,
         "priceTotal": 2700,
         "displayInItemSets": true,
         "iconPath": "/lol-game-data/assets/ASSETS/Items/Icons2D/3068_Tank_T4_SunfireAegis.png"
@@ -8154,7 +8156,7 @@
     {
         "id": 4003,
         "name": "救生索",
-        "description": "<mainText><stats><attention>25</attention>攻击力<br><attention> 0</attention>穿甲<br><attention>4%</attention>移动速度</stats><br><br><active>主动 - </active> <active>灵魂之锚</active>  (0秒)<br>标记你的当前位置。在4秒后，回到被标记的位置。 你可以在<active>灵魂之锚</active>期间的任一时间点进行重新施放以提前回到你标记的位置。</mainText>",
+        "description": "<mainText><stats><attention>25</attention>攻击力<br><attention> 5</attention>穿甲<br><attention>4%</attention>移动速度</stats><br><br><active>主动 - </active> <active>灵魂之锚</active>  (0秒)<br>标记你的当前位置。在4秒后，回到被标记的位置。 你可以在<active>灵魂之锚</active>期间的任一时间点进行重新施放以提前回到你标记的位置。</mainText>",
         "active": true,
         "inStore": true,
         "from": [
@@ -9149,8 +9151,8 @@
         "requiredBuffCurrencyCost": 0,
         "specialRecipe": 0,
         "isEnchantment": false,
-        "price": 350,
-        "priceTotal": 3100,
+        "price": 250,
+        "priceTotal": 3000,
         "displayInItemSets": true,
         "iconPath": "/lol-game-data/assets/ASSETS/Items/Icons2D/6609_Fighter_T3_ChempunkChainsword.png"
     },
@@ -14649,7 +14651,7 @@
     {
         "id": 224004,
         "name": "幽魂弯刀",
-        "description": "<mainText><stats><attention>55</attention>攻击力<br><attention> 0</attention>穿甲</stats><br><br><active>主动 - </active> <active>灵魂之锚</active>  (0秒)<br>标记你的当前位置。在5秒后，回到被标记的位置。你可以在<active>灵魂之锚</active>期间的任一时间点进行重新施放以提前回到你标记的位置。</mainText>",
+        "description": "<mainText><stats><attention>55</attention>攻击力<br><attention> 21</attention>穿甲</stats><br><br><active>主动 - </active> <active>灵魂之锚</active>  (0秒)<br>标记你的当前位置。在5秒后，回到被标记的位置。你可以在<active>灵魂之锚</active>期间的任一时间点进行重新施放以提前回到你标记的位置。</mainText>",
         "active": true,
         "inStore": true,
         "from": [],
@@ -17938,7 +17940,7 @@
     {
         "id": 447115,
         "name": "弑王",
-        "description": "<mainText><stats><attention>60</attention>攻击力<br><attention> 0</attention>穿甲<br><attention>8%</attention>移动速度</stats><br><br><passive>终结王权</passive><br>在回合开始时，将生命值最低的那个敌人宣称为 <keywordMajor>摄政王</keywordMajor>。参与击杀<keywordMajor>摄政王</keywordMajor>会提供给你永久的<physicalDamage>10攻击力</physicalDamage>并刷新你的终极技能的冷却时间。</mainText>",
+        "description": "<mainText><stats><attention>60</attention>攻击力<br><attention> 15</attention>穿甲<br><attention>8%</attention>移动速度</stats><br><br><passive>终结王权</passive><br>在回合开始时，将生命值最低的那个敌人宣称为 <keywordMajor>摄政王</keywordMajor>。参与击杀<keywordMajor>摄政王</keywordMajor>会提供给你永久的<physicalDamage>10攻击力</physicalDamage>并刷新你的终极技能的冷却时间。</mainText>",
         "active": false,
         "inStore": true,
         "from": [],

@@ -250,6 +250,7 @@
             6662,
             6660,
             3803,
+            3068,
             2502,
             3012,
             3044,
@@ -4576,7 +4577,8 @@
         "inStore": true,
         "from": [
             6660,
-            1031
+            1031,
+            1028
         ],
         "to": [],
         "categories": [
@@ -4592,7 +4594,7 @@
         "requiredBuffCurrencyCost": 0,
         "specialRecipe": 0,
         "isEnchantment": false,
-        "price": 1000,
+        "price": 600,
         "priceTotal": 2700,
         "displayInItemSets": true,
         "iconPath": "/lol-game-data/assets/ASSETS/Items/Icons2D/3068_Tank_T4_SunfireAegis.png"
@@ -8154,7 +8156,7 @@
     {
         "id": 4003,
         "name": "Lifeline",
-        "description": "<mainText><stats><attention> 25</attention> Attack Damage<br><attention> 0</attention> Lethality<br><attention> 4%</attention> Move Speed</stats><br><br> <active>Active -</active> <active>Soul Anchor</active>  (0s)<br>Mark your current location. After 4 seconds, return to that location. You may recast at any point during <active>Soul Anchor's</active> duration to return to your marked location early.</mainText>",
+        "description": "<mainText><stats><attention> 25</attention> Attack Damage<br><attention> 5</attention> Lethality<br><attention> 4%</attention> Move Speed</stats><br><br> <active>Active -</active> <active>Soul Anchor</active>  (0s)<br>Mark your current location. After 4 seconds, return to that location. You may recast at any point during <active>Soul Anchor's</active> duration to return to your marked location early.</mainText>",
         "active": true,
         "inStore": true,
         "from": [
@@ -9149,8 +9151,8 @@
         "requiredBuffCurrencyCost": 0,
         "specialRecipe": 0,
         "isEnchantment": false,
-        "price": 350,
-        "priceTotal": 3100,
+        "price": 250,
+        "priceTotal": 3000,
         "displayInItemSets": true,
         "iconPath": "/lol-game-data/assets/ASSETS/Items/Icons2D/6609_Fighter_T3_ChempunkChainsword.png"
     },
@@ -14649,7 +14651,7 @@
     {
         "id": 224004,
         "name": "Spectral Cutlass",
-        "description": "<mainText><stats><attention> 55</attention> Attack Damage<br><attention> 0</attention> Lethality</stats><br><br> <active>Active -</active> <active>Soul Anchor</active>  (0s)<br>Mark your current location. After 5 seconds, return to that location. You may recast at any point during <active>Soul Anchor's</active> duration to return to your marked location early.</mainText>",
+        "description": "<mainText><stats><attention> 55</attention> Attack Damage<br><attention> 21</attention> Lethality</stats><br><br> <active>Active -</active> <active>Soul Anchor</active>  (0s)<br>Mark your current location. After 5 seconds, return to that location. You may recast at any point during <active>Soul Anchor's</active> duration to return to your marked location early.</mainText>",
         "active": true,
         "inStore": true,
         "from": [],
@@ -17938,7 +17940,7 @@
     {
         "id": 447115,
         "name": "Regicide",
-        "description": "<mainText><stats><attention> 60</attention> Attack Damage<br><attention> 0</attention> Lethality<br><attention> 8%</attention> Move Speed</stats><br><br><passive>End the Line</passive><br>At the start of each round, declare the lowest health enemy the <keywordMajor>Regent</keywordMajor>. Getting a takedown on the <keywordMajor>Regent</keywordMajor> grants you a permanent <physicalDamage>10 Attack Damage</physicalDamage> and refreshes your Ultimate's Cooldown.</mainText>",
+        "description": "<mainText><stats><attention> 60</attention> Attack Damage<br><attention> 15</attention> Lethality<br><attention> 8%</attention> Move Speed</stats><br><br><passive>End the Line</passive><br>At the start of each round, declare the lowest health enemy the <keywordMajor>Regent</keywordMajor>. Getting a takedown on the <keywordMajor>Regent</keywordMajor> grants you a permanent <physicalDamage>10 Attack Damage</physicalDamage> and refreshes your Ultimate's Cooldown.</mainText>",
         "active": false,
         "inStore": true,
         "from": [],
