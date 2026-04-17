@@ -38,6 +38,17 @@ This repository is only for diff checking use. All valid logs are reserved. Once
 	</thead>
 	<tbody>
 		<tr>
+			<td style="text-align:center;">2026-04-17 11-21-40</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>
+				CDragon: <br>
+					<ul style="list-style-type: disc; margin-left: 20px;">
+						<li>Latest: Within-patch change</li>
+						<li>PBE: 16.9.765.9681 -> 16.9.766.4840</li>
+					</ul>
+			</td>
+		</tr>
+		<tr>
 			<td style="text-align:center;">2026-04-16 05-29-17</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
