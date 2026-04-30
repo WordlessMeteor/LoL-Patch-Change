@@ -38,6 +38,18 @@ This repository is only for diff checking use. All valid logs are reserved. Once
 	</thead>
 	<tbody>
 		<tr>
+			<td style="text-align:center;">2026-04-30 12-11-27</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>
+				CDragon: <br>
+					<ul style="list-style-type: disc; margin-left: 20px;">
+						<li>Latest: 16.8.766.8562 -> 16.9.771.8383</li>
+						<li>PBE: 16.10.771.1448 -> 16.10.771.7210</li>
+					</ul>
+				DDragon: 16.8.1 -> 16.9.1
+			</td>
+		</tr>
+		<tr>
 			<td style="text-align:center;">2026-04-29 10-17-42</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
