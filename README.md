@@ -38,6 +38,18 @@ This repository is only for diff checking use. All valid logs are reserved. Once
 	</thead>
 	<tbody>
 		<tr>
+			<td style="text-align:center;">2026-05-14 13-02-55</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>
+				CDragon: <br>
+					<ul style="list-style-type: disc; margin-left: 20px;">
+						<li>Latest: 16.10.776.5552 -> 16.11.781.1789</li>
+						<li>PBE: 16.12.780.7756 -> 16.12.781.3383</li>
+					</ul>
+				DDragon: 16.10.1 -> 16.11.1
+			</td>
+		</tr>
+		<tr>
 			<td style="text-align:center;">2026-05-28 05-01-30</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
@@ -47,7 +59,6 @@ This repository is only for diff checking use. All valid logs are reserved. Once
 					</ul>
 			</td>
 		</tr>
-		<tr>
 		<tr>
 			<td style="text-align:center;">2026-05-27 13-29-56</td>
 			<td style="text-align:center;">1/2/1</td>
