@@ -38,6 +38,27 @@ This repository is only for diff checking use. All valid logs are reserved. Once
 	</thead>
 	<tbody>
 		<tr>
+			<td style="text-align:center;">2026-06-16 08-52-36</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>
+				CDragon: <br>
+					<ul style="list-style-type: disc; margin-left: 20px;">
+						<li>Latest: Within-patch change</li>
+						<li>PBE: 16.13.787.2337 -> 16.13.787.7363</li>
+					</ul>
+			</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2026-06-15 12-11-53</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>No changes</td>
+		</tr>
+		<tr>
+			<td style="text-align:center;">2026-06-14 11-05-58</td>
+			<td style="text-align:center;">1/2/1</td>
+			<td>No changes</td>
+		</tr>
+		<tr>
 			<td style="text-align:center;">2026-06-13 11-58-42</td>
 			<td style="text-align:center;">1/2/1</td>
 			<td>
