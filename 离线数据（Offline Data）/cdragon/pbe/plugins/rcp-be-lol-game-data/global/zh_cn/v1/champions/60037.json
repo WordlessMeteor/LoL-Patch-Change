@@ -737,7 +737,7 @@
         "abilityIconPath": "/lol-game-data/assets/ASSETS/UX/Jade/S3Icons/SameSized/Sona_PowerChordCharged.project_jade.png",
         "abilityVideoPath": "champion-abilities/60037/ability_60037_P1.webm",
         "abilityVideoImagePath": "champion-abilities/60037/ability_60037_P1.jpg",
-        "description": "施放3次技能后，娑娜的下一次攻击造成额外魔法伤害并降低她的目标在若干秒内造成的伤害。"
+        "description": "Spell_SonaPassive_Jade_Summary"
     },
     "spells": [
         {
@@ -1199,7 +1199,7 @@
             "cost": "@Cost@ @AbilityResourceName@",
             "cooldown": "@Cooldown@秒 %i:cooldown%",
             "description": "娑娜弹奏终极和弦，迫使敌方英雄开始跳舞并对其造成魔法伤害。",
-            "dynamicDescription": "弹奏出无可抗拒的和弦，造成<magicDamage>@TotalDamage@魔法伤害</magicDamage>并迫使敌方英雄<status>跳舞</status>1.5秒。@SpellModifierDescriptionAppend@",
+            "dynamicDescription": "Spell_SonaR_Jade_Tooltip@SpellModifierDescriptionAppend@",
             "range": [
                 900.0,
                 900.0,

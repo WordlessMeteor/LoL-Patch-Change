@@ -19296,7 +19296,7 @@
         "trait_id": "DA_18_Summoner",
         "set": "TFTSet18",
         "icon_path": "/lol-game-data/assets/ASSETS/UX/TraitIcons/Trait_Icon_18_Summoner.TFT_Set18.png",
-        "tooltip_text": "【召唤师】们会以不同的方式强化其召唤物。<br><br>【约里克】：+@HealthMult*100@%生命值<br>【阿兹尔】：+@DamageMult*100@%伤害<br>【锋喙鸟】：+@DamageMult*100@%伤害<br>【婕拉】：+@NumExtraAttacks@植物攻击次数<br><row>(@MinUnits@)强化召唤物</row><br><row>(@MinUnits@)每种效果加成提升50%</row>",
+        "tooltip_text": "【召唤师】们会以不同的方式强化其召唤物。<br><br>【约里克】：+@HealthMult*100@%生命值<br>【阿兹尔】：+@AzirDamageMult*100@%伤害<br>【锋喙鸟】：+@DamageMult*100@%伤害<br>【婕拉】：+@NumExtraAttacks@植物攻击次数<br><row>(@MinUnits@)强化召唤物</row><br><row>(@MinUnits@)每种效果加成提升50%</row>",
         "innate_trait_sets": [
             {
                 "constants": [
@@ -19340,7 +19340,7 @@
         "trait_id": "DA_18_Vanguard",
         "set": "TFTSet18",
         "icon_path": "/lol-game-data/assets/ASSETS/UX/TraitIcons/Trait_Icon_18_Vanguard.TFT_Set18.png",
-        "tooltip_text": "战斗开始时及降至@HealthThreshold*100@%<colorHealth>生命值</colorHealth>时，【重装战士】们获得持续@ShieldDuration@秒的最大生命值护盾。<br><row>(@MinUnits@) @MaxHealthShield*100@%最大生命值</row><br><row>(@MinUnits@) @MaxHealthShield*100@%最大生命值</row><br><row>(@MinUnits@) @MaxHealthShield*100@%最大生命值。在拥有护盾时获得@DurabilityIncrease*100@%伤害减免。</row>",
+        "tooltip_text": "战斗开始时及降至@HealthThreshold*100@%生命值时，【重装战士】们获得持续@ShieldDuration@秒的最大生命值护盾。<br><row>(@MinUnits@) @MaxHealthShield*100@%最大生命值</row><br><row>(@MinUnits@) @MaxHealthShield*100@%最大生命值</row><br><row>(@MinUnits@) @MaxHealthShield*100@%最大生命值。在拥有护盾时获得@DurabilityIncrease*100@%伤害减免。</row>",
         "innate_trait_sets": [
             {
                 "constants": [
