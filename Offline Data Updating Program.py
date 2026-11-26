@@ -332,12 +332,12 @@ while True:
             source, status, session = requestUrl("GET", jsonUrl, session)
             reserve_folder: bool = True #标记是否保留该文件夹，也就是是否将这个文件夹从待删除的文件夹列表中移除（Marks whether to reserve this folder, namely remove the folder from the list of folders to delete）
             if status != 200:
-                if status == -1:
-                    logPrint("文件夹%s信息获取失败！请等待程序结束后手动比对。\nFolder %s information check failed! Please check manually after the program execution finishes." %(url, url), write_time = False)
-                    error_folders.append(url)
-                elif status == 404:
+                if status == 404:
                     logPrint("文件夹%s不存在！\nFolder %s not found!" %(url, url), write_time = False)
                     reserve_folder = False
+                else:
+                    logPrint("文件夹%s信息获取失败！请等待程序结束后手动比对。\nFolder %s information check failed! Please check manually after the program execution finishes." %(url, url), write_time = False)
+                    error_folders.append(url)
             if reserve_folder:
                 for i in range(len(folder.split("/")) - 1): #因为前面在创建待删除的文件夹列表时，所有文件夹最后一定是以斜杠结尾的，所以对文件夹按斜杠分割后，最后会有一个空字符串。跳过最后一个元素以忽略这个空字符串（Because previously when `folders_to_delete` is created, all folders must end with a slash, so after splitting the folder string by slash, there will be an empty string at the end of the list. Skip the final element, namely this empty string）
                     localdir_iter: str = os.path.join(local_prefix, "/".join(folder.split("/")[:i + 1])).replace("\\", "/") + "/"
@@ -385,12 +385,12 @@ while True:
                 source, status, session = requestUrl("GET", urljoin(url, name), session)
                 reserve_file: bool = True #标记是否保留该文件，也就是是否将这个文件从待删除的文件列表中移除（Marks whether to reserve this file, namely remove the file from the list of files to delete）
                 if status != 200:
-                    if status == -1: #比对失败的文件不应删除（Files that fail to be checked shouldn't be deleted）
-                        logPrint("文件%s比对失败！请等待程序结束后手动比对。\nFile %s check failed! Please check manually after the program execution finishes." %(urljoin(url, name), urljoin(url, name)), write_time = False)
-                        error_files.append(urljoin(url, name))
-                    elif status == 404:
+                    if status == 404:
                         logPrint("文件%s不存在！\nFile %s not found!" %(urljoin(url, name), urljoin(url, name)), write_time = False)
                         reserve_file = False
+                    else: #比对失败的文件不应删除（Files that fail to be checked shouldn't be deleted）
+                        logPrint("文件%s比对失败！请等待程序结束后手动比对。\nFile %s check failed! Please check manually after the program execution finishes." %(urljoin(url, name), urljoin(url, name)), write_time = False)
+                        error_files.append(urljoin(url, name))
                     continue
                 if reserve_file and file_path in files_to_delete:
                     files_to_delete.remove(file_path)
@@ -530,10 +530,10 @@ while True:
         update = added = False
         source, status, session = requestUrl("GET", version_url)
         if status != 200:
-            if status == -1:
-                logPrint("文件%s比对失败！请等待程序结束后手动比对。\nFile %s check failed! Please check manually after the program execution finishes." %(version_url, version_url), write_time = False)
-            elif status == 404:
+            if status == 404:
                 logPrint("文件%s不存在！请等待程序结束后手动比对。\nFile %s not found! Please check manually after the program execution finishes." %(version_url, version_url), write_time = False)
+            else:
+                logPrint("文件%s比对失败！请等待程序结束后手动比对。\nFile %s check failed! Please check manually after the program execution finishes." %(version_url, version_url), write_time = False)
             error_files.append(version_url)
             continue
         src_json: Any = source.json()
